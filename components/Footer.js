@@ -54,23 +54,11 @@ function Footer() {
             <span className="mr-1 text-white">:</span>
             <p className="text-xs text-white md:text-base">
               {siteConfig.footer.tags.map((item, index) => {
-                if (index == 0 || index == 1) {
-                  return (
-                    <a
-                      href={siteConfig.url}
-                      className="pr-2"
-                      key={`tags-${index}`}
-                    >
-                      {item},
-                    </a>
-                  )
-                } else {
-                  return (
-                    <span className="pr-2" key={`tags-${index}`}>
-                      {item},
-                    </span>
-                  )
-                }
+                return (
+                  <span className="pr-2" key={`tags-${index}`}>
+                    {item},
+                  </span>
+                )
               })}
             </p>
           </span>
