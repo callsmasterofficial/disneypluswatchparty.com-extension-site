@@ -20,7 +20,7 @@ export default function CustomAccordion({ item, show, toggleFunc }) {
           <div
             className=" my-2 p-4 font-semibold text-white"
             dangerouslySetInnerHTML={{
-              __html: siteConfig.section.first.html,
+              __html: item.answer,
             }}
           ></div>
         )}
