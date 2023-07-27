@@ -22,7 +22,7 @@ export default function CustomAccordion({ item, show, toggleFunc }) {
             dangerouslySetInnerHTML={{
               __html: item.answer,
             }}
-          ></div>
+          />
         )}
       </div>
     </>
