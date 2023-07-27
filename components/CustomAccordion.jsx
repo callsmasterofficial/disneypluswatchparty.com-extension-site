@@ -17,9 +17,12 @@ export default function CustomAccordion({ item, show, toggleFunc }) {
         </div>
 
         {show === item.id && (
-          <div className=" my-2 p-4 font-semibold text-white">
-            {item.answer}
-          </div>
+          <div
+            className=" my-2 p-4 font-semibold text-white"
+            dangerouslySetInnerHTML={{
+              __html: siteConfig.section.first.html,
+            }}
+          ></div>
         )}
       </div>
     </>
