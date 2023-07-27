@@ -6,7 +6,7 @@ import InstallButton from '../components/InstallButton'
 function Navbar() {
   return (
     <div className="nav-container flex w-screen items-center justify-evenly p-3">
-      <div className="second  m-auto w-[80%] items-center justify-between md:flex">
+      <div className="second m-auto w-[80%] items-center justify-between md:flex">
         <Link href="/">
           <div className="logo-box md:m-2 md:cursor-pointer ">
             <img
