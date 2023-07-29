@@ -24,7 +24,7 @@ function Blogimg({ data }) {
                   <img
                     className="w-[680px]  cursor-pointer object-contain"
                     src={item.featured_image}
-                    alt=""
+                    alt="image"
                   />
                 </div>
 
