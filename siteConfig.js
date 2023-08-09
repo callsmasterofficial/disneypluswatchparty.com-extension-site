@@ -1,6 +1,6 @@
 const config = {
   siteName: 'Disney Plus Watch Party',
-  url: 'https://www.disneypluswatchparty.com',
+  url: 'https://www.disneypluswatchparty.com/',
   blogUrl: '/blog',
   siteId: '62a84e4992c68b0d2f1e407c',
   extLink: {
@@ -16,10 +16,10 @@ const config = {
       heading:
         'Stream Disney Plus with friends and family from different locations',
       html: `
-      More precisely, <b><u><a href="/">Disney Plus Watch Party</a></u></b> is a highly interactive and user-friendly browser extension that revolutionizes the way friends and family watch and enjoy content together. With its Group Chat feature, users can easily communicate and share their thoughts, reactions, and laughter in real-time while streaming videos. This social element adds a sense of togetherness and excitement, making the streaming experience more immersive and memorable.<br/><br/>
-      The extension's HD Streaming feature takes the movie-watching experience to the next level by providing better pictures in HD quality. With crisp visuals & vibrant colors, users can feel the real movie theater-like experience. Which will enhance the overall enjoyment of the content.Moreover, Disney Party offers Profile Customization, allowing users to express their personalities and individuality through avatars and usernames. This personal touch fosters a sense of ownership and connection to the watch party, making it feel more personalized and special.<br/><br/>
-      Another significant aspect of Disney Party is the Control Over Watch Party feature. Participants have the flexibility to choose whether the host has sole control over the streaming settings or if it's a collaborative effort. This inclusiveness allows everyone to contribute to the viewing experience, leading to a more democratic and enjoyable watch party.By bringing people together, Disney Party creates a platform for shared moments, discussions, and bonding opportunities. It bridges the gap between distant friends and family, enabling them to connect virtually and create lasting memories. Whether a casual movie night or a special occasion, Disney Party enhances the joy of watching content together, making it a favorite tool for shared entertainment experiences.
+      More precisely, Disney Plus is a highly interactive and user-friendly browser extension that revolutionizes the way friends and family watch and enjoy content together. With its Group Chat feature, users can easily communicate and share their thoughts, reactions, and laughter in real-time while streaming videos. This social element adds a sense of togetherness and excitement, making the streaming experience more immersive and memorable.<br/><br/>
+      The extension's HD Streaming feature takes the movie-watching experience to the next level by providing better pictures in HD quality. With crisp visuals & vibrant colors, users can feel the real movie theater-like experience. Which will enhance the overall enjoyment of the content.Moreover, <b><u><a href="/">Disney Plus Watch Party</a></u></b> offers Profile Customization, allowing users to express their personalities and individuality through avatars and usernames. This personal touch fosters a sense of ownership and connection to the watch party, making it feel more personalized and special.<br/><br/>
       `,
+      para: ` Another significant aspect of Disney Party is the Control Over Watch Party feature. Participants have the flexibility to choose whether the host has sole control over the streaming settings or if it's a collaborative effort. This inclusiveness allows everyone to contribute to the viewing experience, leading to a more democratic and enjoyable watch party.By bringing people together, Disney Party creates a platform for shared moments, discussions, and bonding opportunities. It bridges the gap between distant friends and family, enabling them to connect virtually and create lasting memories. Whether a casual movie night or a special occasion, Disney Party enhances the joy of watching content together, making it a favorite tool for shared entertainment experiences.`,
       video:
         'https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4',
     },
