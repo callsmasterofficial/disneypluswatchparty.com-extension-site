@@ -1,0 +1,152 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Tambahkan", "free": "Ini gratis" },
+    "navBarHeading": "sekarang tersedia di Google Chrome, Microsoft Edge dan Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "Streaming Disney Plus dengan teman dan keluarga dari lokasi berbeda",
+      "html": "Lebih tepatnya, Disney Plus adalah ekstensi browser yang sangat interaktif dan ramah pengguna yang merevolusi cara teman dan keluarga menonton dan menikmati konten bersama. Dengan fitur Obrolan Grup, pengguna dapat dengan mudah berkomunikasi dan berbagi pemikiran, reaksi, dan tawa secara real-time saat streaming video. Elemen sosial ini menambah rasa kebersamaan dan kegembiraan, menjadikan pengalaman streaming lebih imersif dan berkesan.<br/><br/>Fitur Streaming HD pada ekstensi ini membawa pengalaman menonton film ke level berikutnya dengan memberikan gambar yang lebih baik dalam kualitas HD . Dengan visual yang tajam",
+      "para": "Aspek penting lainnya dari Disney Party adalah fitur Control Over Watch Party. Peserta memiliki fleksibilitas untuk memilih apakah tuan rumah memiliki kendali penuh atas pengaturan streaming atau apakah ini merupakan upaya kolaboratif. Inklusivitas ini memungkinkan setiap orang berkontribusi pada pengalaman menonton, sehingga menghasilkan pesta menonton yang lebih demokratis dan menyenangkan. Dengan menyatukan orang-orang, Disney Party menciptakan platform untuk momen bersama, diskusi, dan peluang untuk menjalin ikatan. Ini menjembatani kesenjangan antara teman dan keluarga yang jauh, memungkinkan mereka terhubung secara virtual dan menciptakan kenangan abadi. Baik saat menonton film santai atau acara khusus, Disney Party meningkatkan kegembiraan menonton konten bersama, menjadikannya alat favorit untuk pengalaman hiburan bersama.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "Cara menggunakan Disney Watch Party",
+      "subHeading": "Anda dapat memulai ekstensi dalam beberapa langkah: –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Instal ekstensi",
+          "answer": "Pertama-tama, pengguna diharuskan memasang ekstensi dengan <a href=\"https://chrome.google.com/webstore/detail/disney-plus-watch-party/nkciggljdfnkpcdngdohlpelojmklhin\" target=\"_blank\" ><u >Klik di sini</u></a>. Untuk melakukan ini, Anda perlu memastikan bahwa Anda memiliki laptop atau PC Windows, macOS, atau Chromebook. Selain itu, pastikan juga Anda menggunakan browser Google Chrome atau Microsoft Edge."
+        },
+        {
+          "id": "2",
+          "question": "Sematkan ekstensi ke Toolbar",
+          "answer": "Setelah memasang ekstensi, Anda harus mengeklik ikon ekstensi di bilah alat browser Anda. Setelah ini, klik ikon pin untuk menyematkan Disney plus Watch Party Extension ke toolbar."
+        },
+        {
+          "id": "3",
+          "question": "Masuk ke Disney Plus",
+          "answer": "Semua pengguna harus memiliki langganan Disney Plus untuk menggunakan ekstensi ini. Selain itu, untuk membuat atau bergabung dengan pesta Disney, Anda harus masuk ke akun Disney Anda."
+        },
+        {
+          "id": "4",
+          "question": "Buat Pesta Disney",
+          "answer": "Buat pesta virtual Anda melalui Disney Plus Watch Party dalam beberapa klik. Yang harus Anda lakukan hanyalah masuk ke Disney dan memutar video untuk pesta virtual Anda. Setelah ini, Anda harus mengklik tombol “DP” yang ada di toolbar Anda. Kemudian, pilih “Mulai Pesta” untuk membuat tautan pesta virtual Anda. Silakan bagikan tautan ini kepada teman-teman untuk mengundang mereka."
+        },
+        {
+          "id": "5",
+          "question": "Bergabunglah dengan Pesta Disney",
+          "answer": "Instal ekstensi, masuk ke Akun Disney plus, dan klik URL yang dibagikan oleh teman Anda. URL ini secara otomatis akan menghubungkan Anda ke pesta menonton."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Fitur Pesta Tontonan Disney Plus",
+      "subHeading": "Ekstensi ini hadir dengan berbagai fitur yang membuat Pesta Disney Anda lebih seru: –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Mengobrol dengan peserta lain",
+          "answer": "Ekstensi Disney Plus Watch Party hadir dengan fitur obrolan yang memungkinkan Anda mengobrol dengan peserta Pesta Disney lainnya. Oleh karena itu, saat streaming acara favorit Anda, Anda juga dapat mengobrol dengan teman-teman Anda."
+        },
+        {
+          "id": "t2",
+          "question": "Akses di seluruh dunia",
+          "answer": "Di mana pun Anda berada, Anda dapat memasang ekstensi dan menikmati malam menonton film bersama orang yang Anda cintai."
+        },
+        {
+          "id": "t3",
+          "question": "Streaming dalam HD",
+          "answer": "Untuk meningkatkan pengalaman streaming Anda, ekstensi Disney Plus Watch Party mendukung kualitas HD. Oleh karena itu, Anda akan dapat menonton acara favorit bersama teman-teman dalam kualitas HD dengan streaming cepat."
+        },
+        {
+          "id": "t4",
+          "question": "Kustomisasi Profil",
+          "answer": "Anda dapat membuat dan menyesuaikan profil Anda. Ekstensi Disney Plus Watch Party hadir dengan berbagai avatar lucu yang dapat Anda tempatkan sebagai ikon profil Anda. Selain itu, Anda juga dapat mengatur nama pengguna pilihan Anda."
+        },
+        {
+          "id": "t5",
+          "question": "Kontrol pesta arloji",
+          "answer": "Sebagai tuan rumah, Anda dapat mengontrol pesta virtual dengan mengaktifkan tombol “Hanya saya yang memiliki kendali”. Dengan fitur ini, Anda dapat mengelola dan mengedit pengaturan putar, jeda, dan volume video. Selain itu, Anda juga dapat meneruskan dan memundurkan video."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Apa itu Pesta Tontonan Disney Plus?",
+        "answer": "Disney Plus Watch Party adalah ekstensi gratis di mana semua pelanggan Disney Plus dapat menonton acara dan video yang disinkronkan dengan orang-orang di lokasi berbeda. Untuk ini, yang perlu Anda lakukan hanyalah membuat atau bergabung dengan pesta Disney virtual dengan orang-orang secara online dan bersenang-senang."
+      },
+      {
+        "id": "f2",
+        "question": "Bagaimana cara memasang ekstensi?",
+        "answer": "Anda dapat menginstal ekstensi dengan mengklik di sini. Setelah mengklik di sini, Anda harus memilih tombol “Tambahkan ke Chrome” dan “Tambahkan Ekstensi”. Oleh karena itu, ekstensi akan dipasang dalam beberapa detik."
+      },
+      {
+        "id": "f3",
+        "question": "Bagaimana cara menyematkan ekstensi ke toolbar browser?",
+        "answer": "Anda dapat menyematkan ekstensi ke toolbar dengan mengikuti langkah-langkah di bawah ini: –",
+        "p1": "Pertama, Anda perlu mengklik ikon “Ekstensi” yang ada di toolbar browser Anda.",
+        "p2": "Setelah ini, cari ekstensi Disney Plus Watch Party dan ketuk tombol pin untuk menambahkan ekstensi ke browser.",
+        "p3": "null",
+        "p4": "null",
+        "p5": "null"
+      },
+      {
+        "id": "f4",
+        "question": "Bagaimana cara membuat pesta menonton?",
+        "answer": "Anda dapat membuat pesta menonton hanya dengan mengikuti langkah-langkah di bawah ini: –",
+        "p1": "Instal ekstensi Pesta Disney.",
+        "p2": "Masuk ke akun Disney Plus Anda dan pilih pertunjukan.",
+        "p3": "Putar ikon video dan DP pada toolbar untuk membuka jendela “Buat Pesta”.",
+        "p4": "Di sini, Anda harus memilih opsi “Mulai Pesta” untuk membuat URL.",
+        "p5": "Terakhir, salin URL-nya dan bagikan dengan orang lain."
+      },
+      {
+        "id": "f5",
+        "question": "Bagaimana cara bergabung dengan Pesta Tontonan Disney Plus?",
+        "answer": "Anda dapat bergabung dengan pesta dengan tautan menonton pesta. Namun, pertama-tama, Anda perlu menginstal ekstensi lalu masuk ke akun Disney Plus. Setelah masuk ke ekstensi, Anda harus mengeklik tautan Pesta Disney yang dibagikan kepada Anda oleh teman Anda."
+      },
+      {
+        "id": "f6",
+        "question": "Apa saja persyaratan untuk menggunakan Disney Plus Watch Party?",
+        "answer": "Anda harus memenuhi persyaratan di bawah ini untuk menggunakan ekstensi: –",
+        "p1": "Anda harus memiliki Chromebook, laptop atau PC Windows atau macOS.",
+        "p2": "Ekstensi dapat diinstal melalui browser Google Chrome atau Microsoft Edge.",
+        "p3": "Pastikan Anda memiliki koneksi internet yang stabil.",
+        "p4": "Harap dicatat bahwa setiap orang yang ingin bergabung dalam pesta menonton harus hadir di negara yang sama. Namun, jika ada anggota yang berada di negara lain, mereka dapat menggunakan VPN untuk mengubah lokasinya.",
+        "p5": "null"
+      },
+      {
+        "id": "f7",
+        "question": "Berapa banyak orang yang bisa bergabung dalam sebuah pesta?",
+        "answer": "Tidak ada batasan jumlah orang yang dapat bergabung dalam partai tersebut. Jadi, Anda bisa mengundang orang sebanyak yang Anda mau."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Beritahu kami.",
+    "anyQuestions": "Ada pertanyaan? Kunjungi halaman dukungan kami",
+    "blog": "Blog",
+    "privacy": "Pribadi",
+    "popularSearches": "Pencarian Populer",
+    "disclaimer": "Penafian",
+    "disclaimerContent": "Disney Plus adalah merek dagang dari Perusahaan Walt Disney. Situs ini",
+    "footerTags": [
+      "Pesta Disney",
+      "Pesta Tontonan Disney Plus",
+      "Pesta Disney Plus",
+      "Tonton Pesta Disney Plus",
+      "Cara mengadakan Pesta Tontonan di Disney Plus",
+      "Pesta Tontonan Disney",
+      "Tonton Pesta di Disney Plus",
+      "Cara Menyelenggarakan Pesta Tontonan Disney Plus"
+    ]
+  }
+}

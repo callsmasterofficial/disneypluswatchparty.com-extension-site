@@ -1,0 +1,152 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Pievienot", "free": "Tas ir bezmaksas" },
+    "navBarHeading": "tagad ir pieejams pārlūkprogrammās Google Chrome, Microsoft Edge un Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "Straumējiet Disney Plus ar draugiem un ģimeni no dažādām vietām",
+      "html": "Precīzāk, Disney Plus ir ļoti interaktīvs un lietotājam draudzīgs pārlūkprogrammas paplašinājums, kas maina veidu, kā draugi un ģimene kopā skatās un bauda saturu. Izmantojot grupas tērzēšanas funkciju, lietotāji var viegli sazināties un dalīties savās domās, reakcijās un smieklos reāllaikā, straumējot videoklipus. Šis sociālais elements rada kopības sajūtu un aizrautību, padarot straumēšanas pieredzi iekļaujošāku un neaizmirstamāku.<br/><br/>Paplašinājuma HD straumēšanas funkcija paceļ filmu skatīšanās pieredzi nākamajā līmenī, nodrošinot labākus attēlus HD kvalitātē. . Ar izteiksmīgiem vizuāliem attēliem",
+      "para": "Vēl viens nozīmīgs Disney Party aspekts ir funkcija Control Over Watch Party. Dalībnieki var elastīgi izvēlēties, vai straumēšanas iestatījumus var kontrolēt tikai saimnieks, vai arī tas ir kopīgs darbs. Šī iekļautība ļauj ikvienam dot savu ieguldījumu skatīšanās pieredzē, radot demokrātiskāku un patīkamāku skatīšanās ballīti. Sapulcinot cilvēkus, Disneja ballīte rada platformu kopīgiem mirkļiem, diskusijām un savienošanās iespējām. Tas mazina plaisu starp attāliem draugiem un ģimeni, ļaujot viņiem sazināties virtuāli un radīt paliekošas atmiņas. Neatkarīgi no tā, vai tas ir ikdienišķs filmu vakars vai īpašs notikums, Disney Party uzlabo satura skatīšanās prieku, padarot to par iecienītāko rīku kopīgai izklaides pieredzei.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "Kā izmantot Disney Watch Party",
+      "subHeading": "Varat sākt darbu ar paplašinājumu, veicot dažas darbības: -",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Instalējiet paplašinājumu",
+          "answer": "Pirmkārt, lietotājiem ir jāinstalē paplašinājums līdz <a href=\"https://chrome.google.com/webstore/detail/disney-plus-watch-party/nkciggljdfnkpcdngdohlpelojmklhin\" target=\"_blank\" ><u >Noklikšķinot šeit</u></a>. Lai to izdarītu, jums ir jānodrošina Windows, macOS vai Chromebook klēpjdators vai personālais dators. Turklāt pārliecinieties, vai izmantojat pārlūkprogrammu Google Chrome vai Microsoft Edge."
+        },
+        {
+          "id": "2",
+          "question": "Piespraudiet paplašinājumu rīkjoslai",
+          "answer": "Pēc paplašinājuma instalēšanas pārlūkprogrammas rīkjoslā noklikšķiniet uz paplašinājuma ikonas. Pēc tam noklikšķiniet uz piespraudes ikonas, lai rīkjoslai piespraustu paplašinājumu Disney plus Watch Party."
+        },
+        {
+          "id": "3",
+          "question": "Pierakstieties pakalpojumā Disney Plus",
+          "answer": "Lai izmantotu paplašinājumu, visiem lietotājiem ir jābūt Disney Plus abonementam. Turklāt, lai izveidotu Disney ballīti vai pievienotos tai, jums ir jāpierakstās savā Disney kontā."
+        },
+        {
+          "id": "4",
+          "question": "Izveidojiet Disneja ballīti",
+          "answer": "Izveidojiet savu virtuālo ballīti, izmantojot Disney Plus Watch Party, veicot dažus klikšķus. Viss, kas jums jādara, ir tikai pierakstīties pakalpojumā Disney un atskaņot videoklipu savai virtuālajai ballītei. Pēc tam rīkjoslā jānoklikšķina uz pogas “DP”. Pēc tam atlasiet “Sākt ballīti”, lai izveidotu virtuālās ballītes saiti. Lūdzu, kopīgojiet šo saiti ar draugiem, lai uzaicinātu viņus."
+        },
+        {
+          "id": "5",
+          "question": "Pievienojieties Disneja ballītei",
+          "answer": "Instalējiet paplašinājumu, piesakieties Disney plus kontā un noklikšķiniet uz jūsu drauga kopīgotā URL. Šis URL automātiski savienos jūs ar skatīšanās ballīti."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Disney Plus Watch Party funkcijas",
+      "subHeading": "Paplašinājumam ir dažādas funkcijas, kas padara jūsu Disneja ballīti aizraujošāku: -",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Tērzējiet ar citiem dalībniekiem",
+          "answer": "Disney Plus Watch Party paplašinājumam ir tērzēšanas funkcijas, kas ļauj tērzēt ar citiem Disney Party dalībniekiem. Tādējādi, straumējot iecienītākās pārraides, varat arī tērzēt ar draugiem."
+        },
+        {
+          "id": "t2",
+          "question": "Piekļuve visā pasaulē",
+          "answer": "Neatkarīgi no tā, kur atrodaties, varat instalēt paplašinājumu un pavadīt jautrus filmu vakarus ar saviem mīļajiem."
+        },
+        {
+          "id": "t3",
+          "question": "Straumējiet HD kvalitātē",
+          "answer": "Lai uzlabotu straumēšanas pieredzi, Disney Plus Watch Party paplašinājums atbalsta HD kvalitāti. Līdz ar to kopā ar draugiem varēsiet skatīties savas iecienītākās pārraides HD kvalitātē ar ātru straumēšanu."
+        },
+        {
+          "id": "t4",
+          "question": "Profila pielāgošana",
+          "answer": "Jūs varat izveidot un pielāgot savu profilu. Disney Plus Watch Party paplašinājumam ir dažādi smieklīgi iemiesojumi, kurus varat ievietot kā sava profila ikonu. Turklāt jūs varat arī iestatīt lietotājvārdu pēc savas izvēles."
+        },
+        {
+          "id": "t5",
+          "question": "Kontrolējiet pulksteņu ballīti",
+          "answer": "Kā saimniekdators varat kontrolēt virtuālo ballīti, iespējojot pogu “Tikai man ir kontrole”. Izmantojot šo funkciju, varēsit pārvaldīt un rediģēt videoklipa atskaņošanas, pauzes un skaļuma iestatījumus. Turklāt varat arī pārtīt video uz priekšu un attīt atpakaļ."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "bieži uzdotie jautājumi",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Kas ir Disney Plus skatīšanās ballīte?",
+        "answer": "Disney Plus Watch Party ir bezmaksas paplašinājums, ar kura palīdzību visi Disney Plus abonenti var skatīties pārraides un videoklipus, kas tiek sinhronizēti ar cilvēkiem dažādās vietās. Lai to izdarītu, jums ir tikai jāizveido vai jāpievienojas virtuālajām Disneja ballītēm ar cilvēkiem tiešsaistē un jāizklaidējas."
+      },
+      {
+        "id": "f2",
+        "question": "Kā instalēt paplašinājumu?",
+        "answer": "Paplašinājumu var instalēt, noklikšķinot šeit. Pēc noklikšķināšanas šeit jums vajadzētu atlasīt pogas “Pievienot pārlūkam Chrome” un “Pievienot paplašinājumu”. Tādējādi paplašinājums tiks instalēts dažu sekunžu laikā."
+      },
+      {
+        "id": "f3",
+        "question": "Kā es varu piespraust paplašinājumu pārlūkprogrammas rīkjoslai?",
+        "answer": "Varat piespraust paplašinājumu rīkjoslai, veicot tālāk norādītās darbības.",
+        "p1": "Pirmkārt, pārlūkprogrammas rīkjoslā ir jānoklikšķina uz ikonas “Paplašinājumi”.",
+        "p2": "Pēc tam meklējiet paplašinājumu Disney Plus Watch Party un pieskarieties piespraudes pogai, lai pievienotu paplašinājumu pārlūkprogrammai.",
+        "p3": "null",
+        "p4": "null",
+        "p5": "null"
+      },
+      {
+        "id": "f4",
+        "question": "Kā izveidot pulksteņu ballīti?",
+        "answer": "Varat izveidot pulksteņu ballīti, vienkārši veicot tālāk norādītās darbības.",
+        "p1": "Instalējiet paplašinājumu Disney Party.",
+        "p2": "Piesakieties savā Disney Plus kontā un atlasiet izrādi.",
+        "p3": "Atskaņojiet video un DP ikonu rīkjoslā, lai atvērtu logu “Izveidot ballīti”.",
+        "p4": "Šeit jums ir jāatlasa opcija “Sākt ballīti”, lai izveidotu URL.",
+        "p5": "Beigās nokopējiet URL un kopīgojiet to ar cilvēkiem."
+      },
+      {
+        "id": "f5",
+        "question": "Kā pievienoties Disney Plus skatīšanās ballītei?",
+        "answer": "Jūs varat pievienoties ballītei, izmantojot saiti skatīties ballīti. Tomēr vispirms ir jāinstalē paplašinājums un pēc tam jāpierakstās Disney Plus kontā. Pēc pierakstīšanās paplašinājumā jums jānoklikšķina uz saites Disney Party, ko ar jums kopīgojis jūsu draugs."
+      },
+      {
+        "id": "f6",
+        "question": "Kādas ir prasības, lai izmantotu Disney Plus Watch Party?",
+        "answer": "Lai izmantotu paplašinājumu, jums ir jāizpilda tālāk norādītās prasības: -",
+        "p1": "Jums ir jābūt Chromebook datoram, Windows vai macOS klēpjdatoram vai personālajam datoram.",
+        "p2": "Paplašinājumu var instalēt, izmantojot pārlūkprogrammu Google Chrome vai Microsoft Edge.",
+        "p3": "Pārliecinieties, vai jums ir stabils interneta savienojums.",
+        "p4": "Lūdzu, ņemiet vērā, ka visiem, kas vēlas pievienoties pulksteņu ballītei, ir jāatrodas tajā pašā valstī. Tomēr, ja kāds dalībnieks atrodas citā valstī, viņš var izmantot VPN, lai mainītu savu atrašanās vietu.",
+        "p5": "null"
+      },
+      {
+        "id": "f7",
+        "question": "Cik cilvēku var pievienoties partijai?",
+        "answer": "Cilvēku skaits, kas var pievienoties partijai, nav ierobežots. Tādējādi jūs varat uzaicināt tik daudz cilvēku, cik vēlaties."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Paziņojiet mums.",
+    "anyQuestions": "Vai jums ir jautājumi? Apmeklējiet mūsu atbalsta lapu",
+    "blog": "Emuārs",
+    "privacy": "Privātums",
+    "popularSearches": "Populāri meklējumi",
+    "disclaimer": "Atruna",
+    "disclaimerContent": "Disney Plus ir Walt Disney Company preču zīme. Šī vietne",
+    "footerTags": [
+      "Disneja ballīte",
+      "Disney Plus skatīšanās ballīte",
+      "Disney Plus ballīte",
+      "Skatieties Party Disney Plus",
+      "Kā noorganizēt skatīšanās ballīti pakalpojumā Disney Plus",
+      "Disneja skatīšanās ballīte",
+      "Skatieties ballīti pakalpojumā Disney Plus",
+      "Kā rīkot Disney Plus skatīšanās ballīti"
+    ]
+  }
+}

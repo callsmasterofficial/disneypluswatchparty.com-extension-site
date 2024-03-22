@@ -1,0 +1,152 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Dodać do", "free": "To jest darmowe" },
+    "navBarHeading": "jest teraz dostępny w przeglądarkach Google Chrome, Microsoft Edge i Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "Streamuj Disney Plus ze znajomymi i rodziną z różnych lokalizacji",
+      "html": "Mówiąc dokładniej, Disney Plus to wysoce interaktywne i przyjazne dla użytkownika rozszerzenie przeglądarki, które rewolucjonizuje sposób, w jaki przyjaciele i rodzina wspólnie oglądają i cieszą się treściami. Dzięki funkcji czatu grupowego użytkownicy mogą łatwo komunikować się i dzielić swoimi przemyśleniami, reakcjami i śmiechem w czasie rzeczywistym podczas przesyłania strumieniowego filmów. Ten element społecznościowy dodaje poczucia wspólnoty i ekscytacji, dzięki czemu przesyłanie strumieniowe jest bardziej wciągające i zapadające w pamięć.<br/><br/>Funkcja strumieniowania HD w rozszerzeniu przenosi wrażenia z oglądania filmów na wyższy poziom, zapewniając lepszy obraz w jakości HD . Z wyraźnymi efektami wizualnymi",
+      "para": "Kolejnym istotnym aspektem Disney Party jest funkcja Control Over Watch Party. Uczestnicy mają swobodę wyboru, czy gospodarz ma wyłączną kontrolę nad ustawieniami przesyłania strumieniowego, czy jest to wspólny wysiłek. Ta integracja pozwala każdemu przyczynić się do oglądania, co prowadzi do bardziej demokratycznego i przyjemnego oglądania. Łącząc ludzi, Disney Party tworzy platformę do wspólnych chwil, dyskusji i możliwości nawiązania więzi. Wypełnia lukę pomiędzy odległymi przyjaciółmi i rodziną, umożliwiając im wirtualną komunikację i tworzenie trwałych wspomnień. Niezależnie od tego, czy jest to zwykły wieczór filmowy, czy specjalna okazja, Disney Party zwiększa radość ze wspólnego oglądania treści, czyniąc go ulubionym narzędziem do wspólnych przeżyć rozrywkowych.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "Jak korzystać z imprezy Disney Watch Party",
+      "subHeading": "Możesz rozpocząć korzystanie z rozszerzenia w kilku krokach: –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Zainstaluj rozszerzenie",
+          "answer": "Przede wszystkim użytkownicy muszą zainstalować rozszerzenie przez <a href=\"https://chrome.google.com/webstore/detail/disney-plus-watch-party/nkciggljdfnkpcdngdohlpelojmklhin\" target=\"_blank\" ><u >Klikając tutaj</u></a>. W tym celu musisz upewnić się, że masz laptopa lub komputer z systemem Windows, macOS lub Chromebook. Ponadto upewnij się również, że korzystasz z przeglądarki Google Chrome lub Microsoft Edge."
+        },
+        {
+          "id": "2",
+          "question": "Przypnij rozszerzenie do paska narzędzi Toolbar",
+          "answer": "Po zainstalowaniu rozszerzenia należy kliknąć ikonę rozszerzenia na pasku narzędzi przeglądarki. Następnie kliknij ikonę pinezki, aby przypiąć rozszerzenie Disney plus Watch Party do paska narzędzi."
+        },
+        {
+          "id": "3",
+          "question": "Zaloguj się do Disney Plus",
+          "answer": "Aby móc korzystać z rozszerzenia, konieczne jest, aby wszyscy użytkownicy posiadali subskrypcję Disney Plus. Co więcej, aby stworzyć imprezę Disneya lub dołączyć do niej, musisz zalogować się na swoje konto Disneya."
+        },
+        {
+          "id": "4",
+          "question": "Stwórz imprezę Disneya",
+          "answer": "Za pomocą kilku kliknięć utwórz wirtualną imprezę za pośrednictwem Disney Plus Watch Party. Wszystko, co musisz zrobić, to po prostu zalogować się do Disneya i odtworzyć wideo z wirtualnej imprezy. Następnie kliknij przycisk „DP” znajdujący się na pasku narzędzi. Następnie wybierz „Rozpocznij imprezę”, aby utworzyć link do wirtualnej imprezy. Udostępnij ten link znajomym, aby ich zaprosić."
+        },
+        {
+          "id": "5",
+          "question": "Dołącz do imprezy Disneya",
+          "answer": "Zainstaluj rozszerzenie, zaloguj się do konta Disney plus i kliknij adres URL udostępniony przez znajomego. Ten adres URL automatycznie połączy Cię z imprezą oglądania."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Funkcje imprezy Disney Plus Watch Party",
+      "subHeading": "Rozszerzenie zawiera wiele funkcji, które sprawią, że Twoja impreza Disney Party będzie bardziej ekscytująca: –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Czatuj z innymi uczestnikami",
+          "answer": "Rozszerzenie Disney Plus Watch Party zawiera funkcje czatu, które umożliwiają czatowanie z innymi uczestnikami Disney Party. Dlatego podczas przesyłania strumieniowego ulubionych programów możesz także rozmawiać ze znajomymi."
+        },
+        {
+          "id": "t2",
+          "question": "Dostęp na całym świecie",
+          "answer": "Nieważne, gdzie się znajdujesz, możesz zainstalować rozszerzenie i organizować wieczory filmowe z bliskimi."
+        },
+        {
+          "id": "t3",
+          "question": "Przesyłaj strumieniowo w jakości HD",
+          "answer": "Aby poprawić jakość przesyłania strumieniowego, rozszerzenie Disney Plus Watch Party obsługuje jakość HD. Dzięki temu będziesz mógł oglądać swoje ulubione programy ze znajomymi w jakości HD dzięki szybkiemu przesyłaniu strumieniowemu."
+        },
+        {
+          "id": "t4",
+          "question": "Dostosowywanie profilu",
+          "answer": "Możesz utworzyć i dostosować swój profil. Rozszerzenie Disney Plus Watch Party zawiera różne zabawne awatary, które możesz umieścić jako ikonę swojego profilu. Ponadto możesz także ustawić wybraną przez siebie nazwę użytkownika."
+        },
+        {
+          "id": "t5",
+          "question": "Kontroluj imprezę oglądającą",
+          "answer": "Jako gospodarz możesz kontrolować wirtualną imprezę, włączając przycisk „Tylko ja mam kontrolę”. Dzięki tej funkcji możesz zarządzać ustawieniami odtwarzania, wstrzymywania i głośności wideo oraz edytować je. Co więcej, możesz także przewijać wideo do przodu i do tyłu."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Często Zadawane Pytania",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Co to jest impreza Disney Plus Watch Party?",
+        "answer": "Disney Plus Watch Party to bezpłatne rozszerzenie, dzięki któremu wszyscy abonenci Disney Plus mogą oglądać programy i filmy synchronizowane z osobami w różnych lokalizacjach. W tym celu wystarczy utworzyć lub dołączyć do wirtualnych imprez Disneya z ludźmi online i dobrze się bawić."
+      },
+      {
+        "id": "f2",
+        "question": "Jak zainstalować rozszerzenie?",
+        "answer": "Rozszerzenie możesz zainstalować klikając tutaj. Po kliknięciu tutaj należy wybrać przyciski „Dodaj do Chrome” i „Dodaj rozszerzenie”. Dlatego rozszerzenie zostanie zainstalowane w ciągu kilku sekund."
+      },
+      {
+        "id": "f3",
+        "question": "Jak przypiąć rozszerzenie do paska narzędzi przeglądarki?",
+        "answer": "Możesz przypiąć rozszerzenie do paska narzędzi, wykonując poniższe kroki: –",
+        "p1": "W pierwszej kolejności należy kliknąć ikonę „Rozszerzenia” znajdującą się na pasku narzędzi przeglądarki.",
+        "p2": "Następnie poszukaj rozszerzenia Disney Plus Watch Party i dotknij przycisku pinezki, aby dodać rozszerzenie do przeglądarki.",
+        "p3": "null",
+        "p4": "null",
+        "p5": "null"
+      },
+      {
+        "id": "f4",
+        "question": "Jak stworzyć imprezę zegarkową?",
+        "answer": "Możesz utworzyć imprezę związaną z oglądaniem, wykonując poniższe czynności: –",
+        "p1": "Zainstaluj rozszerzenie Disney Party.",
+        "p2": "Zaloguj się na swoje konto Disney Plus i wybierz program.",
+        "p3": "Odtwórz wideo i ikonę DP na pasku narzędzi, aby otworzyć okno „Utwórz imprezę”.",
+        "p4": "Tutaj musisz wybrać opcję „Rozpocznij imprezę”, aby utworzyć adres URL.",
+        "p5": "Na koniec skopiuj adres URL i udostępnij go innym osobom."
+      },
+      {
+        "id": "f5",
+        "question": "Jak dołączyć do imprezy Disney Plus Watch Party?",
+        "answer": "Możesz dołączyć do imprezy, korzystając z łącza do oglądania. Najpierw jednak musisz zainstalować rozszerzenie, a następnie zalogować się do konta Disney Plus. Po zalogowaniu się do rozszerzenia należy kliknąć link Disney Party udostępniony Ci przez znajomego."
+      },
+      {
+        "id": "f6",
+        "question": "Jakie są wymagania, aby móc korzystać z imprezy Disney Plus Watch Party?",
+        "answer": "Aby móc korzystać z rozszerzenia, musisz spełnić poniższe wymagania: –",
+        "p1": "Musisz mieć Chromebooka, laptopa albo komputer z systemem Windows lub macOS.",
+        "p2": "Rozszerzenie można zainstalować poprzez przeglądarkę Google Chrome lub Microsoft Edge.",
+        "p3": "Upewnij się, że masz stabilne połączenie internetowe.",
+        "p4": "Pamiętaj, że wszyscy, którzy chcą dołączyć do oglądania, powinni znajdować się w tym samym kraju. Jeśli jednak którykolwiek członek znajduje się w innym kraju, może skorzystać z VPN, aby zmienić swoją lokalizację.",
+        "p5": "null"
+      },
+      {
+        "id": "f7",
+        "question": "Ile osób może dołączyć do imprezy?",
+        "answer": "Nie ma ograniczeń co do liczby osób, które mogą dołączyć do imprezy. W ten sposób możesz zaprosić dowolną liczbę osób."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Daj nam znać.",
+    "anyQuestions": "Mieć pytania? Odwiedź naszą stronę wsparcia",
+    "blog": "Blog",
+    "privacy": "Prywatność",
+    "popularSearches": "popularne wyszukiwania",
+    "disclaimer": "Zastrzeżenie",
+    "disclaimerContent": "Disney Plus jest znakiem towarowym firmy Walt Disney Company. Ta strona internetowa",
+    "footerTags": [
+      "Impreza Disneya",
+      "Impreza z oglądaniem Disney Plus",
+      "Impreza Disney Plus",
+      "Obejrzyj Impreza Disney Plus",
+      "Jak zorganizować imprezę oglądania w Disney Plus",
+      "Impreza z udziałem Disneya",
+      "Obejrzyj Impreza w Disney Plus",
+      "Jak zorganizować imprezę związaną z oglądaniem Disney Plus"
+    ]
+  }
+}

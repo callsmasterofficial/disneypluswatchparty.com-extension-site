@@ -1,0 +1,152 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Thêm vào", "free": "Nó miễn phí" },
+    "navBarHeading": "hiện có sẵn trên Google Chrome, Microsoft Edge và Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "Truyền trực tuyến Disney Plus với bạn bè và gia đình từ các địa điểm khác nhau",
+      "html": "Chính xác hơn, Disney Plus là một tiện ích mở rộng trình duyệt thân thiện với người dùng và có tính tương tác cao, cách mạng hóa cách bạn bè và gia đình cùng nhau xem và thưởng thức nội dung. Với tính năng Trò chuyện nhóm, người dùng có thể dễ dàng giao tiếp và chia sẻ suy nghĩ, phản ứng cũng như tiếng cười của mình trong thời gian thực khi phát trực tuyến video. Yếu tố xã hội này mang lại cảm giác gắn kết và phấn khích, giúp trải nghiệm phát trực tuyến trở nên phong phú và đáng nhớ hơn.<br/><br/>Tính năng Truyền phát HD của tiện ích mở rộng đưa trải nghiệm xem phim lên một tầm cao mới bằng cách cung cấp hình ảnh chất lượng HD tốt hơn . Với hình ảnh sắc nét",
+      "para": "Một khía cạnh quan trọng khác của Disney Party là tính năng Control Over Watch Party. Người tham gia có thể linh hoạt lựa chọn xem người tổ chức có toàn quyền kiểm soát cài đặt phát trực tuyến hay đó là nỗ lực hợp tác. Tính toàn diện này cho phép mọi người đóng góp vào trải nghiệm xem, dẫn đến bữa tiệc xem dân chủ và thú vị hơn. Bằng cách gắn kết mọi người lại với nhau, Disney Party tạo ra một nền tảng để chia sẻ những khoảnh khắc, thảo luận và cơ hội gắn kết. Nó thu hẹp khoảng cách giữa bạn bè và gia đình ở xa, cho phép họ kết nối ảo và tạo ra những kỷ niệm lâu dài. Dù là một đêm xem phim bình thường hay một dịp đặc biệt, Disney Party đều nâng cao niềm vui khi cùng nhau xem nội dung, biến nó thành công cụ yêu thích để chia sẻ trải nghiệm giải trí.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "Cách sử dụng Disney Watch Party",
+      "subHeading": "Bạn có thể bắt đầu với tiện ích mở rộng trong vài bước: –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Cài đặt tiện ích mở rộng",
+          "answer": "Trước hết, người dùng được yêu cầu cài đặt tiện ích mở rộng bằng cách <a href=\"https://chrome.google.com/webstore/detail/disney-plus-watch-party/nkciggljdfnkpcdngdohlpelojmklhin\" target=\"_blank\" ><u >Đang nhấp vào đây</u></a>. Để làm điều này, bạn cần đảm bảo rằng bạn có máy tính xách tay hoặc PC Windows, macOS hoặc Chromebook. Ngoài ra, cũng đảm bảo rằng bạn đang sử dụng trình duyệt Google Chrome hoặc Microsoft Edge."
+        },
+        {
+          "id": "2",
+          "question": "Ghim tiện ích mở rộng vào Thanh công cụ",
+          "answer": "Sau khi cài đặt tiện ích mở rộng, bạn nên nhấp vào biểu tượng của tiện ích mở rộng trên thanh công cụ của trình duyệt. Sau đó, nhấp vào biểu tượng ghim để ghim Tiện ích mở rộng Disney plus Watch Party vào thanh công cụ."
+        },
+        {
+          "id": "3",
+          "question": "Đăng nhập vào Disney Plus",
+          "answer": "Tất cả người dùng cần phải đăng ký Disney Plus để sử dụng tiện ích mở rộng. Hơn nữa, để tạo hoặc tham gia bữa tiệc Disney, bạn phải đăng nhập vào tài khoản Disney của mình."
+        },
+        {
+          "id": "4",
+          "question": "Tạo một bữa tiệc Disney",
+          "answer": "Tạo bữa tiệc ảo của bạn thông qua Disney Plus Watch Party chỉ bằng vài cú nhấp chuột. Tất cả những gì bạn phải làm chỉ là đăng nhập vào Disney và phát video cho bữa tiệc ảo của mình. Sau đó, bạn nên nhấp vào nút “DP” được cung cấp trên thanh công cụ của bạn. Sau đó, chọn “Bắt đầu bữa tiệc” để tạo liên kết bữa tiệc ảo của bạn. Hãy chia sẻ liên kết này với bạn bè để mời họ."
+        },
+        {
+          "id": "5",
+          "question": "Tham gia bữa tiệc Disney",
+          "answer": "Cài đặt tiện ích mở rộng, đăng nhập vào Tài khoản Disney plus và nhấp vào URL được bạn bè của bạn chia sẻ. URL này sẽ tự động kết nối bạn với buổi xem chung."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Các tính năng của Disney Plus Watch Party",
+      "subHeading": "Tiện ích mở rộng đi kèm với nhiều tính năng giúp Bữa tiệc Disney của bạn trở nên thú vị hơn: –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Trò chuyện với những người tham gia khác",
+          "answer": "Tiện ích mở rộng Disney Plus Watch Party đi kèm với các tính năng trò chuyện cho phép bạn trò chuyện với những người tham gia Disney Plus khác. Do đó, trong khi phát trực tuyến các chương trình yêu thích của mình, bạn cũng có thể trò chuyện với bạn bè."
+        },
+        {
+          "id": "t2",
+          "question": "Truy cập trên toàn thế giới",
+          "answer": "Dù bạn ở đâu, bạn cũng có thể cài đặt tiện ích mở rộng và có những đêm xem phim vui vẻ bên những người thân yêu."
+        },
+        {
+          "id": "t3",
+          "question": "Phát trực tuyến ở chế độ HD",
+          "answer": "Để nâng cao trải nghiệm phát trực tuyến của bạn, tiện ích mở rộng Disney Plus Watch Party hỗ trợ chất lượng HD. Do đó, bạn sẽ có thể xem các chương trình yêu thích của mình với bạn bè ở chất lượng HD với tốc độ phát trực tuyến nhanh."
+        },
+        {
+          "id": "t4",
+          "question": "Tùy chỉnh hồ sơ",
+          "answer": "Bạn có thể tạo và tùy chỉnh hồ sơ của mình. Tiện ích mở rộng Disney Plus Watch Party đi kèm với nhiều hình đại diện vui nhộn khác nhau mà bạn có thể đặt làm biểu tượng hồ sơ của mình. Ngoài ra, bạn cũng có thể đặt tên người dùng theo lựa chọn của mình."
+        },
+        {
+          "id": "t5",
+          "question": "Kiểm soát bữa tiệc theo dõi",
+          "answer": "Với tư cách là người tổ chức, bạn có thể kiểm soát bữa tiệc ảo bằng cách bật nút “Chỉ tôi mới có quyền kiểm soát”. Với tính năng này, bạn sẽ có thể quản lý và chỉnh sửa cài đặt phát, tạm dừng và âm lượng của video. Hơn nữa, bạn cũng có thể tua đi và tua lại video."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Các câu hỏi thường gặp",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Bữa tiệc xem Disney Plus là gì?",
+        "answer": "Disney Plus Watch Party là một tiện ích mở rộng miễn phí, qua đó tất cả người đăng ký Disney Plus có thể xem các chương trình và video được đồng bộ hóa với mọi người ở các địa điểm khác nhau. Để làm được điều này, tất cả những gì bạn cần làm là tạo hoặc tham gia các bữa tiệc Disney ảo với mọi người trực tuyến và vui chơi."
+      },
+      {
+        "id": "f2",
+        "question": "Làm cách nào để cài đặt tiện ích mở rộng?",
+        "answer": "Bạn có thể cài đặt tiện ích mở rộng bằng cách nhấp vào đây. Sau khi nhấp vào đây, bạn nên chọn nút “Thêm vào Chrome” và “Thêm tiện ích mở rộng”. Do đó, tiện ích mở rộng sẽ được cài đặt sau vài giây."
+      },
+      {
+        "id": "f3",
+        "question": "Làm cách nào tôi có thể ghim tiện ích mở rộng vào thanh công cụ của trình duyệt?",
+        "answer": "Bạn có thể ghim tiện ích mở rộng vào thanh công cụ bằng cách thực hiện theo các bước bên dưới: –",
+        "p1": "Trước tiên, bạn cần nhấp vào biểu tượng “Tiện ích mở rộng” trên thanh công cụ của trình duyệt.",
+        "p2": "Sau đó, hãy tìm tiện ích mở rộng Disney Plus Watch Party và nhấn vào nút ghim để thêm tiện ích mở rộng vào trình duyệt.",
+        "p3": "null",
+        "p4": "null",
+        "p5": "null"
+      },
+      {
+        "id": "f4",
+        "question": "Làm thế nào để tạo một buổi xem chung?",
+        "answer": "Bạn có thể tạo buổi xem chung bằng cách làm theo các bước dưới đây: –",
+        "p1": "Cài đặt tiện ích mở rộng Disney Party.",
+        "p2": "Đăng nhập vào tài khoản Disney Plus của bạn và chọn một chương trình.",
+        "p3": "Phát video và biểu tượng DP trên thanh công cụ để mở cửa sổ “Tạo nhóm”.",
+        "p4": "Tại đây, bạn phải chọn tùy chọn “Bắt đầu bữa tiệc” để tạo URL.",
+        "p5": "Cuối cùng, sao chép URL và chia sẻ nó với mọi người."
+      },
+      {
+        "id": "f5",
+        "question": "Làm cách nào để tham gia Disney Plus Watch Party?",
+        "answer": "Bạn có thể tham gia bữa tiệc bằng liên kết bữa tiệc xem. Tuy nhiên, trước tiên, bạn cần cài đặt tiện ích mở rộng rồi đăng nhập vào tài khoản Disney Plus. Sau khi đăng nhập vào tiện ích mở rộng, bạn nên nhấp vào liên kết Disney Party được bạn bè của bạn chia sẻ với bạn."
+      },
+      {
+        "id": "f6",
+        "question": "Các yêu cầu để sử dụng Disney Plus Watch Party là gì?",
+        "answer": "Bạn cần đáp ứng các yêu cầu dưới đây để sử dụng tiện ích mở rộng: –",
+        "p1": "Bạn phải có Chromebook, máy tính xách tay Windows hoặc macOS hoặc PC.",
+        "p2": "Tiện ích mở rộng có thể được cài đặt thông qua trình duyệt Google Chrome hoặc Microsoft Edge.",
+        "p3": "Đảm bảo rằng bạn có kết nối internet ổn định.",
+        "p4": "Xin lưu ý rằng tất cả những ai muốn tham gia buổi xem chung đều phải có mặt ở cùng một quốc gia. Tuy nhiên, nếu bất kỳ thành viên nào ở quốc gia khác, họ có thể sử dụng VPN để thay đổi vị trí của mình.",
+        "p5": "null"
+      },
+      {
+        "id": "f7",
+        "question": "Có bao nhiêu người có thể tham gia một bữa tiệc?",
+        "answer": "Không có giới hạn về số lượng người có thể tham gia bữa tiệc. Vì vậy, bạn có thể mời bao nhiêu người tùy thích."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Hãy cho chúng tôi biết.",
+    "anyQuestions": "Có một vài câu hỏi? Truy cập trang hỗ trợ của chúng tôi",
+    "blog": "Blog",
+    "privacy": "Sự riêng tư",
+    "popularSearches": "Tìm kiếm phổ biến",
+    "disclaimer": "Tuyên bố miễn trừ trách nhiệm",
+    "disclaimerContent": "Disney Plus là thương hiệu của Công ty Walt Disney. Trang web này",
+    "footerTags": [
+      "bữa tiệc Disney",
+      "Bữa tiệc xem Disney Plus",
+      "Bữa tiệc Disney Plus",
+      "Bữa tiệc xem Disney Plus",
+      "Cách thực hiện Buổi xem chung trên Disney Plus",
+      "Bữa tiệc xem Disney",
+      "Bữa tiệc xem trên Disney Plus",
+      "Cách tổ chức bữa tiệc xem Disney Plus"
+    ]
+  }
+}

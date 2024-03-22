@@ -2,6 +2,7 @@ const config = {
   siteName: 'Disney Plus Watch Party',
   url: 'https://www.disneypluswatchparty.com/',
   blogUrl: '/blog',
+  privacyUrl: '/privacy',
   siteId: '62a84e4992c68b0d2f1e407c',
   extLink: {
     chrome:

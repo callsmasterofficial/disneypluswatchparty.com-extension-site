@@ -1,0 +1,152 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Pridėti prie", "free": "Nemokama" },
+    "navBarHeading": "dabar pasiekiama „Google Chrome“, „Microsoft Edge“ ir „Mozilla Firefox“."
+  },
+  "section": {
+    "first": {
+      "heading": "Transliuokite „Disney Plus“ su draugais ir šeima iš skirtingų vietų",
+      "html": "Tiksliau, „Disney Plus“ yra labai interaktyvus ir patogus naršyklės plėtinys, kuris iš esmės keičia draugų ir šeimos narių žiūrėjimo turinį ir kartu mėgavimąsi turiniu. Naudodami grupės pokalbių funkciją, vartotojai gali lengvai bendrauti ir dalytis savo mintimis, reakcijomis ir juokais realiuoju laiku, kai transliuoja vaizdo įrašus. Šis socialinis elementas suteikia bendrumo ir jaudulio jausmą, todėl srautinio perdavimo patirtis yra įtraukesnė ir įsimintinesnė.<br/><br/>Plėtinio HD srautinio perdavimo funkcija pakelia filmų žiūrėjimo patirtį į kitą lygį, teikdama geresnes HD kokybės nuotraukas. . Su ryškiais vaizdais",
+      "para": "Kitas svarbus „Disney Party“ aspektas yra „Control Over Watch Party“ funkcija. Dalyviai gali lanksčiai pasirinkti, ar srautinio perdavimo nustatymus gali valdyti tik rengėjas, ar tai yra bendradarbiavimo pastangos. Šis įtraukimas leidžia kiekvienam prisidėti prie žiūrėjimo patirties, o tai veda į demokratiškesnį ir malonesnį žiūrėjimo vakarėlį. Suburdama žmones, „Disney Party“ sukuria platformą bendroms akimirkoms, diskusijoms ir bendravimo galimybėms. Jis užpildo atotrūkį tarp tolimų draugų ir šeimos narių, leisdamas jiems virtualiai susisiekti ir kurti ilgalaikius prisiminimus. Nesvarbu, ar tai būtų įprastas filmų vakaras, ar ypatinga proga, „Disney Party“ padidina turinio žiūrėjimo kartu džiaugsmą, todėl tai yra mėgstamiausias bendrų pramogų įrankis.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "Kaip naudotis „Disney Watch Party“.",
+      "subHeading": "Galite pradėti naudoti plėtinį atlikdami kelis veiksmus: -",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Įdiekite plėtinį",
+          "answer": "Visų pirma, naudotojai turi įdiegti plėtinį <a href=\"https://chrome.google.com/webstore/detail/disney-plus-watch-party/nkciggljdfnkpcdngdohlpelojmklhin\" target=\"_blank\" ><u >Spustelėkite čia</u></a>. Norėdami tai padaryti, turite įsitikinti, kad turite „Windows“, „MacOS“ arba „Chromebook“ nešiojamąjį arba asmeninį kompiuterį. Be to, įsitikinkite, kad naudojate „Google Chrome“ arba „Microsoft Edge“ naršyklę."
+        },
+        {
+          "id": "2",
+          "question": "Prisekite plėtinį į įrankių juostą",
+          "answer": "Įdiegę plėtinį turėtumėte spustelėti plėtinio piktogramą naršyklės įrankių juostoje. Po to spustelėkite smeigtuko piktogramą, kad įrankių juostoje prisegtumėte „Disney plus Watch Party“ plėtinį."
+        },
+        {
+          "id": "3",
+          "question": "Prisijunkite prie „Disney Plus“.",
+          "answer": "Norint naudoti plėtinį, visi vartotojai turi turėti „Disney Plus“ prenumeratą. Be to, norėdami sukurti „Disney“ vakarėlį arba prisijungti prie jo, turite prisijungti prie „Disney“ paskyros."
+        },
+        {
+          "id": "4",
+          "question": "Sukurkite Disnėjaus vakarėlį",
+          "answer": "Sukurkite savo virtualų vakarėlį naudodami „Disney Plus Watch Party“ keliais paspaudimais. Viskas, ką jums reikia padaryti, tai tiesiog prisijungti prie „Disney“ ir paleisti vaizdo įrašą savo virtualiam vakarėliui. Po to turėtumėte spustelėti įrankių juostoje esantį mygtuką „DP“. Tada pasirinkite „Pradėti vakarėlį“, kad sukurtumėte virtualaus vakarėlio nuorodą. Pasidalykite šia nuoroda su draugais, kad pakviestumėte juos."
+        },
+        {
+          "id": "5",
+          "question": "Prisijunkite prie „Disney“ vakarėlio",
+          "answer": "Įdiekite plėtinį, prisijunkite prie „Disney plus“ paskyros ir spustelėkite draugo bendrinamą URL. Šis URL automatiškai sujungs jus su žiūrėjimo vakarėliu."
+        }
+      ]
+    },
+    "three": {
+      "heading": "„Disney Plus Watch Party“ ypatybės",
+      "subHeading": "Plėtinyje yra įvairių funkcijų, kurios daro jūsų „Disney Party“ įdomesnį: –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Kalbėkitės su kitais dalyviais",
+          "answer": "„Disney Plus Watch Party“ plėtinyje yra pokalbių funkcijos, leidžiančios kalbėtis su kitais „Disney Party“ dalyviais. Taigi, transliuodami mėgstamas laidas, taip pat galite kalbėtis su draugais."
+        },
+        {
+          "id": "t2",
+          "question": "Prieiga visame pasaulyje",
+          "answer": "Nesvarbu, kur esate, galite įdiegti plėtinį ir smagiai praleisti kino vakarus su savo artimaisiais."
+        },
+        {
+          "id": "t3",
+          "question": "Srautas HD formatu",
+          "answer": "Norėdami pagerinti srautinio perdavimo patirtį, „Disney Plus Watch Party“ plėtinys palaiko HD kokybę. Todėl galėsite žiūrėti mėgstamas laidas su draugais HD kokybe su greita transliacija."
+        },
+        {
+          "id": "t4",
+          "question": "Profilio pritaikymas",
+          "answer": "Galite sukurti ir tinkinti savo profilį. „Disney Plus Watch Party“ plėtinyje yra įvairių juokingų avatarų, kuriuos galite įdėti kaip savo profilio piktogramą. Be to, taip pat galite nustatyti pasirinktą vartotojo vardą."
+        },
+        {
+          "id": "t5",
+          "question": "Valdykite žiūrėjimo vakarėlį",
+          "answer": "Kaip šeimininkas, galite valdyti virtualų vakarėlį įjungę mygtuką „Tik aš galiu valdyti“. Naudodami šią funkciją galėsite valdyti ir redaguoti vaizdo įrašo atkūrimo, pristabdymo ir garsumo nustatymus. Be to, vaizdo įrašą galite pasukti pirmyn ir atgal."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Dažnai užduodami klausimai",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Kas yra „Disney Plus Watch Party“?",
+        "answer": "„Disney Plus Watch Party“ yra nemokamas plėtinys, per kurį visi „Disney Plus“ abonentai gali žiūrėti laidas ir vaizdo įrašus, sinchronizuojamus su žmonėmis įvairiose vietose. Norėdami tai padaryti, jums tereikia susikurti virtualius „Disney“ vakarėlius arba prisijungti prie jų su žmonėmis internete ir smagiai praleisti laiką."
+      },
+      {
+        "id": "f2",
+        "question": "Kaip įdiegti plėtinį?",
+        "answer": "Galite įdiegti plėtinį spustelėję čia. Paspaudę čia, turėtumėte pasirinkti mygtukus „Pridėti prie Chrome“ ir „Pridėti plėtinį“. Taigi plėtinys bus įdiegtas per kelias sekundes."
+      },
+      {
+        "id": "f3",
+        "question": "Kaip galiu prisegti plėtinį prie naršyklės įrankių juostos?",
+        "answer": "Galite prisegti plėtinį prie įrankių juostos atlikdami toliau nurodytus veiksmus.",
+        "p1": "Pirmiausia turite spustelėti piktogramą „Plėtiniai“, pateiktą naršyklės įrankių juostoje.",
+        "p2": "Po to ieškokite „Disney Plus Watch Party“ plėtinio ir bakstelėkite smeigtuko mygtuką, kad pridėtumėte plėtinį prie naršyklės.",
+        "p3": "null",
+        "p4": "null",
+        "p5": "null"
+      },
+      {
+        "id": "f4",
+        "question": "Kaip sukurti laikrodžių vakarėlį?",
+        "answer": "Žiūrėjimo vakarėlį galite sukurti tiesiog atlikdami šiuos veiksmus: –",
+        "p1": "Įdiekite „Disney Party“ plėtinį.",
+        "p2": "Prisijunkite prie „Disney Plus“ paskyros ir pasirinkite laidą.",
+        "p3": "Paleiskite vaizdo įrašą ir DP piktogramą įrankių juostoje, kad atidarytumėte langą „Sukurti vakarėlį“.",
+        "p4": "Čia turite pasirinkti parinktį „Pradėti vakarėlį“, kad sukurtumėte URL.",
+        "p5": "Galiausiai nukopijuokite URL ir bendrinkite jį su žmonėmis."
+      },
+      {
+        "id": "f5",
+        "question": "Kaip prisijungti prie „Disney Plus“ žiūrėjimo vakarėlio?",
+        "answer": "Prie vakarėlio galite prisijungti naudodami vakarėlio stebėjimo nuorodą. Tačiau pirmiausia turite įdiegti plėtinį ir prisijungti prie „Disney Plus“ paskyros. Prisijungę prie plėtinio turėtumėte spustelėti Disney Party nuorodą, kurią su jumis bendrina jūsų draugas."
+      },
+      {
+        "id": "f6",
+        "question": "Kokie reikalavimai taikomi norint naudoti „Disney Plus Watch Party“?",
+        "answer": "Norėdami naudoti plėtinį, turite atitikti toliau nurodytus reikalavimus: –",
+        "p1": "Turite turėti „Chromebook“, „Windows“ arba „MacOS“ nešiojamąjį kompiuterį arba asmeninį kompiuterį.",
+        "p2": "Plėtinys gali būti įdiegtas per Google Chrome arba Microsoft Edge naršyklę.",
+        "p3": "Įsitikinkite, kad turite stabilų interneto ryšį.",
+        "p4": "Atkreipkite dėmesį, kad visi norintys prisijungti prie stebėjimo vakarėlio turi būti toje pačioje šalyje. Tačiau jei kuris nors narys yra kitoje šalyje, jis gali naudoti VPN, kad pakeistų savo vietą.",
+        "p5": "null"
+      },
+      {
+        "id": "f7",
+        "question": "Kiek žmonių gali prisijungti prie partijos?",
+        "answer": "Žmonių, galinčių prisijungti prie partijos, skaičius neribojamas. Taigi galite pakviesti tiek žmonių, kiek norite."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Praneškite mums.",
+    "anyQuestions": "Turite klausimų? Apsilankykite mūsų palaikymo puslapyje",
+    "blog": "Dienoraštis",
+    "privacy": "Privatumas",
+    "popularSearches": "Populiarios paieškos",
+    "disclaimer": "Atsisakymas",
+    "disclaimerContent": "„Disney Plus“ yra „Walt Disney Company“ prekės ženklas. Ši svetainė",
+    "footerTags": [
+      "Disnėjaus vakarėlis",
+      "„Disney Plus“ žiūrėjimo vakarėlis",
+      "„Disney Plus“ vakarėlis",
+      "Žiūrėkite Party Disney Plus",
+      "Kaip surengti žiūrėjimo vakarėlį „Disney Plus“.",
+      "„Disney“ žiūrėjimo vakarėlis",
+      "Žiūrėkite vakarėlį per „Disney Plus“.",
+      "Kaip surengti „Disney Plus“ žiūrėjimo vakarėlį"
+    ]
+  }
+}

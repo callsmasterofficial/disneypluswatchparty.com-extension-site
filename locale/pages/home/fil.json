@@ -1,0 +1,152 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Idagdag sa", "free": "Ito ay Libre" },
+    "navBarHeading": "ay magagamit na ngayon sa Google Chrome, Microsoft Edge at Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "I-stream ang Disney Plus sa mga kaibigan at pamilya mula sa iba't ibang lokasyon",
+      "html": "Mas tiyak, ang Disney Plus ay isang napaka-interactive at user-friendly na extension ng browser na nagbabago sa paraan ng panonood at pag-enjoy ng mga kaibigan at pamilya sa content nang magkasama. Sa tampok na Group Chat nito, madaling makipag-usap at maibahagi ng mga user ang kanilang mga iniisip, reaksyon, at pagtawa nang real-time habang nagsi-stream ng mga video. Ang panlipunang elementong ito ay nagdaragdag ng pakiramdam ng pagkakaisa at pananabik, na ginagawang mas nakaka-engganyo at hindi malilimutan ang karanasan sa streaming.<br/><br/>Dinadala ng feature na HD Streaming ng extension ang karanasan sa panonood ng pelikula sa susunod na antas sa pamamagitan ng pagbibigay ng mas magagandang larawan sa kalidad ng HD . Na may malulutong na visual",
+      "para": "Ang isa pang makabuluhang aspeto ng Disney Party ay ang tampok na Control Over Watch Party. May flexibility ang mga kalahok na piliin kung ang host ay may tanging kontrol sa mga setting ng streaming o kung ito ay isang collaborative na pagsisikap. Ang pagiging inklusibo na ito ay nagbibigay-daan sa lahat na mag-ambag sa karanasan sa panonood, na humahantong sa isang mas demokratiko at kasiya-siyang salu-salo sa panonood. Sa pamamagitan ng pagsasama-sama ng mga tao, ang Disney Party ay gumagawa ng isang platform para sa mga magkakabahaging sandali, talakayan, at mga pagkakataon sa pagbubuklod. Tinutulay nito ang agwat sa pagitan ng malalayong kaibigan at pamilya, na nagbibigay-daan sa kanila na halos kumonekta at lumikha ng mga pangmatagalang alaala. Kahit na isang kaswal na gabi ng pelikula o isang espesyal na okasyon, pinapaganda ng Disney Party ang kagalakan ng panonood ng content nang magkasama, ginagawa itong paboritong tool para sa mga shared entertainment experience.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "Paano gamitin ang Disney Watch Party",
+      "subHeading": "Maaari kang magsimula sa extension sa loob ng ilang hakbang: –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "I-install ang extension",
+          "answer": "Una sa lahat, kinakailangang i-install ng mga user ang extension sa pamamagitan ng <a href=\"https://chrome.google.com/webstore/detail/disney-plus-watch-party/nkciggljdfnkpcdngdohlpelojmklhin\" target=\"_blank\" ><u >Pag-click dito</u></a>. Para dito, kailangan mong tiyakin na mayroon kang Windows, macOS, o Chromebook na laptop o PC. Bilang karagdagan, siguraduhin din na gumagamit ka ng Google Chrome o Microsoft Edge browser."
+        },
+        {
+          "id": "2",
+          "question": "I-pin ang extension sa Toolbar",
+          "answer": "Pagkatapos i-install ang extension, dapat kang mag-click sa icon ng extension sa toolbar ng iyong browser. Pagkatapos nito, mag-click sa icon ng pin para i-pin ang Disney plus Watch Party Extension sa toolbar."
+        },
+        {
+          "id": "3",
+          "question": "Mag-sign in sa Disney Plus",
+          "answer": "Kinakailangan para sa lahat ng user na magkaroon ng subscription sa Disney Plus para magamit ang extension. Bukod dito, upang lumikha o sumali sa Disney party, kailangan mong mag-sign in sa iyong Disney account."
+        },
+        {
+          "id": "4",
+          "question": "Gumawa ng Disney Party",
+          "answer": "Lumikha ng iyong virtual na party sa pamamagitan ng Disney Plus Watch Party sa ilang pag-click. Ang kailangan mo lang gawin ay mag-sign in lang sa Disney at mag-play ng video para sa iyong virtual na party. Pagkatapos nito, dapat mong i-click ang \"DP\" na pindutan na ibinigay sa iyong toolbar. Pagkatapos, piliin ang \"Simulan ang Party\" upang gawin ang iyong virtual na link ng party. Pakibahagi ang link na ito sa mga kaibigan para imbitahan sila."
+        },
+        {
+          "id": "5",
+          "question": "Sumali sa isang Disney Party",
+          "answer": "I-install ang extension, mag-login sa Disney plus Account, at mag-click sa URL na ibinahagi ng iyong kaibigan. Awtomatikong ikokonekta ka ng URL na ito sa party ng panonood."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Mga tampok ng Disney Plus Watch Party",
+      "subHeading": "Ang extension ay may kasamang iba't ibang feature na ginagawang mas kapana-panabik ang iyong Disney Party: –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Makipag-chat sa ibang mga kalahok",
+          "answer": "Ang extension ng Disney Plus Watch Party ay may kasamang mga chat feature na nagbibigay-daan sa iyong makipag-chat sa iba pang kalahok sa Disney Party. Kaya, habang nagsi-stream ng iyong mga paboritong palabas, maaari ka ring makipag-chat sa iyong mga kaibigan."
+        },
+        {
+          "id": "t2",
+          "question": "Pandaigdigang pag-access",
+          "answer": "Nasaan ka man, maaari mong i-install ang extension at magsaya sa mga gabi ng pelikula kasama ang iyong mga mahal sa buhay."
+        },
+        {
+          "id": "t3",
+          "question": "Stream sa HD",
+          "answer": "Para mapahusay ang iyong karanasan sa streaming, sinusuportahan ng extension ng Disney Plus Watch Party ang HD na kalidad. Samakatuwid, mapapanood mo ang iyong mga paboritong palabas kasama ang iyong mga kaibigan sa kalidad ng HD na may mabilis na streaming."
+        },
+        {
+          "id": "t4",
+          "question": "Pag-customize ng Profile",
+          "answer": "Maaari kang lumikha at i-customize ang iyong profile. Ang extension ng Disney Plus Watch Party ay may kasamang iba't ibang nakakatawang avatar na maaari mong ilagay bilang icon ng iyong profile. Bilang karagdagan, maaari mo ring itakda ang username na iyong pinili."
+        },
+        {
+          "id": "t5",
+          "question": "Kontrolin ang panonood party",
+          "answer": "Bilang isang host, makokontrol mo ang virtual na partido sa pamamagitan ng pag-enable sa button na \"Ako lang ang may kontrol\". Gamit ang feature na ito, magagawa mong pamahalaan at i-edit ang mga setting ng play, pause, at volume ng video. Bukod dito, maaari mo ring i-forward at i-rewind ang video."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Mga Madalas Itanong",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Ano ang Disney Plus Watch Party?",
+        "answer": "Ang Disney Plus Watch Party ay isang libreng extension kung saan mapapanood ng lahat ng mga subscriber ng Disney Plus ang mga palabas at video na nagsi-synchronize sa mga tao sa iba't ibang lokasyon. Para dito, ang kailangan mo lang gawin ay, lumikha o sumali sa mga virtual na partido sa Disney kasama ng mga tao online at magsaya."
+      },
+      {
+        "id": "f2",
+        "question": "Paano i-install ang extension?",
+        "answer": "Maaari mong i-install ang extension sa pamamagitan ng pag-click dito. Pagkatapos mag-click dito, dapat mong piliin ang mga button na \"Idagdag sa Chrome\" at \"Magdagdag ng Extension\". Samakatuwid, mai-install ang extension sa loob ng ilang segundo."
+      },
+      {
+        "id": "f3",
+        "question": "Paano ko mai-pin ang extension sa toolbar ng browser?",
+        "answer": "Maaari mong i-pin ang extension sa toolbar sa pamamagitan ng pagsunod sa mga hakbang sa ibaba: –",
+        "p1": "Una, kailangan mong mag-click sa icon na \"Mga Extension\" na ibinigay sa toolbar ng iyong browser.",
+        "p2": "Pagkatapos nito, hanapin ang extension ng Disney Plus Watch Party at i-tap ang pin button para idagdag ang extension sa browser.",
+        "p3": "null",
+        "p4": "null",
+        "p5": "null"
+      },
+      {
+        "id": "f4",
+        "question": "Paano gumawa ng watch party?",
+        "answer": "Maaari kang lumikha ng isang watch party sa pamamagitan lamang ng pagsunod sa mga hakbang sa ibaba: –",
+        "p1": "I-install ang extension ng Disney Party.",
+        "p2": "Mag-log in sa iyong Disney Plus account at pumili ng palabas.",
+        "p3": "I-play ang icon ng video at DP sa toolbar upang buksan ang window na \"Gumawa ng Party.\"",
+        "p4": "Dito, kailangan mong piliin ang opsyong \"Simulan ang Party\" upang gawin ang URL.",
+        "p5": "Sa huli, kopyahin ang URL at ibahagi ito sa mga tao."
+      },
+      {
+        "id": "f5",
+        "question": "Paano sumali sa Disney Plus Watch Party?",
+        "answer": "Maaari kang sumali sa party gamit ang watch party link. Gayunpaman, una, kailangan mong i-install ang extension at pagkatapos ay mag-sign in sa Disney Plus account. Pagkatapos mag-sign in sa extension, dapat kang mag-click sa link ng Disney Party na ibinahagi sa iyo ng iyong kaibigan."
+      },
+      {
+        "id": "f6",
+        "question": "Ano ang mga kinakailangan para magamit ang Disney Plus Watch Party?",
+        "answer": "Kailangan mong matupad ang mga kinakailangan sa ibaba upang magamit ang extension: -",
+        "p1": "Dapat ay mayroon kang Chromebook, Windows o macOS laptop, o PC.",
+        "p2": "Maaaring mai-install ang extension sa pamamagitan ng Google Chrome o Microsoft Edge browser.",
+        "p3": "Tiyaking mayroon kang stable na koneksyon sa internet.",
+        "p4": "Pakitandaan na lahat ng gustong sumali sa watch party ay dapat naroroon sa parehong bansa. Gayunpaman, kung ang sinumang miyembro ay nasa ibang bansa, maaari nilang gamitin ang VPN upang baguhin ang kanilang lokasyon.",
+        "p5": "null"
+      },
+      {
+        "id": "f7",
+        "question": "Ilang tao ang maaaring sumali sa isang party?",
+        "answer": "Walang limitasyon sa bilang ng mga taong maaaring sumali sa partido. Kaya, maaari kang mag-imbita ng maraming tao hangga't gusto mo."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Ipaalam sa amin.",
+    "anyQuestions": "May mga katanungan? Bisitahin ang aming pahina ng suporta",
+    "blog": "Blog",
+    "privacy": "Pagkapribado",
+    "popularSearches": "Mga Patok na Paghahanap",
+    "disclaimer": "Disclaimer",
+    "disclaimerContent": "Ang Disney Plus ay isang trademark ng Walt Disney Company. Ang website na ito",
+    "footerTags": [
+      "Disney Party",
+      "Disney Plus Watch Party",
+      "Disney Plus Party",
+      "Manood ng Party Disney Plus",
+      "Paano gumawa ng Watch Party sa Disney Plus",
+      "Disney Watch Party",
+      "Manood ng Party sa Disney Plus",
+      "Paano Mag-host ng Disney Plus Watch Party"
+    ]
+  }
+}

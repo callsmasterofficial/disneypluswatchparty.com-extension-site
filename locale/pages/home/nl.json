@@ -1,0 +1,152 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Optellen bij", "free": "Het is gratis" },
+    "navBarHeading": "is nu beschikbaar op Google Chrome, Microsoft Edge en Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "Stream Disney Plus met vrienden en familie vanaf verschillende locaties",
+      "html": "Om precies te zijn, Disney Plus is een zeer interactieve en gebruiksvriendelijke browserextensie die een revolutie teweegbrengt in de manier waarop vrienden en familie samen naar inhoud kijken en ervan genieten. Met de groepschatfunctie kunnen gebruikers eenvoudig in realtime communiceren en hun gedachten, reacties en gelach delen terwijl ze video's streamen. Dit sociale element voegt een gevoel van saamhorigheid en opwinding toe, waardoor de streamingervaring meeslepender en gedenkwaardiger wordt.<br/><br/>De HD Streaming-functie van de extensie tilt de filmkijkervaring naar een hoger niveau door betere beelden in HD-kwaliteit te leveren . Met scherpe beelden",
+      "para": "Een ander belangrijk aspect van Disney Party is de Control Over Watch Party-functie. Deelnemers hebben de flexibiliteit om te kiezen of de host de exclusieve controle heeft over de streaminginstellingen of dat dit een gezamenlijke inspanning is. Door deze inclusiviteit kan iedereen bijdragen aan de kijkervaring, wat leidt tot een democratischer en leuker kijkfeest. Door mensen bij elkaar te brengen, creëert Disney Party een platform voor gedeelde momenten, discussies en mogelijkheden voor binding. Het overbrugt de kloof tussen verre vrienden en familie, waardoor ze virtueel verbinding kunnen maken en blijvende herinneringen kunnen creëren. Of het nu gaat om een ​​informele filmavond of een speciale gelegenheid, Disney Party vergroot het plezier van het samen kijken naar inhoud, waardoor het een favoriet hulpmiddel wordt voor gedeelde entertainmentervaringen.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "Hoe gebruik je de Disney Watch Party?",
+      "subHeading": "Binnen een paar stappen kunt u aan de slag met de extensie: –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Installeer de extensie",
+          "answer": "Allereerst moeten de gebruikers de extensie installeren door <a href=\"https://chrome.google.com/webstore/detail/disney-plus-watch-party/nkciggljdfnkpcdngdohlpelojmklhin\" target=\"_blank\" ><u >Klik hier</u></a>. Hiervoor moet je ervoor zorgen dat je een Windows-, macOS- of Chromebook-laptop of pc hebt. Zorg er daarnaast ook voor dat u een Google Chrome- of Microsoft Edge-browser gebruikt."
+        },
+        {
+          "id": "2",
+          "question": "Extensie vastmaken aan Toolbar",
+          "answer": "Nadat u de extensie hebt geïnstalleerd, klikt u op het pictogram van de extensie in de werkbalk van uw browser. Klik hierna op het pin-icoontje om de Disney plus Watch Party-extensie vast te zetten op de werkbalk."
+        },
+        {
+          "id": "3",
+          "question": "Meld u aan bij Disney Plus",
+          "answer": "Om de extensie te kunnen gebruiken, moeten alle gebruikers een Disney Plus-abonnement hebben. Om een ​​Disney-feest te creëren of eraan deel te nemen, moet u bovendien inloggen op uw Disney-account."
+        },
+        {
+          "id": "4",
+          "question": "Creëer een Disney-feest",
+          "answer": "Creëer in een paar klikken uw virtuele feest via Disney Plus Watch Party. Het enige dat u hoeft te doen, is u gewoon aanmelden bij Disney en een video afspelen voor uw virtuele feest. Hierna klikt u op de knop “DP” in uw werkbalk. Selecteer vervolgens 'Start het feest' om uw virtuele feestlink te maken. Deel deze link met vrienden om ze uit te nodigen."
+        },
+        {
+          "id": "5",
+          "question": "Sluit je aan bij een Disney-feest",
+          "answer": "Installeer de extensie, log in op Disney plus Account en klik op de URL die door uw vriend wordt gedeeld. Deze URL verbindt u automatisch met de watchparty."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Kenmerken van Disney Plus Watch Party",
+      "subHeading": "De uitbreiding wordt geleverd met een verscheidenheid aan functies die uw Disney-feest spannender maken: –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Chat met andere deelnemers",
+          "answer": "De Disney Plus Watch Party-extensie wordt geleverd met chatfuncties waarmee u kunt chatten met de andere Disney Party-deelnemers. Terwijl u uw favoriete programma's streamt, kunt u dus ook met uw vrienden chatten."
+        },
+        {
+          "id": "t2",
+          "question": "Wereldwijde toegang",
+          "answer": "Waar u ook bent, u kunt de extensie installeren en leuke filmavonden beleven met uw dierbaren."
+        },
+        {
+          "id": "t3",
+          "question": "Streamen in HD",
+          "answer": "Om uw streamingervaring te verbeteren, ondersteunt de Disney Plus Watch Party-extensie HD-kwaliteit. Daarom kun je samen met je vrienden je favoriete programma's in HD-kwaliteit bekijken met snelle streaming."
+        },
+        {
+          "id": "t4",
+          "question": "Profielaanpassing",
+          "answer": "U kunt uw profiel aanmaken en aanpassen. De Disney Plus Watch Party-extensie wordt geleverd met verschillende grappige avatars die je als profielpictogram kunt plaatsen. Daarnaast kunt u ook de gebruikersnaam van uw keuze instellen."
+        },
+        {
+          "id": "t5",
+          "question": "Beheers het kijkfeest",
+          "answer": "Als gastheer kunt u het virtuele feest besturen door de knop “Alleen ik heb controle” in te schakelen. Met deze functie kun je de instellingen voor afspelen, pauzeren en volume van de video beheren en bewerken. Bovendien kun je de video ook vooruit en terugspoelen."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Veel Gestelde Vragen",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Wat is de Disney Plus Watch Party?",
+        "answer": "Disney Plus Watch Party is een gratis extensie waarmee alle Disney Plus-abonnees de shows en video's kunnen bekijken die worden gesynchroniseerd met mensen op verschillende locaties. Hiervoor hoeft u alleen maar virtuele Disney-feesten te creëren of eraan deel te nemen met mensen online en plezier te hebben."
+      },
+      {
+        "id": "f2",
+        "question": "Hoe installeer ik de extensie?",
+        "answer": "U kunt de extensie installeren door hier te klikken. Nadat u hier heeft geklikt, selecteert u de knoppen 'Toevoegen aan Chrome' en 'Extensie toevoegen'. Daarom wordt de extensie binnen enkele seconden geïnstalleerd."
+      },
+      {
+        "id": "f3",
+        "question": "Hoe kan ik de extensie vastzetten op de werkbalk van de browser?",
+        "answer": "U kunt de extensie aan de werkbalk vastmaken door de onderstaande stappen te volgen: –",
+        "p1": "Ten eerste moet u op het pictogram “Extensies” klikken in de werkbalk van uw browser.",
+        "p2": "Zoek hierna naar de Disney Plus Watch Party-extensie en tik op de pinknop om de extensie aan de browser toe te voegen.",
+        "p3": "null",
+        "p4": "null",
+        "p5": "null"
+      },
+      {
+        "id": "f4",
+        "question": "Hoe creëer je een kijkfeest?",
+        "answer": "Je kunt een kijkfeest creëren door simpelweg de onderstaande stappen te volgen: –",
+        "p1": "Installeer de Disney Party-extensie.",
+        "p2": "Log in op uw Disney Plus-account en selecteer een show.",
+        "p3": "Speel het video- en DP-pictogram af op de werkbalk om het venster 'Een feest maken' te openen.",
+        "p4": "Hier moet je de optie “Start the Party” selecteren om de URL te maken.",
+        "p5": "Kopieer uiteindelijk de URL en deel deze met mensen."
+      },
+      {
+        "id": "f5",
+        "question": "Hoe neem je deel aan de Disney Plus Watch Party?",
+        "answer": "Je kunt deelnemen aan het feest via de link Party kijken. U moet echter eerst de extensie installeren en vervolgens inloggen op het Disney Plus-account. Nadat u zich heeft aangemeld bij de extensie, klikt u op de Disney Party-link die uw vriend met u heeft gedeeld."
+      },
+      {
+        "id": "f6",
+        "question": "Wat zijn de vereisten om de Disney Plus Watch Party te gebruiken?",
+        "answer": "U moet aan de onderstaande vereisten voldoen om de extensie te gebruiken: –",
+        "p1": "Je hebt een Chromebook, Windows- of macOS-laptop of pc nodig.",
+        "p2": "De extensie kan worden geïnstalleerd via Google Chrome of Microsoft Edge browser.",
+        "p3": "Zorg ervoor dat je een stabiele internetverbinding hebt.",
+        "p4": "Houd er rekening mee dat iedereen die mee wil doen aan de watch party in hetzelfde land aanwezig moet zijn. Als een lid zich echter in een ander land bevindt, kan hij de VPN gebruiken om zijn locatie te wijzigen.",
+        "p5": "null"
+      },
+      {
+        "id": "f7",
+        "question": "Hoeveel mensen kunnen meedoen aan een feestje?",
+        "answer": "Er is geen beperking op het aantal mensen dat zich bij de partij kan aansluiten. Je kunt dus zoveel mensen uitnodigen als je wilt."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Laat het ons weten.",
+    "anyQuestions": "Vragen hebben? Bezoek onze ondersteuningspagina",
+    "blog": "Bloggen",
+    "privacy": "Privacy",
+    "popularSearches": "populaire zoekopdrachten",
+    "disclaimer": "Vrijwaring",
+    "disclaimerContent": "Disney Plus is een handelsmerk van Walt Disney Company. Deze website",
+    "footerTags": [
+      "Disney-feest",
+      "Disney Plus Kijkfeest",
+      "Disney Plus-feest",
+      "Kijk Feestje Disney Plus",
+      "Hoe je een Watch Party organiseert op Disney Plus",
+      "Disney Watch-feestje",
+      "Bekijk Feest op Disney Plus",
+      "Hoe u een Disney Plus Watch-feest organiseert"
+    ]
+  }
+}

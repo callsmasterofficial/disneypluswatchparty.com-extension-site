@@ -1,0 +1,152 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Ongezea", "free": "Ni Bure" },
+    "navBarHeading": "sasa inapatikana kwenye Google Chrome, Microsoft Edge na Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "Tiririsha Disney Plus na marafiki na familia kutoka maeneo tofauti",
+      "html": "Kwa usahihi zaidi, Disney Plus ni kiendelezi cha kivinjari chenye mwingiliano na kinachofaa mtumiaji ambacho hubadilisha jinsi marafiki na familia hutazama na kufurahia maudhui pamoja. Kwa kipengele chake cha Gumzo la Kikundi, watumiaji wanaweza kuwasiliana kwa urahisi na kushiriki mawazo yao, miitikio na vicheko katika muda halisi wanapotiririsha video. Kipengele hiki cha kijamii huongeza hali ya umoja na msisimko, na hivyo kufanya utiririshaji kuwa wa kuvutia zaidi na wa kukumbukwa.<br/><br/>Kipengele cha Utiririshaji cha HD cha kiendelezi hiki kinaongeza hali ya utazamaji filamu kwa kutoa picha bora zaidi katika ubora wa HD. . Na vielelezo crisp",
+      "para": "Kipengele kingine muhimu cha Disney Party ni kipengele cha Control Over Watch Party. Washiriki wana uwezo wa kuchagua ikiwa mwenyeji ana udhibiti pekee wa mipangilio ya utiririshaji au ikiwa ni juhudi za ushirikiano. Ujumuishi huu huruhusu kila mtu kuchangia utazamaji, na hivyo kusababisha tafrija ya kutazama ya kidemokrasia na ya kufurahisha zaidi. Kwa kuwaleta watu pamoja, Disney Party huunda jukwaa la matukio ya pamoja, majadiliano na fursa za kuunganisha. Inaziba pengo kati ya marafiki na familia za mbali, kuwawezesha kuungana kwa karibu na kuunda kumbukumbu za kudumu. Iwe ni usiku wa kawaida wa filamu au tukio maalum, Disney Party huongeza furaha ya kutazama maudhui pamoja, na kuifanya kuwa zana pendwa ya matumizi ya burudani ya pamoja.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "Jinsi ya kutumia Disney Watch Party",
+      "subHeading": "Unaweza kuanza na kiendelezi ndani ya hatua chache: -",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Sakinisha kiendelezi",
+          "answer": "Kwanza kabisa, watumiaji wanatakiwa kusakinisha kiendelezi kwa <a href=\"https://chrome.google.com/webstore/detail/disney-plus-watch-party/nkciggljdfnkpcdngdohlpelojmklhin\" target=\"_blank\" ><u >Kubofya hapa</u></a>. Ili kufanya hivyo, unahitaji kuhakikisha kuwa una kompyuta ya mkononi ya Windows, macOS, au Chromebook. Kwa kuongeza, pia hakikisha kuwa unatumia kivinjari cha Google Chrome au Microsoft Edge."
+        },
+        {
+          "id": "2",
+          "question": "Bandika kiendelezi kwenye Upauzana",
+          "answer": "Baada ya kusakinisha kiendelezi, unapaswa kubofya ikoni ya kiendelezi kwenye upau wa vidhibiti wa kivinjari chako. Baada ya hayo, bofya aikoni ya kipini ili kubandika Kiendelezi cha Disney pamoja na Sherehe ya Kutazama kwenye upau wa vidhibiti."
+        },
+        {
+          "id": "3",
+          "question": "Ingia katika Disney Plus",
+          "answer": "Ni muhimu kwa watumiaji wote kuwa na usajili wa Disney Plus ili kutumia kiendelezi. Zaidi ya hayo, ili kuunda au kujiunga na karamu ya Disney, lazima uingie katika akaunti yako ya Disney."
+        },
+        {
+          "id": "4",
+          "question": "Unda Sherehe ya Disney",
+          "answer": "Anzisha sherehe yako ya mtandaoni kupitia Disney Plus Watch Party katika mibofyo michache. Unachohitajika kufanya ni kuingia tu kwenye Disney na kucheza video kwa ajili ya sherehe yako ya mtandaoni. Baada ya hayo, unapaswa kubofya kitufe cha \"DP\" kilichotolewa kwenye upau wa vidhibiti. Kisha, chagua \"Anzisha Sherehe\" ili kuunda kiungo chako cha karamu pepe. Tafadhali shiriki kiungo hiki na marafiki ili kuwaalika."
+        },
+        {
+          "id": "5",
+          "question": "Jiunge na Sherehe ya Disney",
+          "answer": "Sakinisha kiendelezi, ingia kwenye Akaunti ya Disney plus, na ubofye URL iliyoshirikiwa na rafiki yako. URL hii itakuunganisha kiotomatiki kwa chama cha kutazama."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Vipengele vya Sherehe ya Kutazama ya Disney Plus",
+      "subHeading": "Ugani huja na vipengele mbalimbali vinavyofanya Sherehe yako ya Disney kusisimua zaidi: -",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Piga gumzo na washiriki wengine",
+          "answer": "Kiendelezi cha Disney Plus Watch Party kinakuja na vipengele vya gumzo vinavyokuwezesha kupiga gumzo na washiriki wengine wa Disney Party. Kwa hivyo, unapotiririsha vipindi unavyovipenda, unaweza pia kuzungumza na marafiki zako."
+        },
+        {
+          "id": "t2",
+          "question": "Ufikiaji wa ulimwengu",
+          "answer": "Bila kujali mahali ulipo, unaweza kusakinisha kiendelezi na ufurahie usiku wa filamu na wapendwa wako."
+        },
+        {
+          "id": "t3",
+          "question": "Tiririsha katika HD",
+          "answer": "Ili kuboresha utiririshaji wako, kiendelezi cha Disney Plus Watch Party kinaweza kutumia ubora wa HD. Kwa hivyo, utaweza kutazama vipindi unavyovipenda na marafiki zako katika ubora wa HD na utiririshaji wa haraka."
+        },
+        {
+          "id": "t4",
+          "question": "Kubinafsisha Wasifu",
+          "answer": "Unaweza kuunda na kubinafsisha wasifu wako. Kiendelezi cha Disney Plus Watch Party kinakuja na avatar mbalimbali za kuchekesha ambazo unaweza kuweka kama ikoni ya wasifu wako. Kwa kuongeza, unaweza pia kuweka jina la mtumiaji la uchaguzi wako."
+        },
+        {
+          "id": "t5",
+          "question": "Dhibiti chama cha kutazama",
+          "answer": "Kama mpangishaji, unaweza kudhibiti sherehe pepe kwa kuwezesha kitufe cha \"Mimi Pekee ninaye udhibiti\". Ukiwa na kipengele hiki, utaweza kudhibiti na kuhariri uchezaji, kusitisha na mipangilio ya sauti ya video. Zaidi ya hayo, unaweza pia kupata mbele yako na kurudisha nyuma video."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "maswali yanayoulizwa mara kwa mara",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Sherehe ya Kutazama ya Disney Plus ni nini?",
+        "answer": "Disney Plus Watch Party ni kiendelezi kisicholipishwa ambacho watumiaji wote wa Disney Plus wanaweza kutazama vipindi na video zinazosawazishwa na watu katika maeneo tofauti. Kwa hili, unachohitaji kufanya ni kuunda au kujiunga na karamu pepe za Disney na watu mtandaoni na ufurahie."
+      },
+      {
+        "id": "f2",
+        "question": "Jinsi ya kufunga ugani?",
+        "answer": "Unaweza kusakinisha kiendelezi kwa kubofya hapa. Baada ya kubofya hapa, unapaswa kuchagua vifungo vya \"Ongeza kwenye Chrome\" na \"Ongeza Ugani\". Kwa hivyo, kiendelezi kitasakinishwa katika sekunde chache."
+      },
+      {
+        "id": "f3",
+        "question": "Ninawezaje kubandika kiendelezi kwenye upau wa vidhibiti wa kivinjari?",
+        "answer": "Unaweza kubandika kiendelezi kwenye upau wa vidhibiti kwa kufuata hatua zifuatazo: -",
+        "p1": "Kwanza, unahitaji kubofya ikoni ya \"Viendelezi\" iliyotolewa kwenye upau wa vidhibiti wa kivinjari chako.",
+        "p2": "Baada ya hayo, tafuta kiendelezi cha Disney Plus Watch Party na uguse kitufe cha siri ili kuongeza kiendelezi kwenye kivinjari.",
+        "p3": "null",
+        "p4": "null",
+        "p5": "null"
+      },
+      {
+        "id": "f4",
+        "question": "Jinsi ya kuunda chama cha kutazama?",
+        "answer": "Unaweza kuunda tafrija ya kutazama kwa kufuata tu hatua zifuatazo: -",
+        "p1": "Sakinisha kiendelezi cha Disney Party.",
+        "p2": "Ingia katika akaunti yako ya Disney Plus na uchague kipindi.",
+        "p3": "Cheza video na ikoni ya DP kwenye upau wa vidhibiti ili kufungua dirisha la \"Unda Sherehe\".",
+        "p4": "Hapa, unapaswa kuchagua chaguo la \"Anzisha Chama\" ili kuunda URL.",
+        "p5": "Mwishowe, nakili URL na uishiriki na watu."
+      },
+      {
+        "id": "f5",
+        "question": "Jinsi ya kujiunga na Disney Plus Watch Party?",
+        "answer": "Unaweza kujiunga na chama ukitumia kiungo cha chama cha kutazama. Hata hivyo, kwanza, unahitaji kusakinisha kiendelezi kisha uingie kwenye akaunti ya Disney Plus. Baada ya kuingia kwenye kiendelezi, unapaswa kubofya kiungo cha Disney Party kilichoshirikiwa nawe na rafiki yako."
+      },
+      {
+        "id": "f6",
+        "question": "Je, ni mahitaji gani ya kutumia Sherehe ya Kutazama ya Disney Plus?",
+        "answer": "Unahitaji kutimiza mahitaji yafuatayo ili kutumia kiendelezi: -",
+        "p1": "Ni lazima uwe na Chromebook, Windows au MacOS, au Kompyuta.",
+        "p2": "Ugani unaweza kusanikishwa kupitia kivinjari cha Google Chrome au Microsoft Edge.",
+        "p3": "Hakikisha kuwa una muunganisho thabiti wa intaneti.",
+        "p4": "Tafadhali kumbuka kuwa kila mtu anayetaka kujiunga na chama cha kutazama anapaswa kuwepo katika nchi sawa. Hata hivyo, ikiwa mwanachama yeyote yuko katika nchi nyingine, anaweza kutumia VPN kubadilisha eneo lake.",
+        "p5": "null"
+      },
+      {
+        "id": "f7",
+        "question": "Ni watu wangapi wanaweza kujiunga na chama?",
+        "answer": "Hakuna kikomo kwa idadi ya watu wanaoweza kujiunga na chama. Kwa hivyo, unaweza kualika watu wengi unavyotaka."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Tujulishe.",
+    "anyQuestions": "Una maswali? Tembelea ukurasa wetu wa usaidizi",
+    "blog": "Blogu",
+    "privacy": "Faragha",
+    "popularSearches": "Utafutaji Maarufu",
+    "disclaimer": "Kanusho",
+    "disclaimerContent": "Disney Plus ni chapa ya biashara ya Kampuni ya Walt Disney. Tovuti hii",
+    "footerTags": [
+      "Disney Party",
+      "Sherehe ya Kutazama ya Disney Plus",
+      "Disney Plus Party",
+      "Tazama Party Disney Plus",
+      "Jinsi ya kufanya Sherehe ya Kutazama kwenye Disney Plus",
+      "Disney Watch Party",
+      "Tazama Sherehe kwenye Disney Plus",
+      "Jinsi ya Kuandaa Sherehe ya Kutazama ya Disney Plus"
+    ]
+  }
+}

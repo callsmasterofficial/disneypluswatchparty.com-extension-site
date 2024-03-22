@@ -1,0 +1,152 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Hozzáadás", "free": "Ingyen van" },
+    "navBarHeading": "már elérhető a Google Chrome, a Microsoft Edge és a Mozilla Firefox böngészőn"
+  },
+  "section": {
+    "first": {
+      "heading": "Streamelje a Disney Plus-t barátaival és családjával különböző helyekről",
+      "html": "Pontosabban, a Disney Plus egy rendkívül interaktív és felhasználóbarát böngészőbővítmény, amely forradalmasítja a barátok és a család közös nézését és élvezetét. Csoportos csevegés funkciójával a felhasználók könnyedén kommunikálhatnak és megoszthatják gondolataikat, reakcióikat és nevetést valós időben, miközben videókat streamelnek. Ez a közösségi elem az összetartozás és az izgalom érzését kelti, így a streamelési élmény még magával ragadóbb és emlékezetesebb lesz.<br/><br/>A bővítmény HD Streaming funkciója magasabb szintre emeli a filmnézés élményét azáltal, hogy jobb képeket biztosít HD minőségben. . Éles látványvilággal",
+      "para": "A Disney Party másik fontos szempontja a Control Over Watch Party funkció. A résztvevők rugalmasan megválaszthatják, hogy a házigazda kizárólagos irányítása alatt áll-e a streamelési beállítások felett, vagy közös erőfeszítésről van szó. Ez a befogadás lehetővé teszi, hogy mindenki hozzájáruljon a megtekintési élményhez, ami egy demokratikusabb és élvezetesebb nézési partihoz vezet. Az emberek összehozásával a Disney Party platformot teremt a közös pillanatokhoz, beszélgetésekhez és kapcsolatteremtési lehetőségekhez. Áthidalja a szakadékot a távoli barátok és a család között, lehetővé téve számukra, hogy virtuálisan kapcsolatba kerüljenek, és maradandó emlékeket alkossanak. Legyen szó egy hétköznapi filmes estéről vagy egy különleges alkalomról, a Disney Party fokozza a közös tartalomnézés örömét, így a közös szórakozási élmények kedvenc eszközévé válik.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "A Disney Watch Party használata",
+      "subHeading": "Néhány lépésben elkezdheti a bővítmény használatát: –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Telepítse a bővítményt",
+          "answer": "Először is a felhasználóknak telepíteniük kell a bővítményt a következőig: <a href=\"https://chrome.google.com/webstore/detail/disney-plus-watch-party/nkciggljdfnkpcdngdohlpelojmklhin\" target=\"_blank\" ><u >Kattintson ide</u></a>. Ehhez meg kell győződnie arról, hogy Windows, macOS vagy Chromebook laptoppal vagy PC-vel rendelkezik. Ezenkívül győződjön meg arról, hogy Google Chrome vagy Microsoft Edge böngészőt használ."
+        },
+        {
+          "id": "2",
+          "question": "Kiterjesztés rögzítése az Eszköztárhoz",
+          "answer": "A bővítmény telepítése után kattintson a bővítmény ikonjára a böngésző eszköztárában. Ezután kattintson a kitűző ikonra, hogy rögzítse a Disney plus Watch Party bővítményt az eszköztáron."
+        },
+        {
+          "id": "3",
+          "question": "Jelentkezzen be a Disney Plus szolgáltatásba",
+          "answer": "A bővítmény használatához minden felhasználónak Disney Plus előfizetéssel kell rendelkeznie. Ezenkívül a Disney party létrehozásához vagy ahhoz való csatlakozásához be kell jelentkeznie Disney-fiókjába."
+        },
+        {
+          "id": "4",
+          "question": "Hozz létre egy Disney-partit",
+          "answer": "Hozza létre virtuális partiját a Disney Plus Watch Party segítségével néhány kattintással. Nincs más dolgod, mint bejelentkezni a Disney-be, és lejátszani egy videót a virtuális partihoz. Ezt követően kattintson az eszköztáron található „DP” gombra. Ezután válassza a „Parti indítása” lehetőséget a virtuális parti linkjének létrehozásához. Kérjük, ossza meg ezt a linket ismerőseivel, hogy meghívja őket."
+        },
+        {
+          "id": "5",
+          "question": "Csatlakozz egy Disney Partyhoz",
+          "answer": "Telepítse a bővítményt, jelentkezzen be a Disney plus fiókba, és kattintson a barátja által megosztott URL-re. Ez az URL automatikusan összekapcsolja Önt a megtekintési bulival."
+        }
+      ]
+    },
+    "three": {
+      "heading": "A Disney Plus Watch Party jellemzői",
+      "subHeading": "A bővítmény számos olyan funkcióval rendelkezik, amelyek izgalmasabbá teszik a Disney Partyt: –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Csevegés a többi résztvevővel",
+          "answer": "A Disney Plus Watch Party bővítmény csevegési funkciókkal rendelkezik, amelyek lehetővé teszik, hogy csevegjen a Disney Party többi résztvevőjével. Így kedvenc műsorainak streamelése közben cseveghet barátaival is."
+        },
+        {
+          "id": "t2",
+          "question": "Világszerte elérhető",
+          "answer": "Nem számít, hol van, telepítheti a bővítményt, és szórakoztató filmesteket tölthet szeretteivel."
+        },
+        {
+          "id": "t3",
+          "question": "Streamelj HD minőségben",
+          "answer": "A streamelési élmény fokozása érdekében a Disney Plus Watch Party bővítmény támogatja a HD minőséget. Ezért HD minőségben, gyors streameléssel nézheti kedvenc műsorait barátaival."
+        },
+        {
+          "id": "t4",
+          "question": "Profil testreszabása",
+          "answer": "Létrehozhatja és testreszabhatja profilját. A Disney Plus Watch Party bővítmény különféle vicces avatarokkal érkezik, amelyeket elhelyezhet profilikonjaként. Ezenkívül beállíthatja az Ön által választott felhasználónevet."
+        },
+        {
+          "id": "t5",
+          "question": "Irányítsd az órapartit",
+          "answer": "Gazdaként a „Csak én rendelkezem” gomb engedélyezésével irányíthatja a virtuális partit. Ezzel a funkcióval kezelheti és szerkesztheti a videó lejátszási, szüneteltetési és hangerő-beállításait. Sőt, előre és vissza is tekerheti a videót."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Gyakran Ismételt Kérdések",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Mi az a Disney Plus Watch Party?",
+        "answer": "A Disney Plus Watch Party egy ingyenes bővítmény, amelyen keresztül a Disney Plus összes előfizetője megnézheti a műsorokat és videókat, amelyek szinkronizálódnak a különböző helyeken tartózkodó emberekkel. Ehhez nem kell mást tennie, mint létrehozni vagy csatlakozni virtuális Disney-partikhoz online emberekkel, és szórakozni."
+      },
+      {
+        "id": "f2",
+        "question": "Hogyan kell telepíteni a bővítményt?",
+        "answer": "A bővítményt ide kattintva telepítheti. Miután ide kattintott, válassza ki a „Hozzáadás a Chrome-hoz” és a „Bővítmény hozzáadása” gombot. Így a bővítmény néhány másodpercen belül telepítésre kerül."
+      },
+      {
+        "id": "f3",
+        "question": "Hogyan rögzíthetem a bővítményt a böngésző eszköztárához?",
+        "answer": "A bővítményt az alábbi lépések végrehajtásával rögzítheti az eszköztárhoz: –",
+        "p1": "Először is rá kell kattintania a böngésző eszköztárában található „Bővítmények” ikonra.",
+        "p2": "Ezt követően keresse meg a Disney Plus Watch Party bővítményt, és érintse meg a pin gombot, hogy hozzáadja a bővítményt a böngészőhöz.",
+        "p3": "null",
+        "p4": "null",
+        "p5": "null"
+      },
+      {
+        "id": "f4",
+        "question": "Hogyan készítsünk órapartit?",
+        "answer": "Létrehozhat egy órapartit az alábbi lépések követésével: –",
+        "p1": "Telepítse a Disney Party bővítményt.",
+        "p2": "Jelentkezzen be Disney Plus fiókjába, és válasszon egy műsort.",
+        "p3": "Játssza le a videót és a DP ikont az eszköztáron a „Parti létrehozása” ablak megnyitásához.",
+        "p4": "Itt ki kell választania a „Parti indítása” opciót az URL létrehozásához.",
+        "p5": "Végül másolja ki az URL-t, és ossza meg másokkal."
+      },
+      {
+        "id": "f5",
+        "question": "Hogyan lehet csatlakozni a Disney Plus Watch Partyhoz?",
+        "answer": "A partira a watch party link segítségével tudsz csatlakozni. Először azonban telepítenie kell a bővítményt, majd be kell jelentkeznie a Disney Plus fiókba. Miután bejelentkezett a bővítménybe, kattintson az ismerőse által megosztott Disney Party linkre."
+      },
+      {
+        "id": "f6",
+        "question": "Mik a követelmények a Disney Plus Watch Party használatához?",
+        "answer": "A bővítmény használatához teljesítenie kell az alábbi követelményeket: –",
+        "p1": "Chromebook-ot, Windows- vagy macOS-es laptopot vagy PC-t kell használnia.",
+        "p2": "A bővítmény a Google Chrome vagy a Microsoft Edge böngészőn keresztül telepíthető.",
+        "p3": "Győződjön meg arról, hogy stabil internetkapcsolattal rendelkezik.",
+        "p4": "Kérjük, vegye figyelembe, hogy mindenkinek, aki csatlakozni szeretne a partihoz, ugyanabban az országban kell jelen lennie. Ha azonban bármely tag egy másik országban tartózkodik, a VPN segítségével megváltoztathatja tartózkodási helyét.",
+        "p5": "null"
+      },
+      {
+        "id": "f7",
+        "question": "Hány ember csatlakozhat egy párthoz?",
+        "answer": "A párthoz csatlakozni kívánók száma nincs korlátozva. Így annyi embert hívhat meg, amennyit csak akar."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Tudasd velünk.",
+    "anyQuestions": "Kérdései vannak? Látogassa meg támogatási oldalunkat",
+    "blog": "Blog",
+    "privacy": "Magánélet",
+    "popularSearches": "Népszerű keresések",
+    "disclaimer": "Jogi nyilatkozat",
+    "disclaimerContent": "A Disney Plus a Walt Disney Company védjegye. Ez a weboldal",
+    "footerTags": [
+      "Disney Party",
+      "Disney Plus Watch Party",
+      "Disney Plus Party",
+      "Nézd meg a Party Disney Plus-t",
+      "Hogyan készíts egy Watch Party-t a Disney Plus-on",
+      "Disney Watch Party",
+      "Nézze meg a Party-t a Disney Plus-on",
+      "Hogyan rendezzünk Disney Plus Watch Party-t"
+    ]
+  }
+}

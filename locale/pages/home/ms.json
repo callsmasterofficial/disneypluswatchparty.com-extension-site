@@ -1,0 +1,152 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Tambah Pada", "free": "Ianya Percuma" },
+    "navBarHeading": "kini tersedia di Google Chrome, Microsoft Edge dan Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "Strim Disney Plus dengan rakan dan keluarga dari lokasi yang berbeza",
+      "html": "Lebih tepat lagi, Disney Plus ialah sambungan penyemak imbas yang sangat interaktif dan mesra pengguna yang merevolusikan cara rakan dan keluarga menonton dan menikmati kandungan bersama-sama. Dengan ciri Sembang Kumpulannya, pengguna boleh berkomunikasi dengan mudah dan berkongsi fikiran, reaksi dan ketawa mereka dalam masa nyata semasa menstrim video. Elemen sosial ini menambahkan rasa kebersamaan dan keseronokan, menjadikan pengalaman penstriman lebih mengasyikkan dan diingati.<br/><br/>Ciri Penstriman HD sambungan membawa pengalaman menonton filem ke peringkat seterusnya dengan menyediakan gambar yang lebih baik dalam kualiti HD . Dengan visual yang tajam",
+      "para": "Satu lagi aspek penting Disney Party ialah ciri Control Over Watch Party. Peserta mempunyai fleksibiliti untuk memilih sama ada hos mempunyai kawalan tunggal ke atas tetapan penstriman atau jika ia adalah usaha kerjasama. Keterangkuman ini membolehkan semua orang menyumbang kepada pengalaman menonton, yang membawa kepada pesta menonton yang lebih demokratik dan menyeronokkan. Dengan membawa orang ramai bersama-sama, Parti Disney mencipta platform untuk detik-detik perkongsian, perbincangan dan peluang ikatan. Ia merapatkan jurang antara rakan dan keluarga yang jauh, membolehkan mereka berhubung secara maya dan mencipta kenangan yang berkekalan. Sama ada malam filem kasual atau majlis istimewa, Disney Party meningkatkan kegembiraan menonton kandungan bersama-sama, menjadikannya alat kegemaran untuk pengalaman hiburan yang dikongsi.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "Cara menggunakan Disney Watch Party",
+      "subHeading": "Anda boleh bermula dengan sambungan dalam beberapa langkah: –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Pasang sambungan",
+          "answer": "Pertama sekali, pengguna dikehendaki memasang sambungan dengan <a href=\"https://chrome.google.com/webstore/detail/disney-plus-watch-party/nkciggljdfnkpcdngdohlpelojmklhin\" target=\"_blank\" ><u >Mengklik di sini</u></a>. Untuk ini, anda perlu memastikan bahawa anda mempunyai komputer riba atau PC Windows, macOS atau Chromebook. Selain itu, pastikan juga anda menggunakan pelayar Google Chrome atau Microsoft Edge."
+        },
+        {
+          "id": "2",
+          "question": "Sambungan pin pada Bar Alat",
+          "answer": "Selepas memasang sambungan, anda harus mengklik pada ikon sambungan pada bar alat penyemak imbas anda. Selepas ini, klik pada ikon pin untuk menyematkan Sambungan Parti Tontonan Disney plus pada bar alat."
+        },
+        {
+          "id": "3",
+          "question": "Log masuk ke Disney Plus",
+          "answer": "Semua pengguna perlu mempunyai langganan Disney Plus untuk menggunakan sambungan itu. Selain itu, untuk membuat atau menyertai parti Disney, anda perlu log masuk ke akaun Disney anda."
+        },
+        {
+          "id": "4",
+          "question": "Buat Parti Disney",
+          "answer": "Buat parti maya anda melalui Disney Plus Watch Party dalam beberapa klik. Apa yang anda perlu lakukan hanyalah log masuk ke Disney dan mainkan video untuk parti maya anda. Selepas ini, anda harus mengklik pada butang \"DP\" yang diberikan dalam bar alat anda. Kemudian, pilih \"Mulakan Parti\" untuk membuat pautan parti maya anda. Sila kongsi pautan ini dengan rakan-rakan untuk menjemput mereka."
+        },
+        {
+          "id": "5",
+          "question": "Sertai Parti Disney",
+          "answer": "Pasang sambungan, log masuk ke Akaun Disney plus, dan klik pada URL yang dikongsi oleh rakan anda. URL ini akan menghubungkan anda secara automatik ke pihak menonton."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Ciri-ciri Disney Plus Watch Party",
+      "subHeading": "Sambungan ini disertakan dengan pelbagai ciri yang menjadikan Pesta Disney anda lebih menarik: –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Berbual dengan peserta lain",
+          "answer": "Sambungan Disney Plus Watch Party disertakan dengan ciri sembang yang membolehkan anda bersembang dengan peserta Disney Party yang lain. Oleh itu, semasa menstrim rancangan kegemaran anda, anda juga boleh bersembang dengan rakan anda."
+        },
+        {
+          "id": "t2",
+          "question": "Akses seluruh dunia",
+          "answer": "Tidak kira di mana anda berada, anda boleh memasang sambungan dan berseronok dengan malam wayang bersama orang tersayang anda."
+        },
+        {
+          "id": "t3",
+          "question": "Strim dalam HD",
+          "answer": "Untuk meningkatkan pengalaman penstriman anda, sambungan Disney Plus Watch Party menyokong kualiti HD. Oleh itu, anda akan dapat menonton rancangan kegemaran anda bersama rakan anda dalam kualiti HD dengan penstriman pantas."
+        },
+        {
+          "id": "t4",
+          "question": "Penyesuaian Profil",
+          "answer": "Anda boleh membuat dan menyesuaikan profil anda. Sambungan Disney Plus Watch Party disertakan dengan pelbagai avatar lucu yang boleh anda letakkan sebagai ikon profil anda. Selain itu, anda juga boleh menetapkan nama pengguna pilihan anda."
+        },
+        {
+          "id": "t5",
+          "question": "Kawal pesta jam tangan",
+          "answer": "Sebagai hos, anda boleh mengawal parti maya dengan mendayakan butang \"Hanya saya mempunyai kawalan\". Dengan ciri ini, anda akan dapat mengurus dan mengedit tetapan main, jeda dan kelantangan video. Selain itu, anda juga boleh mendapatkan ke hadapan dan memundurkan video."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Soalan Lazim",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Apakah Pesta Tontonan Disney Plus?",
+        "answer": "Disney Plus Watch Party ialah sambungan percuma yang melaluinya semua pelanggan Disney Plus boleh menonton rancangan dan video yang disegerakkan dengan orang di lokasi yang berbeza. Untuk ini, anda hanya perlu membuat atau menyertai parti Disney maya dengan orang dalam talian dan berseronok."
+      },
+      {
+        "id": "f2",
+        "question": "Bagaimana untuk memasang sambungan?",
+        "answer": "Anda boleh memasang sambungan dengan mengklik di sini. Selepas mengklik di sini, anda harus memilih butang \"Tambah pada Chrome\" dan \"Tambah Sambungan\". Oleh itu, sambungan akan dipasang dalam beberapa saat."
+      },
+      {
+        "id": "f3",
+        "question": "Bagaimanakah saya boleh menyemat sambungan pada bar alat penyemak imbas?",
+        "answer": "Anda boleh menyemat sambungan pada bar alat dengan mengikuti langkah di bawah: –",
+        "p1": "Pertama, anda perlu mengklik pada ikon \"Sambungan\" yang diberikan pada bar alat penyemak imbas anda.",
+        "p2": "Selepas ini, cari sambungan Disney Plus Watch Party dan ketik pada butang pin untuk menambah sambungan pada penyemak imbas.",
+        "p3": "null",
+        "p4": "null",
+        "p5": "null"
+      },
+      {
+        "id": "f4",
+        "question": "Bagaimana untuk membuat pesta jam tangan?",
+        "answer": "Anda boleh membuat pesta menonton dengan hanya mengikut langkah di bawah: –",
+        "p1": "Pasang sambungan Disney Party.",
+        "p2": "Log masuk ke akaun Disney Plus anda dan pilih rancangan.",
+        "p3": "Mainkan video dan ikon DP di bar alat untuk membuka tetingkap \"Buat Parti\".",
+        "p4": "Di sini, anda perlu memilih pilihan \"Mulakan Parti\" untuk membuat URL.",
+        "p5": "Akhirnya, salin URL dan kongsikannya dengan orang lain."
+      },
+      {
+        "id": "f5",
+        "question": "Bagaimana untuk menyertai Pesta Tontonan Disney Plus?",
+        "answer": "Anda boleh menyertai parti dengan pautan pesta jam tangan. Walau bagaimanapun, pertama sekali, anda perlu memasang sambungan dan kemudian log masuk ke akaun Disney Plus. Selepas melog masuk ke sambungan, anda harus mengklik pada pautan Disney Party yang dikongsi dengan anda oleh rakan anda."
+      },
+      {
+        "id": "f6",
+        "question": "Apakah keperluan untuk menggunakan Disney Plus Watch Party?",
+        "answer": "Anda perlu memenuhi keperluan di bawah untuk menggunakan sambungan: -",
+        "p1": "Anda mesti mempunyai Chromebook, komputer riba Windows atau macOS atau PC.",
+        "p2": "Sambungan boleh dipasang melalui pelayar Google Chrome atau Microsoft Edge.",
+        "p3": "Pastikan anda mempunyai sambungan internet yang stabil.",
+        "p4": "Sila ambil perhatian bahawa semua orang yang ingin menyertai pesta menonton harus hadir di negara yang sama. Walau bagaimanapun, jika mana-mana ahli berada di negara lain, mereka boleh menggunakan VPN untuk menukar lokasi mereka.",
+        "p5": "null"
+      },
+      {
+        "id": "f7",
+        "question": "Berapa ramai orang boleh menyertai parti?",
+        "answer": "Tiada had bilangan orang yang boleh menyertai parti. Oleh itu, anda boleh menjemput seberapa ramai orang yang anda mahu."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Beritahu kami.",
+    "anyQuestions": "Ada soalan? Lawati halaman sokongan kami",
+    "blog": "Blog",
+    "privacy": "Privasi",
+    "popularSearches": "Carian Popular",
+    "disclaimer": "Penafian",
+    "disclaimerContent": "Disney Plus ialah tanda dagangan Syarikat Walt Disney. Laman web ini",
+    "footerTags": [
+      "Parti Disney",
+      "Pesta Jam Tangan Disney Plus",
+      "Parti Disney Plus",
+      "Tonton Party Disney Plus",
+      "Cara membuat Pesta Tonton di Disney Plus",
+      "Pesta Jam Tangan Disney",
+      "Tonton Parti di Disney Plus",
+      "Cara Menganjurkan Pesta Tontonan Disney Plus"
+    ]
+  }
+}

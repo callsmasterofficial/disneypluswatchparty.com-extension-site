@@ -1,0 +1,152 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Adaugă la", "free": "Este gratis" },
+    "navBarHeading": "este acum disponibil pe Google Chrome, Microsoft Edge și Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "Transmiteți în flux Disney Plus cu prietenii și familia din diferite locații",
+      "html": "Mai precis, Disney Plus este o extensie de browser extrem de interactivă și ușor de utilizat, care revoluționează modul în care prietenii și familia urmăresc și se bucură de conținut împreună. Cu funcția sa de chat de grup, utilizatorii își pot comunica cu ușurință și își pot împărtăși gândurile, reacțiile și râsul în timp real în timp ce redau videoclipuri. Acest element social adaugă un sentiment de unitate și entuziasm, făcând experiența de streaming mai captivantă și mai memorabilă.<br/><br/>Funcția de streaming HD a extensiei duce experiența de vizionare a filmelor la următorul nivel, oferind imagini mai bune la calitate HD . Cu imagini clare",
+      "para": "Un alt aspect semnificativ al Disney Party este funcția Control Over Watch Party. Participanții au flexibilitatea de a alege dacă gazda are controlul exclusiv asupra setărilor de streaming sau dacă este un efort de colaborare. Această incluziune permite tuturor să contribuie la experiența de vizionare, ceea ce duce la o petrecere de vizionare mai democratică și mai plăcută. Prin reunirea oamenilor, Disney Party creează o platformă pentru momente comune, discuții și oportunități de relație. Face o punte între prietenii îndepărtați și familie, permițându-le să se conecteze virtual și să creeze amintiri de durată. Indiferent dacă o seară de film ocazională sau o ocazie specială, Disney Party sporește bucuria de a viziona conținut împreună, făcându-l un instrument preferat pentru experiențe de divertisment partajate.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "Cum să utilizați Disney Watch Party",
+      "subHeading": "Puteți începe cu extensia în câțiva pași: –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Instalați extensia",
+          "answer": "În primul rând, utilizatorii trebuie să instaleze extensia de către <a href=\"https://chrome.google.com/webstore/detail/disney-plus-watch-party/nkciggljdfnkpcdngdohlpelojmklhin\" target=\"_blank\" ><u >Dând clic aici</u></a>. Pentru aceasta, trebuie să vă asigurați că aveți un laptop sau un computer Windows, macOS sau Chromebook. În plus, asigurați-vă că utilizați un browser Google Chrome sau Microsoft Edge."
+        },
+        {
+          "id": "2",
+          "question": "Fixați extensia la Bara de instrumente",
+          "answer": "După instalarea extensiei, ar trebui să faceți clic pe pictograma extensiei din bara de instrumente a browserului dvs. După aceasta, faceți clic pe pictograma PIN pentru a fixa extensia Disney plus Watch Party în bara de instrumente."
+        },
+        {
+          "id": "3",
+          "question": "Conectați-vă la Disney Plus",
+          "answer": "Este necesar ca toți utilizatorii să aibă un abonament Disney Plus pentru a utiliza extensia. Mai mult, pentru a crea sau a te alătura petrecerii Disney, trebuie să te conectezi la contul tău Disney."
+        },
+        {
+          "id": "4",
+          "question": "Creați o petrecere Disney",
+          "answer": "Creează-ți petrecerea virtuală prin Disney Plus Watch Party în câteva clicuri. Tot ce trebuie să faceți este să vă conectați la Disney și să redați un videoclip pentru petrecerea dvs. virtuală. După aceasta, ar trebui să faceți clic pe butonul „DP” din bara de instrumente. Apoi, selectați „Începe petrecerea” pentru a crea legătura cu petrecerea virtuală. Vă rugăm să distribuiți acest link prietenilor pentru a-i invita."
+        },
+        {
+          "id": "5",
+          "question": "Alăturați-vă unei petreceri Disney",
+          "answer": "Instalați extensia, conectați-vă la contul Disney plus și faceți clic pe adresa URL partajată de prietenul dvs. Această adresă URL vă va conecta automat la grupul de vizionare."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Caracteristicile Disney Plus Watch Party",
+      "subHeading": "Extensia vine cu o varietate de funcții care vă fac petrecerea Disney mai incitantă: –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Discutați cu alți participanți",
+          "answer": "Extensia Disney Plus Watch Party vine cu funcții de chat care vă permit să discutați cu ceilalți participanți la Disney Party. Prin urmare, în timp ce transmiteți emisiunile preferate, puteți, de asemenea, să discutați cu prietenii."
+        },
+        {
+          "id": "t2",
+          "question": "Acces la nivel mondial",
+          "answer": "Indiferent unde vă aflați, puteți instala extensia și puteți să vă distrați seri de film cu cei dragi."
+        },
+        {
+          "id": "t3",
+          "question": "Transmite în flux HD",
+          "answer": "Pentru a vă îmbunătăți experiența de streaming, extensia Disney Plus Watch Party acceptă calitate HD. Prin urmare, vei putea viziona emisiunile tale preferate cu prietenii tăi la calitate HD cu streaming rapid."
+        },
+        {
+          "id": "t4",
+          "question": "Personalizarea profilului",
+          "answer": "Vă puteți crea și personaliza profilul. Extensia Disney Plus Watch Party vine cu diverse avatare amuzante pe care le puteți pune ca pictogramă de profil. În plus, puteți seta și numele de utilizator la alegere."
+        },
+        {
+          "id": "t5",
+          "question": "Controlează petrecerea de ceas",
+          "answer": "În calitate de gazdă, puteți controla petrecerea virtuală activând butonul „Numai eu am control”. Cu această funcție, veți putea gestiona și edita setările de redare, pauză și volum ale videoclipului. Mai mult, puteți, de asemenea, să vă avansați și să derulați înapoi videoclipul."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "întrebări frecvente",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Ce este Disney Plus Watch Party?",
+        "answer": "Disney Plus Watch Party este o extensie gratuită prin care toți abonații Disney Plus pot viziona emisiunile și videoclipurile care se sincronizează cu persoane din diferite locații. Pentru aceasta, tot ce trebuie să faceți este să creați sau să vă alăturați petrecerilor virtuale Disney cu oameni online și să vă distrați."
+      },
+      {
+        "id": "f2",
+        "question": "Cum se instalează extensia?",
+        "answer": "Puteți instala extensia făcând clic aici. După ce faceți clic aici, ar trebui să selectați butoanele „Adăugați la Chrome” și „Adăugați extensie”. Prin urmare, extensia va fi instalată în câteva secunde."
+      },
+      {
+        "id": "f3",
+        "question": "Cum pot fixa extensia în bara de instrumente a browserului?",
+        "answer": "Puteți fixa extensia în bara de instrumente urmând pașii de mai jos: –",
+        "p1": "În primul rând, trebuie să faceți clic pe pictograma „Extensii” din bara de instrumente a browserului dvs.",
+        "p2": "După aceasta, căutați extensia Disney Plus Watch Party și atingeți butonul PIN pentru a adăuga extensia în browser.",
+        "p3": "null",
+        "p4": "null",
+        "p5": "null"
+      },
+      {
+        "id": "f4",
+        "question": "Cum să creezi o petrecere de ceas?",
+        "answer": "Puteți crea o petrecere de vizionare urmând pur și simplu pașii de mai jos: –",
+        "p1": "Instalați extensia Disney Party.",
+        "p2": "Conectați-vă la contul dvs. Disney Plus și selectați o emisiune.",
+        "p3": "Redați videoclipul și pictograma DP din bara de instrumente pentru a deschide fereastra „Creați o petrecere”.",
+        "p4": "Aici, trebuie să selectați opțiunea „Start the Party” pentru a crea adresa URL.",
+        "p5": "În final, copiați adresa URL și partajați-o cu oamenii."
+      },
+      {
+        "id": "f5",
+        "question": "Cum să te alături Disney Plus Watch Party?",
+        "answer": "Vă puteți alătura petrecerii cu link-ul pentru petrecerea de vizionare. Cu toate acestea, mai întâi, trebuie să instalați extensia și apoi să vă conectați la contul Disney Plus. După ce te-ai conectat la extensie, ar trebui să dai clic pe linkul Disney Party distribuit cu tine de prietenul tău."
+      },
+      {
+        "id": "f6",
+        "question": "Care sunt cerințele pentru a utiliza Disney Plus Watch Party?",
+        "answer": "Trebuie să îndepliniți cerințele de mai jos pentru a utiliza extensia: –",
+        "p1": "Trebuie să aveți un Chromebook, un laptop cu Windows sau macOS sau un computer.",
+        "p2": "Extensia poate fi instalată prin browserul Google Chrome sau Microsoft Edge.",
+        "p3": "Asigurați-vă că aveți o conexiune stabilă la internet.",
+        "p4": "Vă rugăm să rețineți că toți cei care doresc să se alăture petrecerii de vizionare ar trebui să fie prezenți în aceeași țară. Cu toate acestea, dacă vreun membru se află în altă țară, poate folosi VPN-ul pentru a-și schimba locația.",
+        "p5": "null"
+      },
+      {
+        "id": "f7",
+        "question": "Câte persoane pot participa la o petrecere?",
+        "answer": "Nu există o limitare a numărului de persoane care se pot alătura partidului. Astfel, puteți invita câte persoane doriți."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Anunță-ne.",
+    "anyQuestions": "Ai întrebări? Vizitați pagina noastră de asistență",
+    "blog": "Blog",
+    "privacy": "Confidențialitate",
+    "popularSearches": "Căutări populare",
+    "disclaimer": "Disclaimer",
+    "disclaimerContent": "Disney Plus este o marcă comercială a companiei Walt Disney. Acest site web",
+    "footerTags": [
+      "Disney Party",
+      "Disney Plus Watch Party",
+      "Petrecere Disney Plus",
+      "Urmărește Party Disney Plus",
+      "Cum să faci o petrecere de vizionare pe Disney Plus",
+      "Disney Watch Party",
+      "Urmărește Party pe Disney Plus",
+      "Cum să găzduiești o petrecere Disney Plus Watch"
+    ]
+  }
+}
