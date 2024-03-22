@@ -1,0 +1,152 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Dodati k", "free": "Brezplačno je" },
+    "navBarHeading": "je zdaj na voljo v brskalnikih Google Chrome, Microsoft Edge in Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "Pretakajte Disney Plus s prijatelji in družino z različnih lokacij",
+      "html": "Natančneje, Disney Plus je zelo interaktivna in uporabniku prijazna razširitev brskalnika, ki spremeni način, kako prijatelji in družina skupaj gledajo in uživajo v vsebini. S funkcijo skupinskega klepeta lahko uporabniki preprosto komunicirajo in delijo svoje misli, reakcije in smeh v realnem času med pretakanjem videoposnetkov. Ta družabni element doda občutek povezanosti in vznemirjenja, zaradi česar je izkušnja pretakanja bolj poglobljena in nepozabna.<br/><br/>Funkcija HD Streaming razširitve dvigne izkušnjo gledanja filmov na višjo raven z zagotavljanjem boljših slik v kakovosti HD . Z jasnimi vizualnimi elementi",
+      "para": "Drug pomemben vidik Disney Party je funkcija Control Over Watch Party. Udeleženci imajo možnost, da izberejo, ali ima gostitelj izključni nadzor nad nastavitvami pretakanja ali pa gre za sodelovanje. Ta vključenost omogoča vsem, da prispevajo k izkušnji gledanja, kar vodi k bolj demokratični in prijetni zabavi ob gledanju. Z združevanjem ljudi Disney Party ustvarja platformo za skupne trenutke, razprave in priložnosti za povezovanje. Premosti vrzel med oddaljenimi prijatelji in družino ter jim omogoča virtualno povezovanje in ustvarjanje trajnih spominov. Ne glede na to, ali gre za priložnostni filmski večer ali posebno priložnost, Disney Party poveča veselje ob skupnem gledanju vsebine, zaradi česar je priljubljeno orodje za skupna zabavna doživetja.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "Kako uporabljati Disney Watch Party",
+      "subHeading": "Z razširitvijo lahko začnete v nekaj korakih: –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Namestite razširitev",
+          "answer": "Najprej morajo uporabniki namestiti razširitev do <a href=\"https://chrome.google.com/webstore/detail/disney-plus-watch-party/nkciggljdfnkpcdngdohlpelojmklhin\" target=\"_blank\" ><u >Kliknite tukaj</u></a>. Za to morate zagotoviti, da imate prenosni ali osebni računalnik Windows, macOS ali Chromebook. Poleg tega se prepričajte, da uporabljate brskalnik Google Chrome ali Microsoft Edge."
+        },
+        {
+          "id": "2",
+          "question": "Pripni razširitev v orodno vrstico",
+          "answer": "Po namestitvi razširitve kliknite ikono razširitve v orodni vrstici brskalnika. Po tem kliknite ikono žebljička, da pripnete razširitev Disney plus Watch Party v orodno vrstico."
+        },
+        {
+          "id": "3",
+          "question": "Prijavite se v Disney Plus",
+          "answer": "Za uporabo razširitve morajo vsi uporabniki imeti naročnino na Disney Plus. Poleg tega se morate za ustvarjanje ali pridružitev Disneyjevi zabavi prijaviti v svoj Disneyev račun."
+        },
+        {
+          "id": "4",
+          "question": "Ustvarite Disneyjevo zabavo",
+          "answer": "Ustvarite svojo virtualno zabavo prek Disney Plus Watch Party z nekaj kliki. Vse kar morate storiti je, da se prijavite v Disney in predvajate video za vašo virtualno zabavo. Po tem bi morali klikniti gumb »DP« v orodni vrstici. Nato izberite »Začni zabavo«, da ustvarite povezavo do svoje virtualne zabave. Prosimo, delite to povezavo s prijatelji, da jih povabite."
+        },
+        {
+          "id": "5",
+          "question": "Pridružite se Disneyjevi zabavi",
+          "answer": "Namestite razširitev, prijavite se v račun Disney plus in kliknite URL, ki ga je delil vaš prijatelj. Ta URL vas bo samodejno povezal z ogledom."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Funkcije Disney Plus Watch Party",
+      "subHeading": "Razširitev vključuje številne funkcije, ki naredijo vašo Disneyjevo zabavo bolj razburljivo: –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Klepetajte z drugimi udeleženci",
+          "answer": "Razširitev Disney Plus Watch Party ima funkcije klepeta, ki vam omogočajo klepet z drugimi udeleženci Disney Party. Tako lahko med pretakanjem svojih najljubših oddaj tudi klepetate s prijatelji."
+        },
+        {
+          "id": "t2",
+          "question": "Dostop po vsem svetu",
+          "answer": "Ne glede na to, kje ste, lahko namestite razširitev in uživate v filmskih večerih s svojimi najdražjimi."
+        },
+        {
+          "id": "t3",
+          "question": "Pretakajte v HD",
+          "answer": "Za izboljšanje vaše izkušnje pretakanja razširitev Disney Plus Watch Party podpira kakovost HD. Tako boste lahko svoje najljubše oddaje s prijatelji gledali v HD kakovosti s hitrim pretakanjem."
+        },
+        {
+          "id": "t4",
+          "question": "Prilagajanje profila",
+          "answer": "Ustvarite in prilagodite lahko svoj profil. Razširitev Disney Plus Watch Party ima različne smešne avatarje, ki jih lahko postavite kot ikono svojega profila. Poleg tega lahko nastavite tudi uporabniško ime po vaši izbiri."
+        },
+        {
+          "id": "t5",
+          "question": "Nadzirajte skupino gledalcev",
+          "answer": "Kot gostitelj lahko nadzirate virtualno zabavo tako, da omogočite gumb »Samo jaz imam nadzor«. S to funkcijo boste lahko upravljali in urejali nastavitve predvajanja, premora in glasnosti videa. Poleg tega lahko videoposnetek previjete naprej in nazaj."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Pogosto zastavljena vprašanja",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Kaj je Disney Plus Watch Party?",
+        "answer": "Disney Plus Watch Party je brezplačna razširitev, prek katere lahko vsi naročniki Disney Plus gledajo oddaje in videoposnetke, ki se sinhronizirajo z ljudmi na različnih lokacijah. Za to je vse, kar morate storiti, ustvariti ali se pridružiti virtualnim Disney-jevim zabavam z ljudmi na spletu in se zabavati."
+      },
+      {
+        "id": "f2",
+        "question": "Kako namestiti razširitev?",
+        "answer": "Razširitev lahko namestite s klikom tukaj. Ko kliknete tukaj, morate izbrati gumba »Dodaj v Chrome« in »Dodaj razširitev«. Zato bo razširitev nameščena v nekaj sekundah."
+      },
+      {
+        "id": "f3",
+        "question": "Kako lahko razširitev pripnem v orodno vrstico brskalnika?",
+        "answer": "Razširitev lahko pripnete v orodno vrstico tako, da sledite spodnjim korakom: –",
+        "p1": "Najprej morate klikniti ikono »Razširitve« v orodni vrstici brskalnika.",
+        "p2": "Po tem poiščite razširitev Disney Plus Watch Party in tapnite gumb za pripenjanje, da dodate razširitev v brskalnik.",
+        "p3": "null",
+        "p4": "null",
+        "p5": "null"
+      },
+      {
+        "id": "f4",
+        "question": "Kako ustvariti zabavo ob uri?",
+        "answer": "Zabavo lahko ustvarite tako, da sledite spodnjim korakom: –",
+        "p1": "Namestite razširitev Disney Party.",
+        "p2": "Prijavite se v svoj račun Disney Plus in izberite oddajo.",
+        "p3": "Predvajajte video in ikono DP v orodni vrstici, da odprete okno »Ustvari zabavo«.",
+        "p4": "Tukaj morate izbrati možnost »Začni zabavo«, da ustvarite URL.",
+        "p5": "Na koncu kopirajte URL in ga delite z drugimi."
+      },
+      {
+        "id": "f5",
+        "question": "Kako se pridružiti Disney Plus Watch Party?",
+        "answer": "Zabavi se lahko pridružite s povezavo watch party. Vendar pa morate najprej namestiti razširitev in se nato prijaviti v račun Disney Plus. Ko se prijavite v razširitev, kliknite povezavo Disney Party, ki jo je z vami delil vaš prijatelj."
+      },
+      {
+        "id": "f6",
+        "question": "Kakšne so zahteve za uporabo Disney Plus Watch Party?",
+        "answer": "Za uporabo razširitve morate izpolniti spodnje zahteve: –",
+        "p1": "Imeti morate Chromebook, prenosni računalnik z operacijskim sistemom Windows ali macOS ali osebni računalnik.",
+        "p2": "Razširitev lahko namestite prek brskalnika Google Chrome ali Microsoft Edge.",
+        "p3": "Prepričajte se, da imate stabilno internetno povezavo.",
+        "p4": "Upoštevajte, da morajo biti vsi, ki se želijo pridružiti ogledu, v isti državi. Če pa je kateri koli član v drugi državi, lahko uporabi VPN za spremembo svoje lokacije.",
+        "p5": "null"
+      },
+      {
+        "id": "f7",
+        "question": "Koliko ljudi se lahko pridruži zabavi?",
+        "answer": "Število ljudi, ki se lahko pridružijo zabavi, ni omejeno. Tako lahko povabite toliko ljudi, kot želite."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Sporočite nam.",
+    "anyQuestions": "Imate vprašanja? Obiščite našo stran za podporo",
+    "blog": "Blog",
+    "privacy": "Zasebnost",
+    "popularSearches": "Priljubljena iskanja",
+    "disclaimer": "Zavrnitev odgovornosti",
+    "disclaimerContent": "Disney Plus je blagovna znamka družbe Walt Disney Company. To spletno mesto",
+    "footerTags": [
+      "Disneyjeva zabava",
+      "Disney Plus Watch Party",
+      "Disney Plus zabava",
+      "Oglejte si Party Disney Plus",
+      "Kako narediti Watch Party na Disney Plus",
+      "Disney Watch Party",
+      "Glejte Party na Disney Plus",
+      "Kako gostiti Disney Plus Watch Party"
+    ]
+  }
+}

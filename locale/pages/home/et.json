@@ -1,0 +1,152 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Lisa", "free": "See on tasuta" },
+    "navBarHeading": "on nüüd saadaval Google Chrome'is, Microsoft Edge'is ja Mozilla Firefoxis"
+  },
+  "section": {
+    "first": {
+      "heading": "Voogesitage Disney Plusi sõprade ja perega erinevatest kohtadest",
+      "html": "Täpsemalt on Disney Plus väga interaktiivne ja kasutajasõbralik brauserilaiendus, mis muudab sõprade ja pereliikmete koos sisu vaatamise ja nautimise pöördeliseks. Selle rühmavestluse funktsiooni abil saavad kasutajad videote voogesituse ajal hõlpsalt suhelda ja reaalajas oma mõtteid, reaktsioone ja naeru jagada. See sotsiaalne element lisab ühtekuuluvustunnet ja põnevust, muutes voogesituskogemuse kaasahaaravamaks ja meeldejäävamaks.<br/><br/>Laienduse HD-voogesituse funktsioon viib filmivaatamise kogemuse järgmisele tasemele, pakkudes paremaid HD-kvaliteediga pilte. . Kargete visuaalidega",
+      "para": "Disney Party teine ​​oluline aspekt on funktsioon Control Over Watch Party. Osalejad saavad paindlikult valida, kas voogesituse seadete üle on ainukontroll hostil või on tegemist koostööga. See kaasatus võimaldab kõigil panustada vaatamiskogemusse, mis viib demokraatlikuma ja nauditavama vaatamispeoni. Inimesi kokku toodes loob Disney Party platvormi ühisteks hetkedeks, aruteludeks ja suhtlemisvõimalusteks. See ületab lõhe kaugete sõprade ja pere vahel, võimaldades neil virtuaalselt suhelda ja luua püsivaid mälestusi. Olenemata sellest, kas tegemist on juhusliku filmiõhtu või erilise sündmusega, Disney Party suurendab koos sisu vaatamise rõõmu, muutes selle ühiste meelelahutuskogemuste lemmiktööriistaks.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "Kuidas kasutada Disney Watch Party",
+      "subHeading": "Laiendusega saate alustada mõne sammuga: -",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Installige laiendus",
+          "answer": "Esiteks peavad kasutajad laienduse installima aadressil <a href=\"https://chrome.google.com/webstore/detail/disney-plus-watch-party/nkciggljdfnkpcdngdohlpelojmklhin\" target=\"_blank\" ><u >Klõpsates siin</u></a>. Selleks peate tagama, et teil oleks Windowsi, macOS-i või Chromebooki sülearvuti või arvuti. Lisaks veenduge, et kasutate Google Chrome'i või Microsoft Edge'i brauserit."
+        },
+        {
+          "id": "2",
+          "question": "Kinnitage laiendus tööriistaribale",
+          "answer": "Pärast laienduse installimist peaksite klõpsama brauseri tööriistaribal laienduse ikooni. Pärast seda klõpsake nööpnõela ikoonil, et kinnitada Disney pluss Watch Party Extension tööriistaribale."
+        },
+        {
+          "id": "3",
+          "question": "Logige sisse Disney Plusi",
+          "answer": "Laienduse kasutamiseks peab kõigil kasutajatel olema Disney Plusi tellimus. Lisaks peate Disney peo loomiseks või sellega liitumiseks oma Disney kontole sisse logima."
+        },
+        {
+          "id": "4",
+          "question": "Looge Disney pidu",
+          "answer": "Looge oma virtuaalne pidu Disney Plus Watch Party kaudu mõne klõpsuga. Kõik, mida pead tegema, on lihtsalt Disney'sse sisse logida ja oma virtuaalse peo jaoks videot esitada. Pärast seda peaksite klõpsama tööriistaribal olevat nuppu \"DP\". Seejärel valige virtuaalse peo lingi loomiseks \"Alusta pidu\". Palun jagage seda linki sõpradega, et neid kutsuda."
+        },
+        {
+          "id": "5",
+          "question": "Liituge Disney peoga",
+          "answer": "Installige laiendus, logige sisse Disney plusskontole ja klõpsake oma sõbra jagatud URL-il. See URL ühendab teid automaatselt vaatamispeoga."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Disney Plus Watch Party funktsioonid",
+      "subHeading": "Laiendusel on mitmesuguseid funktsioone, mis muudavad teie Disney peo põnevamaks: -",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Vestelge teiste osalejatega",
+          "answer": "Disney Plus Watch Party laiendusel on vestlusfunktsioonid, mis võimaldavad teil teiste Disney Party osalejatega vestelda. Seega saate lemmiksaadete voogesituse ajal ka oma sõpradega vestelda."
+        },
+        {
+          "id": "t2",
+          "question": "Ülemaailmne juurdepääs",
+          "answer": "Pole tähtis, kus te ka poleks, saate installida laienduse ja veeta lõbusaid filmiõhtuid oma lähedastega."
+        },
+        {
+          "id": "t3",
+          "question": "Voogesitage HD-s",
+          "answer": "Voogesituskogemuse täiustamiseks toetab Disney Plus Watch Party laiendus HD-kvaliteeti. Seetõttu saate kiire voogesitusega HD-kvaliteediga oma lemmiksaateid vaadata koos sõpradega."
+        },
+        {
+          "id": "t4",
+          "question": "Profiili kohandamine",
+          "answer": "Saate luua ja kohandada oma profiili. Disney Plus Watch Party laiendusel on erinevad naljakad avatarid, mille saate oma profiiliikooniks panna. Lisaks saate määrata ka enda valitud kasutajanime."
+        },
+        {
+          "id": "t5",
+          "question": "Kontrollige kellapidu",
+          "answer": "Võõrustajana saate virtuaalset pidu juhtida, lubades nupu „Juht on ainult minul”. Selle funktsiooniga saate hallata ja redigeerida video esitamise, peatamise ja helitugevuse seadeid. Lisaks saate videot edasi ja tagasi kerida."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Korduma kippuvad küsimused",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Mis on Disney Plusi vaatamispidu?",
+        "answer": "Disney Plus Watch Party on tasuta laiendus, mille kaudu kõik Disney Plusi tellijad saavad vaadata saateid ja videoid, mis sünkroonitakse erinevates kohtades olevate inimestega. Selleks pole vaja teha muud, kui luua virtuaalseid Disney pidusid või nendega liituda inimestega võrgus ja lõbutseda."
+      },
+      {
+        "id": "f2",
+        "question": "Kuidas laiendust installida?",
+        "answer": "Laienduse saate installida, klõpsates siin. Pärast siin klõpsamist peaksite valima nupud \"Lisa Chrome'i\" ja \"Lisa laiendus\". Seega installitakse laiendus mõne sekundiga."
+      },
+      {
+        "id": "f3",
+        "question": "Kuidas saan laienduse brauseri tööriistaribale kinnitada?",
+        "answer": "Saate laienduse tööriistaribale kinnitada, järgides järgmisi samme: –",
+        "p1": "Esiteks peate klõpsama brauseri tööriistaribal oleval ikoonil \"Laiendused\".",
+        "p2": "Pärast seda otsige üles Disney Plus Watch Party laiendus ja puudutage laienduse brauserisse lisamiseks nööpnõelanuppu.",
+        "p3": "null",
+        "p4": "null",
+        "p5": "null"
+      },
+      {
+        "id": "f4",
+        "question": "Kuidas luua kellapidu?",
+        "answer": "Saate luua vaatamispeo, järgides lihtsalt järgmisi samme: –",
+        "p1": "Installige Disney Party laiendus.",
+        "p2": "Logige sisse oma Disney Plusi kontole ja valige saade.",
+        "p3": "Esitage tööriistaribal video ja DP ikooni, et avada aken \"Loo pidu\".",
+        "p4": "Siin peate URL-i loomiseks valima suvandi \"Alusta pidu\".",
+        "p5": "Lõpuks kopeerige URL ja jagage seda inimestega."
+      },
+      {
+        "id": "f5",
+        "question": "Kuidas liituda Disney Plussi vaatamispeoga?",
+        "answer": "Peoga saab liituda vaatamispeo lingi abil. Esmalt peate siiski installima laienduse ja seejärel logima sisse Disney Plusi kontole. Pärast laiendusse sisselogimist peaksite klõpsama lingil Disney Party, mida teie sõber jagab."
+      },
+      {
+        "id": "f6",
+        "question": "Millised on Disney Plusi Watch Party kasutamise nõuded?",
+        "answer": "Laienduse kasutamiseks peate täitma järgmised nõuded: -",
+        "p1": "Teil peab olema Chromebook, Windowsi või macOS-i sülearvuti või arvuti.",
+        "p2": "Laienduse saab installida Google Chrome'i või Microsoft Edge'i brauseri kaudu.",
+        "p3": "Veenduge, et teil oleks stabiilne Interneti-ühendus.",
+        "p4": "Pange tähele, et kõik, kes soovivad valvepeoga liituda, peaksid viibima samas riigis. Kui aga mõni liige on teises riigis, saab ta oma asukoha muutmiseks kasutada VPN-i.",
+        "p5": "null"
+      },
+      {
+        "id": "f7",
+        "question": "Kui palju inimesi saab erakonnaga liituda?",
+        "answer": "Erakonnaga liituvate inimeste arv ei ole piiratud. Seega saate kutsuda nii palju inimesi, kui soovite."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Anna meile teada.",
+    "anyQuestions": "Kas teil on küsimusi? Külastage meie tugilehte",
+    "blog": "Blogi",
+    "privacy": "Privaatsus",
+    "popularSearches": "Populaarsed otsingud",
+    "disclaimer": "Vastutusest loobumine",
+    "disclaimerContent": "Disney Plus on Walt Disney Company kaubamärk. See veebisait",
+    "footerTags": [
+      "Disney pidu",
+      "Disney Plusi vaatamispidu",
+      "Disney Plus pidu",
+      "Vaadake Party Disney Plusi",
+      "Kuidas Disney Plusis vaatamispidu korraldada",
+      "Disney vaatamispidu",
+      "Vaadake pidu Disney Plusis",
+      "Kuidas korraldada Disney Plusi vaatamispidu"
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "header": {
+    "installBtn": { "addTo": "A ekle", "free": "Ücretsiz" },
+    "navBarHeading": "artık Google Chrome, Microsoft Edge ve Mozilla Firefox'ta mevcut"
+  },
+  "section": {
+    "first": {
+      "heading": "Farklı konumlardan arkadaşlarınız ve ailenizle Disney Plus yayını yapın",
+      "html": "Daha doğrusu Disney Plus, arkadaşlarınızın ve ailenizin birlikte içerik izleme ve keyif alma biçiminde devrim yaratan, son derece etkileşimli ve kullanıcı dostu bir tarayıcı uzantısıdır. Grup Sohbeti özelliği sayesinde kullanıcılar, video akışı sırasında kolayca iletişim kurabilir ve düşüncelerini, tepkilerini ve kahkahalarını gerçek zamanlı olarak paylaşabilirler. Bu sosyal öğe, birliktelik ve heyecan duygusu katarak yayın deneyimini daha sürükleyici ve akılda kalıcı hale getirir.<br/><br/>Uzantının HD Akış özelliği, HD kalitesinde daha iyi resimler sağlayarak film izleme deneyimini bir sonraki seviyeye taşıyor . Canlı görsellerle",
+      "para": "Disney Party'nin bir diğer önemli özelliği de Control Over Watch Party özelliğidir. Katılımcılar, toplantı sahibinin akış ayarları üzerinde tek kontrole sahip olup olmadığını veya bunun ortak bir çalışma olup olmadığını seçme esnekliğine sahiptir. Bu kapsayıcılık, herkesin izleme deneyimine katkıda bulunmasına olanak tanıyarak daha demokratik ve keyifli bir izleme partisine yol açar. Disney Party, insanları bir araya getirerek ortak anlar, tartışmalar ve bağ kurma fırsatları için bir platform yaratır. Uzak arkadaşlar ve aile arasındaki boşluğu doldurarak sanal olarak bağlantı kurmalarına ve kalıcı anılar yaratmalarına olanak tanır. İster gündelik bir film gecesi ister özel bir etkinlik olsun, Disney Party birlikte içerik izleme keyfini artırır ve onu ortak eğlence deneyimleri için favori bir araç haline getirir.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "Disney İzleme Partisi nasıl kullanılır?",
+      "subHeading": "Uzantıyı birkaç adımda kullanmaya başlayabilirsiniz: –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Uzantıyı yükleyin",
+          "answer": "Öncelikle kullanıcıların <a href=\"https://chrome.google.com/webstore/detail/disney-plus-watch-party/nkciggljdfnkpcdngdohlpelojmklhin\" target=\"_blank\" ><u tarihine kadar uzantıyı yüklemeleri gerekmektedir. >Buraya tıklayın</u></a>. Bunun için Windows, macOS veya Chromebook dizüstü veya PC'nizin olduğundan emin olmanız gerekir. Ayrıca Google Chrome veya Microsoft Edge tarayıcısı kullandığınızdan da emin olun."
+        },
+        {
+          "id": "2",
+          "question": "Uzantıyı Araç Çubuğuna sabitle",
+          "answer": "Uzantıyı yükledikten sonra tarayıcınızın araç çubuğundaki uzantının simgesine tıklamalısınız. Bundan sonra, Disney plus Watch Party Uzantısını araç çubuğuna sabitlemek için raptiye simgesine tıklayın."
+        },
+        {
+          "id": "3",
+          "question": "Disney Plus'ta oturum açın",
+          "answer": "Uzantıyı kullanabilmek için tüm kullanıcıların Disney Plus aboneliğine sahip olması gerekiyor. Üstelik Disney partisi oluşturmak veya katılmak için Disney hesabınızda oturum açmanız gerekir."
+        },
+        {
+          "id": "4",
+          "question": "Disney Partisi Oluşturun",
+          "answer": "Birkaç tıklamayla Disney Plus Watch Party aracılığıyla sanal partinizi oluşturun. Tek yapmanız gereken Disney'de oturum açmak ve sanal partiniz için bir video oynatmak. Bundan sonra araç çubuğunuzda verilen “DP” butonuna tıklamalısınız. Ardından sanal parti bağlantınızı oluşturmak için “Partiyi Başlat”ı seçin. Lütfen bu bağlantıyı arkadaşlarınızı davet etmek için paylaşın."
+        },
+        {
+          "id": "5",
+          "question": "Disney Partisine Katılın",
+          "answer": "Uzantıyı yükleyin, Disney plus Hesabında oturum açın ve arkadaşınızın paylaştığı URL'ye tıklayın. Bu URL sizi otomatik olarak izleme partisine bağlayacaktır."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Disney Plus İzleme Partisinin Özellikleri",
+      "subHeading": "Uzantı, Disney Partinizi daha heyecanlı hale getirecek çeşitli özelliklerle birlikte gelir: –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Diğer katılımcılarla sohbet edin",
+          "answer": "Disney Plus Watch Party uzantısı, diğer Disney Party katılımcılarıyla sohbet etmenizi sağlayan sohbet özellikleriyle birlikte gelir. Böylece favori programlarınızı yayınlarken arkadaşlarınızla da sohbet edebilirsiniz."
+        },
+        {
+          "id": "t2",
+          "question": "Dünya çapında erişim",
+          "answer": "Nerede olursanız olun eklentiyi yükleyebilir, sevdiklerinizle eğlenceli film geceleri geçirebilirsiniz."
+        },
+        {
+          "id": "t3",
+          "question": "HD yayın yapın",
+          "answer": "Yayın deneyiminizi geliştirmek için Disney Plus Watch Party uzantısı HD kalitesini destekler. Bu sayede en sevdiğiniz programları arkadaşlarınızla birlikte HD kalitesinde hızlı akışla izleyebileceksiniz."
+        },
+        {
+          "id": "t4",
+          "question": "Profil Özelleştirme",
+          "answer": "Profilinizi oluşturabilir ve özelleştirebilirsiniz. Disney Plus Watch Party uzantısı, profil simgeniz olarak ekleyebileceğiniz çeşitli komik avatarlarla birlikte gelir. Ayrıca dilediğiniz kullanıcı adını da belirleyebilirsiniz."
+        },
+        {
+          "id": "t5",
+          "question": "İzleme partisini kontrol edin",
+          "answer": "Toplantı sahibi olarak \"Yalnızca Kontrol bende\" düğmesini etkinleştirerek sanal partiyi kontrol edebilirsiniz. Bu özellik sayesinde videonun oynatma, duraklatma ve ses seviyesi ayarlarını yönetebilecek ve düzenleyebileceksiniz. Üstelik videoyu ileri ve geri sarabilirsiniz."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Sıkça Sorulan Sorular",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Disney Plus İzleme Partisi nedir?",
+        "answer": "Disney Plus Watch Party, tüm Disney Plus abonelerinin gösterileri ve videoları farklı konumlardaki insanlarla senkronize olarak izleyebileceği ücretsiz bir uzantıdır. Bunun için tek yapmanız gereken çevrimiçi olarak insanlarla sanal Disney partileri oluşturmak veya bunlara katılmak ve eğlenmek."
+      },
+      {
+        "id": "f2",
+        "question": "Uzantı nasıl yüklenir?",
+        "answer": "Uzantıyı buraya tıklayarak yükleyebilirsiniz. Buraya tıkladıktan sonra “Chrome’a Ekle” ve “Uzantı Ekle” butonlarını seçmelisiniz. Bu nedenle uzantı birkaç saniye içinde yüklenecektir."
+      },
+      {
+        "id": "f3",
+        "question": "Uzantıyı tarayıcının araç çubuğuna nasıl sabitleyebilirim?",
+        "answer": "Aşağıdaki adımları izleyerek uzantıyı araç çubuğuna sabitleyebilirsiniz: –",
+        "p1": "Öncelikle tarayıcınızın araç çubuğunda yer alan “Uzantılar” simgesine tıklamanız gerekmektedir.",
+        "p2": "Bundan sonra Disney Plus Watch Party uzantısını arayın ve uzantıyı tarayıcıya eklemek için pin düğmesine dokunun.",
+        "p3": "null",
+        "p4": "null",
+        "p5": "null"
+      },
+      {
+        "id": "f4",
+        "question": "Bir izleme partisi nasıl oluşturulur?",
+        "answer": "Aşağıdaki adımları izleyerek bir izleme partisi oluşturabilirsiniz: –",
+        "p1": "Disney Party uzantısını yükleyin.",
+        "p2": "Disney Plus hesabınızda oturum açın ve bir gösteri seçin.",
+        "p3": "“Parti Oluştur” penceresini açmak için araç çubuğundaki videoyu ve DP simgesini oynatın.",
+        "p4": "Burada URL’yi oluşturmak için “Partiyi Başlat” seçeneğini seçmelisiniz.",
+        "p5": "Sonunda URL'yi kopyalayın ve insanlarla paylaşın."
+      },
+      {
+        "id": "f5",
+        "question": "Disney Plus İzleme Partisi'ne nasıl katılabilirsiniz?",
+        "answer": "Parti izle linki ile partiye katılabilirsiniz. Ancak önce uzantıyı yüklemeniz ve ardından Disney Plus hesabında oturum açmanız gerekir. Uzantıya giriş yaptıktan sonra arkadaşınızın sizinle paylaştığı Disney Party bağlantısına tıklamalısınız."
+      },
+      {
+        "id": "f6",
+        "question": "Disney Plus İzleme Partisi'ni kullanmak için gerekenler nelerdir?",
+        "answer": "Uzantıyı kullanmak için aşağıdaki gereksinimleri karşılamanız gerekir: –",
+        "p1": "Bir Chromebook'unuzun, Windows veya macOS dizüstü ya da PC'nizin olması gerekir.",
+        "p2": "Uzantı Google Chrome veya Microsoft Edge tarayıcısı aracılığıyla kurulabilir.",
+        "p3": "Sabit bir internet bağlantınızın olduğundan emin olun.",
+        "p4": "İzleme partisine katılmak isteyen herkesin aynı ülkede bulunması gerektiğini lütfen unutmayın. Ancak herhangi bir üye başka bir ülkedeyse konumunu değiştirmek için VPN'i kullanabilir.",
+        "p5": "null"
+      },
+      {
+        "id": "f7",
+        "question": "Bir partiye kaç kişi katılabilir?",
+        "answer": "Partiye katılacak kişi sayısında herhangi bir sınırlama yoktur. Böylece dilediğiniz kadar kişiyi davet edebilirsiniz."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Bilmemize izin ver.",
+    "anyQuestions": "Sorularım var? Destek sayfamızı ziyaret edin",
+    "blog": "Blog",
+    "privacy": "Mahremiyet",
+    "popularSearches": "popüler aramalar",
+    "disclaimer": "Sorumluluk reddi beyanı",
+    "disclaimerContent": "Disney Plus, Walt Disney Company'nin ticari markasıdır. Bu web sitesi",
+    "footerTags": [
+      "Disney Partisi",
+      "Disney Plus İzleme Partisi",
+      "Disney Plus Partisi",
+      "Party Disney Plus'ı izleyin",
+      "Disney Plus'ta İzleme Partisi nasıl yapılır?",
+      "Disney İzleme Partisi",
+      "Disney Plus'ta Parti'yi izleyin",
+      "Disney Plus İzleme Partisine Nasıl Ev Sahipliği Yapılır?"
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Aggiungere a", "free": "È gratis" },
+    "navBarHeading": "è ora disponibile su Google Chrome, Microsoft Edge e Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "Trasmetti in streaming Disney Plus con amici e familiari da luoghi diversi",
+      "html": "Più precisamente, Disney Plus è un'estensione del browser altamente interattiva e facile da usare che rivoluziona il modo in cui amici e familiari guardano e godono insieme dei contenuti. Con la funzione Chat di gruppo, gli utenti possono comunicare e condividere facilmente pensieri, reazioni e risate in tempo reale durante lo streaming di video. Questo elemento sociale aggiunge un senso di unione ed eccitazione, rendendo l'esperienza di streaming più coinvolgente e memorabile.<br/><br/>La funzione di streaming HD dell'estensione porta l'esperienza di visione di film a un livello superiore fornendo immagini migliori in qualità HD . Con immagini nitide",
+      "para": "Un altro aspetto significativo di Disney Party è la funzione Control Over Watch Party. I partecipanti hanno la flessibilità di scegliere se l'host ha il controllo esclusivo sulle impostazioni di streaming o se si tratta di uno sforzo collaborativo. Questa inclusività consente a tutti di contribuire all'esperienza visiva, portando a un watch party più democratico e divertente. Riunendo le persone, Disney Party crea una piattaforma per momenti condivisi, discussioni e opportunità di legame. Colma il divario tra amici lontani e familiari, consentendo loro di connettersi virtualmente e creare ricordi duraturi. Che si tratti di una serata al cinema informale o di un'occasione speciale, Disney Party migliora la gioia di guardare contenuti insieme, rendendolo lo strumento preferito per esperienze di intrattenimento condivise.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "Come utilizzare Disney Watch Party",
+      "subHeading": "Puoi iniziare con l'estensione in pochi passaggi: –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Installa l'estensione",
+          "answer": "Prima di tutto, gli utenti sono tenuti a installare l'estensione tramite <a href=\"https://chrome.google.com/webstore/detail/disney-plus-watch-party/nkciggljdfnkpcdngdohlpelojmklhin\" target=\"_blank\" ><u >Cliccando qui</u></a>. Per questo, devi assicurarti di avere un laptop o PC Windows, macOS o Chromebook. Inoltre, assicurati di utilizzare un browser Google Chrome o Microsoft Edge."
+        },
+        {
+          "id": "2",
+          "question": "Aggiungi l'estensione alla barra degli strumenti",
+          "answer": "Dopo aver installato l'estensione, devi fare clic sull'icona dell'estensione nella barra degli strumenti del tuo browser. Successivamente, fai clic sull'icona della puntina per aggiungere l'estensione Disney Plus Watch Party alla barra degli strumenti."
+        },
+        {
+          "id": "3",
+          "question": "Accedi a Disney Plus",
+          "answer": "È necessario che tutti gli utenti abbiano un abbonamento Disney Plus per utilizzare l'estensione. Inoltre, per creare o partecipare alla festa Disney, devi accedere al tuo account Disney."
+        },
+        {
+          "id": "4",
+          "question": "Crea una festa Disney",
+          "answer": "Crea la tua festa virtuale tramite Disney Plus Watch Party in pochi clic. Tutto quello che devi fare è accedere a Disney e riprodurre un video per la tua festa virtuale. Successivamente, dovresti fare clic sul pulsante “DP” indicato nella barra degli strumenti. Quindi, seleziona \"Avvia la festa\" per creare il collegamento alla festa virtuale. Per favore condividi questo link con gli amici per invitarli."
+        },
+        {
+          "id": "5",
+          "question": "Partecipa a una festa Disney",
+          "answer": "Installa l'estensione, accedi all'account Disney Plus e fai clic sull'URL condiviso dal tuo amico. Questo URL ti collegherà automaticamente al watch party."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Caratteristiche di Disney Plus Watch Party",
+      "subHeading": "L'estensione include una varietà di funzionalità che rendono la tua festa Disney più emozionante: –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Chatta con gli altri partecipanti",
+          "answer": "L'estensione Disney Plus Watch Party include funzionalità di chat che ti consentono di chattare con gli altri partecipanti a Disney Party. Quindi, durante lo streaming dei tuoi programmi preferiti, puoi anche chattare con i tuoi amici."
+        },
+        {
+          "id": "t2",
+          "question": "Accesso in tutto il mondo",
+          "answer": "Non importa dove ti trovi, puoi installare l'estensione e divertirti con le serate di cinema con i tuoi cari."
+        },
+        {
+          "id": "t3",
+          "question": "Trasmetti in streaming in HD",
+          "answer": "Per migliorare la tua esperienza di streaming, l'estensione Disney Plus Watch Party supporta la qualità HD. Pertanto, potrai guardare i tuoi programmi preferiti con i tuoi amici in qualità HD con streaming veloce."
+        },
+        {
+          "id": "t4",
+          "question": "Personalizzazione del profilo",
+          "answer": "Puoi creare e personalizzare il tuo profilo. L'estensione Disney Plus Watch Party include vari avatar divertenti che puoi inserire come icona del tuo profilo. Inoltre, puoi anche impostare il nome utente che preferisci."
+        },
+        {
+          "id": "t5",
+          "question": "Controlla la festa dell'orologio",
+          "answer": "In qualità di host, puoi controllare la festa virtuale abilitando il pulsante \"Solo io ho il controllo\". Con questa funzione sarai in grado di gestire e modificare le impostazioni di riproduzione, pausa e volume del video. Inoltre, puoi anche andare avanti e riavvolgere il video."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Domande frequenti",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Cos'è il Disney Plus Watch Party?",
+        "answer": "Disney Plus Watch Party è un'estensione gratuita attraverso la quale tutti gli abbonati Disney Plus possono guardare spettacoli e video sincronizzandosi con persone in luoghi diversi. Per questo, tutto ciò che devi fare è creare o partecipare alle feste Disney virtuali con persone online e divertirti."
+      },
+      {
+        "id": "f2",
+        "question": "Come installare l'estensione?",
+        "answer": "È possibile installare l'estensione facendo clic qui. Dopo aver fatto clic qui, seleziona i pulsanti “Aggiungi a Chrome” e “Aggiungi estensione”. Pertanto, l'estensione verrà installata in pochi secondi."
+      },
+      {
+        "id": "f3",
+        "question": "Come posso aggiungere l'estensione alla barra degli strumenti del browser?",
+        "answer": "Puoi aggiungere l'estensione alla barra degli strumenti seguendo i passaggi seguenti: –",
+        "p1": "Innanzitutto, devi fare clic sull'icona \"Estensioni\" nella barra degli strumenti del tuo browser.",
+        "p2": "Successivamente, cerca l'estensione Disney Plus Watch Party e tocca il pulsante segnaposto per aggiungere l'estensione al browser.",
+        "p3": "null",
+        "p4": "null",
+        "p5": "null"
+      },
+      {
+        "id": "f4",
+        "question": "Come creare un watch party?",
+        "answer": "Puoi creare un watch party semplicemente seguendo i passaggi seguenti: –",
+        "p1": "Installa l'estensione Disney Party.",
+        "p2": "Accedi al tuo account Disney Plus e seleziona uno spettacolo.",
+        "p3": "Riproduci il video e l'icona DP sulla barra degli strumenti per aprire la finestra \"Crea una festa\".",
+        "p4": "Qui, devi selezionare l'opzione \"Avvia la festa\" per creare l'URL.",
+        "p5": "Alla fine, copia l'URL e condividilo con le persone."
+      },
+      {
+        "id": "f5",
+        "question": "Come partecipare al Disney Plus Watch Party?",
+        "answer": "Puoi partecipare alla festa con il link Guarda festa. Tuttavia, prima devi installare l'estensione e quindi accedere all'account Disney Plus. Dopo aver effettuato l'accesso all'estensione, dovresti fare clic sul collegamento Disney Party condiviso con te dal tuo amico."
+      },
+      {
+        "id": "f6",
+        "question": "Quali sono i requisiti per utilizzare Disney Plus Watch Party?",
+        "answer": "È necessario soddisfare i seguenti requisiti per utilizzare l'estensione: –",
+        "p1": "Devi avere un Chromebook, un laptop o un PC Windows o macOS.",
+        "p2": "L'estensione può essere installata tramite il browser Google Chrome o Microsoft Edge.",
+        "p3": "Assicurati di disporre di una connessione Internet stabile.",
+        "p4": "Tieni presente che tutti coloro che desiderano partecipare al watch party devono essere presenti nello stesso Paese. Tuttavia, se un membro si trova in un altro Paese, può utilizzare la VPN per modificare la propria posizione.",
+        "p5": "null"
+      },
+      {
+        "id": "f7",
+        "question": "Quante persone possono partecipare a una festa?",
+        "answer": "Non vi è alcun limite al numero di persone che possono aderire al partito. Pertanto, puoi invitare quante persone desideri."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Facci sapere.",
+    "anyQuestions": "Hai domande? Visita la nostra pagina di supporto",
+    "blog": "Blog",
+    "privacy": "Privacy",
+    "popularSearches": "Ricerche popolari",
+    "disclaimer": "Disclaimer",
+    "disclaimerContent": "Disney Plus è un marchio della Walt Disney Company. Questo sito web",
+    "footerTags": [
+      "Festa Disney",
+      "Festa dell'orologio Disney Plus",
+      "Festa Disney Plus",
+      "Guarda Festa Disney Plus",
+      "Come organizzare un Watch Party su Disney Plus",
+      "Festa dell'orologio Disney",
+      "Guarda Party su Disney Plus",
+      "Come organizzare un Disney Plus Watch Party"
+    ]
+  }
+}

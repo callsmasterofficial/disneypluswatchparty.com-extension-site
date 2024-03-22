@@ -1,0 +1,152 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Lisätä", "free": "Se on ilmainen" },
+    "navBarHeading": "on nyt saatavilla Google Chromessa, Microsoft Edgessä ja Mozilla Firefoxissa"
+  },
+  "section": {
+    "first": {
+      "heading": "Suoratoista Disney Plus -ohjelmaa ystävien ja perheen kanssa eri paikoista",
+      "html": "Tarkemmin sanottuna Disney Plus on erittäin interaktiivinen ja käyttäjäystävällinen selainlaajennus, joka mullistaa tavan, jolla ystävät ja perheenjäsenet katsovat ja nauttivat sisällöstä yhdessä. Ryhmächat-ominaisuuden avulla käyttäjät voivat helposti kommunikoida ja jakaa ajatuksiaan, reaktioitaan ja nauruaan reaaliajassa suoratoistaessaan videoita. Tämä sosiaalinen elementti lisää yhteenkuuluvuuden ja jännityksen tunnetta, mikä tekee suoratoistokokemuksesta mukaansatempaavamman ja mieleenpainuvamman.<br/><br/>Laajennuksen HD Streaming -ominaisuus nostaa elokuvien katselukokemuksen uudelle tasolle tarjoamalla parempia kuvia HD-laadulla. . Terävällä visuaalisuudella",
+      "para": "Toinen Disney Partyn tärkeä osa on Control Over Watch Party -ominaisuus. Osallistujat voivat valita joustavasti, hallitseeko isäntä suoratoistoasetuksia vai onko kyseessä yhteistyö. Tämän kattavuuden ansiosta kaikki voivat osallistua katselukokemukseen, mikä johtaa demokraattisempaan ja nautinnollisempaan katselubileeseen. Tuomalla ihmiset yhteen Disney Party luo alustan yhteisille hetkille, keskusteluille ja yhdistämismahdollisuuksille. Se muodostaa sillan etäisten ystävien ja perheen välillä, jolloin he voivat olla yhteydessä virtuaalisesti ja luoda kestäviä muistoja. Olipa kyseessä rento elokuvailta tai erityinen tilaisuus, Disney Party lisää yhteisen sisällön katselun iloa ja tekee siitä suosikkityökalun jaetuille viihdekokemuksille.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "Disney Watch Partyn käyttäminen",
+      "subHeading": "Voit aloittaa laajennuksen käytön muutamassa vaiheessa: –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Asenna laajennus",
+          "answer": "Ensinnäkin käyttäjien on asennettava laajennus <a href=\"https://chrome.google.com/webstore/detail/disney-plus-watch-party/nkciggljdfnkpcdngdohlpelojmklhin\" target=\"_blank\" ><u >Napsauta tätä</u></a>. Tätä varten sinun on varmistettava, että sinulla on Windows-, macOS- tai Chromebook-kannettava tai PC. Varmista lisäksi, että käytät Google Chrome- tai Microsoft Edge -selainta."
+        },
+        {
+          "id": "2",
+          "question": "Kiinnitä laajennus työkalupalkkiin",
+          "answer": "Laajennuksen asentamisen jälkeen sinun tulee napsauttaa laajennuksen kuvaketta selaimesi työkalupalkissa. Napsauta tämän jälkeen kiinnityskuvaketta kiinnittääksesi Disney plus Watch Party -laajennuksen työkalupalkkiin."
+        },
+        {
+          "id": "3",
+          "question": "Kirjaudu Disney Plus -palveluun",
+          "answer": "Kaikilla käyttäjillä on oltava Disney Plus -tilaus laajennuksen käyttämiseksi. Lisäksi sinun on kirjauduttava Disney-tilillesi luodaksesi tai liittyäksesi Disney-juhliin."
+        },
+        {
+          "id": "4",
+          "question": "Luo Disney Party",
+          "answer": "Luo virtuaaliset bileet Disney Plus Watch Partyn kautta muutamalla napsautuksella. Sinun tarvitsee vain kirjautua sisään Disney-palveluun ja toistaa video virtuaalisia bileitä varten. Tämän jälkeen sinun tulee napsauttaa työkalupalkissa olevaa \"DP\" -painiketta. Valitse sitten \"Aloita juhla\" luodaksesi virtuaalisen juhlan linkin. Jaa tämä linkki ystävillesi kutsuaksesi heidät."
+        },
+        {
+          "id": "5",
+          "question": "Liity Disney-juhliin",
+          "answer": "Asenna laajennus, kirjaudu sisään Disney plus -tiliin ja napsauta ystäväsi jakamaa URL-osoitetta. Tämä URL-osoite yhdistää sinut automaattisesti katselutapahtumaan."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Disney Plus Watch Partyn ominaisuudet",
+      "subHeading": "Laajennus sisältää useita ominaisuuksia, jotka tekevät Disney-bileistäsi jännittävämpiä: –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Keskustele muiden osallistujien kanssa",
+          "answer": "Disney Plus Watch Party -laajennuksen mukana tulee chat-ominaisuudet, joiden avulla voit keskustella muiden Disney Partyn osallistujien kanssa. Näin ollen, kun suoratoistat suosikkiohjelmiasi, voit myös keskustella ystäviesi kanssa."
+        },
+        {
+          "id": "t2",
+          "question": "Maailmanlaajuinen pääsy",
+          "answer": "Missä tahansa oletkin, voit asentaa laajennuksen ja viettää hauskoja elokuvailtoja läheistesi kanssa."
+        },
+        {
+          "id": "t3",
+          "question": "Suoratoista HD-laadulla",
+          "answer": "Parantaaksesi suoratoistokokemustasi, Disney Plus Watch Party -laajennus tukee HD-laatua. Siksi voit katsella suosikkiohjelmiasi ystäviesi kanssa HD-laadulla nopealla suoratoistolla."
+        },
+        {
+          "id": "t4",
+          "question": "Profiilin mukauttaminen",
+          "answer": "Voit luoda ja muokata profiiliasi. Disney Plus Watch Party -laajennuksen mukana tulee erilaisia ​​hauskoja avatareja, jotka voit laittaa profiilikuvakkeeksi. Lisäksi voit määrittää haluamasi käyttäjätunnuksen."
+        },
+        {
+          "id": "t5",
+          "question": "Hallitse kellobileitä",
+          "answer": "Isäntänä voit hallita virtuaalista bilettä ottamalla käyttöön \"Vain minulla on hallinta\" -painikkeen. Tämän ominaisuuden avulla voit hallita ja muokata videon toisto-, tauko- ja äänenvoimakkuusasetuksia. Lisäksi voit myös kelata videota eteenpäin ja taaksepäin."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Usein Kysytyt Kysymykset",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Mikä on Disney Plus Watch Party?",
+        "answer": "Disney Plus Watch Party on ilmainen laajennus, jonka kautta kaikki Disney Plus -tilaajat voivat katsella ohjelmia ja videoita synkronoituina eri paikoissa olevien ihmisten kanssa. Tätä varten sinun tarvitsee vain luoda tai liittyä virtuaalisiin Disney-bileisiin ihmisten kanssa verkossa ja pitää hauskaa."
+      },
+      {
+        "id": "f2",
+        "question": "Kuinka asentaa laajennus?",
+        "answer": "Voit asentaa laajennuksen napsauttamalla tätä. Kun olet napsauttanut tätä, sinun tulee valita \"Lisää Chromeen\" ja \"Lisää laajennus\" -painikkeet. Näin ollen laajennus asennetaan muutamassa sekunnissa."
+      },
+      {
+        "id": "f3",
+        "question": "Kuinka voin kiinnittää laajennuksen selaimen työkalupalkkiin?",
+        "answer": "Voit kiinnittää laajennuksen työkalupalkkiin seuraavasti: –",
+        "p1": "Ensin sinun on napsautettava selaimesi työkalupalkissa olevaa \"Laajennukset\" -kuvaketta.",
+        "p2": "Etsi tämän jälkeen Disney Plus Watch Party -laajennus ja napauta pin-painiketta lisätäksesi laajennuksen selaimeen.",
+        "p3": "null",
+        "p4": "null",
+        "p5": "null"
+      },
+      {
+        "id": "f4",
+        "question": "Kuinka luoda kellobileet?",
+        "answer": "Voit luoda kelloporukan seuraamalla alla olevia ohjeita: –",
+        "p1": "Asenna Disney Party -laajennus.",
+        "p2": "Kirjaudu Disney Plus -tilillesi ja valitse esitys.",
+        "p3": "Avaa \"Create a Party\" -ikkuna toistamalla video ja DP-kuvake työkalupalkista.",
+        "p4": "Täällä sinun on valittava \"Aloita juhla\" -vaihtoehto luodaksesi URL-osoitteen.",
+        "p5": "Kopioi lopuksi URL-osoite ja jaa se ihmisten kanssa."
+      },
+      {
+        "id": "f5",
+        "question": "Kuinka liittyä Disney Plus Watch Party -tapahtumaan?",
+        "answer": "Juhlaan pääset mukaan katsojabileistä linkin kautta. Ensin sinun on kuitenkin asennettava laajennus ja kirjauduttava sitten sisään Disney Plus -tilille. Kun olet kirjautunut laajennukseen, napsauta ystäväsi jakamaa Disney Party -linkkiä."
+      },
+      {
+        "id": "f6",
+        "question": "Mitkä ovat Disney Plus Watch Partyn käytön vaatimukset?",
+        "answer": "Sinun on täytettävä seuraavat vaatimukset voidaksesi käyttää laajennusta: –",
+        "p1": "Sinulla on oltava Chromebook, Windows- tai macOS-kannettava tai PC.",
+        "p2": "Laajennuksen voi asentaa Google Chromen tai Microsoft Edge -selaimen kautta.",
+        "p3": "Varmista, että sinulla on vakaa Internet-yhteys.",
+        "p4": "Huomioithan, että kaikkien, jotka haluavat liittyä kellobileisiin, tulee olla paikalla samassa maassa. Jos joku jäsen on kuitenkin toisessa maassa, hän voi käyttää VPN:ää sijaintinsa vaihtamiseen.",
+        "p5": "null"
+      },
+      {
+        "id": "f7",
+        "question": "Kuinka monta henkilöä voi liittyä puolueeseen?",
+        "answer": "Puolueen osallistuvien henkilöiden määrää ei ole rajoitettu. Voit siis kutsua niin monta henkilöä kuin haluat."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Kerro meille.",
+    "anyQuestions": "Onko sinulla kysyttävää? Vieraile tukisivullamme",
+    "blog": "Blogi",
+    "privacy": "Yksityisyys",
+    "popularSearches": "Suositut haut",
+    "disclaimer": "Vastuuvapauslauseke",
+    "disclaimerContent": "Disney Plus on Walt Disney Companyn tavaramerkki. Tämä sivusto",
+    "footerTags": [
+      "Disneyn juhlat",
+      "Disney Plus Watch Party",
+      "Disney Plus -bileet",
+      "Katso Party Disney Plus",
+      "Watch Partyn järjestäminen Disney Plus -palvelussa",
+      "Disney Watch Party",
+      "Katso Party Disney Plus -palvelussa",
+      "Disney Plus Watch Partyn järjestäminen"
+    ]
+  }
+}

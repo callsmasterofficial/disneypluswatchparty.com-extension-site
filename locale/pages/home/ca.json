@@ -1,0 +1,152 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Afegir a", "free": "És Gratuït" },
+    "navBarHeading": "ara està disponible a Google Chrome, Microsoft Edge i Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "Reprodueix Disney Plus amb amics i familiars des de diferents llocs",
+      "html": "Més precisament, Disney Plus és una extensió de navegador altament interactiva i fàcil d'utilitzar que revoluciona la manera com els amics i la família veuen i gaudeixen del contingut junts. Amb la seva funció de xat en grup, els usuaris poden comunicar-se i compartir fàcilment els seus pensaments, reaccions i riures en temps real mentre transmeten vídeos. Aquest element social afegeix una sensació de convivència i emoció, fent que l'experiència de reproducció sigui més immersiva i memorable.<br/><br/>La funció de reproducció en HD de l'extensió porta l'experiència de veure pel·lícules al següent nivell proporcionant millors imatges en qualitat HD . Amb imatges nítides",
+      "para": "Un altre aspecte important de Disney Party és la funció Control Over Watch Party. Els participants tenen la flexibilitat d'escollir si l'amfitrió té el control exclusiu de la configuració de transmissió o si es tracta d'un esforç col·laboratiu. Aquesta inclusió permet que tothom contribueixi a l'experiència de visualització, donant lloc a una festa de visualització més democràtica i agradable. En reunir la gent, Disney Party crea una plataforma per compartir moments, debats i oportunitats de vinculació. Uneix la bretxa entre amics i familiars llunyans, cosa que els permet connectar-se virtualment i crear records duradors. Ja sigui una nit de cinema casual o una ocasió especial, Disney Party millora l'alegria de veure contingut junts, convertint-lo en una eina preferida per a experiències d'entreteniment compartides.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "Com utilitzar el Disney Watch Party",
+      "subHeading": "Podeu començar amb l'extensió en uns quants passos: -",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Instal·leu l'extensió",
+          "answer": "En primer lloc, els usuaris han d'instal·lar l'extensió mitjançant <a href=\"https://chrome.google.com/webstore/detail/disney-plus-watch-party/nkciggljdfnkpcdngdohlpelojmklhin\" target=\"_blank\" ><u >Fes clic aquí</u></a>. Per això, heu d'assegurar-vos que teniu un ordinador portàtil o un ordinador Windows, macOS o Chromebook. A més, assegureu-vos també que feu servir un navegador Google Chrome o Microsoft Edge."
+        },
+        {
+          "id": "2",
+          "question": "Fixeu l'extensió a la barra d'eines",
+          "answer": "Després d'instal·lar l'extensió, hauríeu de fer clic a la icona de l'extensió a la barra d'eines del vostre navegador. Després d'això, feu clic a la icona del pin per fixar l'extensió Disney plus Watch Party a la barra d'eines."
+        },
+        {
+          "id": "3",
+          "question": "Inicieu la sessió a Disney Plus",
+          "answer": "És necessari que tots els usuaris tinguin una subscripció a Disney Plus per utilitzar l'extensió. A més, per crear o unir-se a la festa de Disney, has d'iniciar sessió al teu compte de Disney."
+        },
+        {
+          "id": "4",
+          "question": "Crea una festa de Disney",
+          "answer": "Crea la teva festa virtual amb Disney Plus Watch Party amb uns quants clics. Tot el que has de fer és iniciar sessió a Disney i reproduir un vídeo per a la teva festa virtual. Després d'això, hauríeu de fer clic al botó \"DP\" que apareix a la vostra barra d'eines. A continuació, seleccioneu \"Comença la festa\" per crear l'enllaç de la vostra festa virtual. Comparteix aquest enllaç amb els teus amics per convidar-los."
+        },
+        {
+          "id": "5",
+          "question": "Uneix-te a una festa de Disney",
+          "answer": "Instal·leu l'extensió, inicieu sessió al compte de Disney plus i feu clic a l'URL compartit pel vostre amic. Aquest URL us connectarà automàticament amb el grup de visualització."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Característiques de Disney Plus Watch Party",
+      "subHeading": "L'extensió inclou una varietat de funcions que fan que la vostra festa de Disney sigui més emocionant: -",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Xateja amb altres participants",
+          "answer": "L'extensió Disney Plus Watch Party inclou funcions de xat que us permeten xatejar amb els altres participants de Disney Party. Per tant, mentre reproduïu els vostres programes preferits, també podeu xatejar amb els vostres amics."
+        },
+        {
+          "id": "t2",
+          "question": "Accés a tot el món",
+          "answer": "No importa on siguis, pots instal·lar l'extensió i divertir-te amb nits de cinema amb els teus éssers estimats."
+        },
+        {
+          "id": "t3",
+          "question": "Transmet en HD",
+          "answer": "Per millorar la vostra experiència de reproducció en temps real, l'extensió Disney Plus Watch Party admet qualitat HD. Per tant, podràs veure els teus programes preferits amb els teus amics en qualitat HD amb transmissió ràpida."
+        },
+        {
+          "id": "t4",
+          "question": "Personalització del perfil",
+          "answer": "Pots crear i personalitzar el teu perfil. L'extensió Disney Plus Watch Party inclou diversos avatars divertits que podeu posar com a icona del vostre perfil. A més, també podeu definir el nom d'usuari que trieu."
+        },
+        {
+          "id": "t5",
+          "question": "Controla la festa del rellotge",
+          "answer": "Com a amfitrió, podeu controlar la festa virtual activant el botó \"Només tinc control\". Amb aquesta funció, podreu gestionar i editar la configuració de reproducció, pausa i volum del vídeo. A més, també podeu avançar i rebobinar el vídeo."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Preguntes freqüents",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Què és el Disney Plus Watch Party?",
+        "answer": "Disney Plus Watch Party és una extensió gratuïta a través de la qual tots els subscriptors de Disney Plus poden veure els programes i vídeos sincronitzats amb persones de diferents ubicacions. Per a això, tot el que has de fer és crear o unir-te a les festes virtuals de Disney amb gent en línia i divertir-te."
+      },
+      {
+        "id": "f2",
+        "question": "Com instal·lar l'extensió?",
+        "answer": "Podeu instal·lar l'extensió fent clic aquí. Després de fer clic aquí, hauríeu de seleccionar els botons \"Afegeix a Chrome\" i \"Afegeix una extensió\". Per tant, l'extensió s'instal·larà en pocs segons."
+      },
+      {
+        "id": "f3",
+        "question": "Com puc fixar l'extensió a la barra d'eines del navegador?",
+        "answer": "Podeu fixar l'extensió a la barra d'eines seguint els passos següents:",
+        "p1": "En primer lloc, heu de fer clic a la icona \"Extensions\" que apareix a la barra d'eines del vostre navegador.",
+        "p2": "Després d'això, cerqueu l'extensió Disney Plus Watch Party i toqueu el botó de pin per afegir l'extensió al navegador.",
+        "p3": "null",
+        "p4": "null",
+        "p5": "null"
+      },
+      {
+        "id": "f4",
+        "question": "Com crear una festa de rellotge?",
+        "answer": "Podeu crear un grup de rellotge simplement seguint els passos següents: -",
+        "p1": "Instal·leu l'extensió Disney Party.",
+        "p2": "Inicieu sessió al vostre compte de Disney Plus i seleccioneu un programa.",
+        "p3": "Reprodueix el vídeo i la icona de DP a la barra d'eines per obrir la finestra \"Crea una festa\".",
+        "p4": "Aquí, heu de seleccionar l'opció \"Comença la festa\" per crear l'URL.",
+        "p5": "Al final, copieu l'URL i compartiu-lo amb la gent."
+      },
+      {
+        "id": "f5",
+        "question": "Com unir-te a la festa de rellotge de Disney Plus?",
+        "answer": "Pots unir-te a la festa amb l'enllaç Watch Party. Tanmateix, primer, heu d'instal·lar l'extensió i després iniciar la sessió al compte de Disney Plus. Després d'iniciar la sessió a l'extensió, hauríeu de fer clic a l'enllaç Disney Party compartit amb vosaltres pel vostre amic."
+      },
+      {
+        "id": "f6",
+        "question": "Quins són els requisits per utilitzar el Disney Plus Watch Party?",
+        "answer": "Heu de complir els requisits següents per utilitzar l'extensió: -",
+        "p1": "Heu de tenir un Chromebook, un ordinador portàtil o un ordinador amb Windows o macOS.",
+        "p2": "L'extensió es pot instal·lar mitjançant el navegador Google Chrome o Microsoft Edge.",
+        "p3": "Assegureu-vos que teniu una connexió estable a Internet.",
+        "p4": "Tingueu en compte que totes les persones que vulguin unir-se a la festa de revisió han d'estar presents al mateix país. Tanmateix, si algun membre es troba a un altre país, pot utilitzar la VPN per canviar la seva ubicació.",
+        "p5": "null"
+      },
+      {
+        "id": "f7",
+        "question": "Quantes persones poden unir-se a una festa?",
+        "answer": "No hi ha cap limitació en el nombre de persones que poden unir-se al partit. Així, podeu convidar tantes persones com vulgueu."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Fes-nos-ho saber.",
+    "anyQuestions": "Tens preguntes? Visiteu la nostra pàgina d'assistència",
+    "blog": "Bloc",
+    "privacy": "Privadesa",
+    "popularSearches": "Cerques populars",
+    "disclaimer": "Exempció de responsabilitat",
+    "disclaimerContent": "Disney Plus és una marca comercial de Walt Disney Company. Aquest lloc web",
+    "footerTags": [
+      "Festa Disney",
+      "Festa del rellotge de Disney Plus",
+      "Festa Disney Plus",
+      "Veure Party Disney Plus",
+      "Com fer una Watch Party a Disney Plus",
+      "Disney Watch Party",
+      "Mira Party a Disney Plus",
+      "Com organitzar una festa de rellotge de Disney Plus"
+    ]
+  }
+}

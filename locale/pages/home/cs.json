@@ -1,0 +1,152 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Přidat do", "free": "Je to zdarma" },
+    "navBarHeading": "je nyní k dispozici v prohlížečích Google Chrome, Microsoft Edge a Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "Streamujte Disney Plus s přáteli a rodinou z různých míst",
+      "html": "Přesněji řečeno, Disney Plus je vysoce interaktivní a uživatelsky přívětivé rozšíření prohlížeče, které mění způsob, jakým přátelé a rodina společně sledují a užívají si obsah. Díky funkci skupinového chatu mohou uživatelé snadno komunikovat a sdílet své myšlenky, reakce a smích v reálném čase při streamování videí. Tento sociální prvek dodává pocit pospolitosti a vzrušení, díky čemuž je streamování pohlcující a zapamatovatelné.<br/><br/>Funkce HD Streaming rozšíření posouvá zážitek ze sledování filmů na další úroveň tím, že poskytuje lepší obraz v HD kvalitě. . S ostrým obrazem",
+      "para": "Dalším významným aspektem Disney Party je funkce Control Over Watch Party. Účastníci mají možnost si vybrat, zda má hostitel výhradní kontrolu nad nastavením streamování, nebo jde o společné úsilí. Toto začlenění umožňuje každému přispět k diváckému zážitku, což vede k demokratičtější a zábavnější hodinové párty. Tím, že Disney Party spojuje lidi, vytváří platformu pro společné chvíle, diskuse a příležitosti k propojení. Překlenuje propast mezi vzdálenými přáteli a rodinou, umožňuje jim virtuální spojení a vytváření trvalých vzpomínek. Ať už jde o neformální filmový večer nebo zvláštní příležitost, Disney Party zvyšuje radost ze společného sledování obsahu, což z něj dělá oblíbený nástroj pro sdílené zážitky ze zábavy.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "Jak používat Disney Watch Party",
+      "subHeading": "S rozšířením můžete začít v několika krocích: –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Nainstalujte rozšíření",
+          "answer": "Uživatelé si nejprve musí nainstalovat rozšíření do <a href=\"https://chrome.google.com/webstore/detail/disney-plus-watch-party/nkciggljdfnkpcdngdohlpelojmklhin\" target=\"_blank\" ><u >Klikněte sem</u></a>. Chcete-li to provést, musíte se ujistit, že máte notebook nebo počítač se systémem Windows, MacOS nebo Chromebook. Kromě toho se také ujistěte, že používáte prohlížeč Google Chrome nebo Microsoft Edge."
+        },
+        {
+          "id": "2",
+          "question": "Připnout rozšíření na lištu Toolbar",
+          "answer": "Po instalaci rozšíření byste měli kliknout na ikonu rozšíření na panelu nástrojů vašeho prohlížeče. Poté kliknutím na ikonu špendlíku připněte rozšíření Disney plus Watch Party na panel nástrojů."
+        },
+        {
+          "id": "3",
+          "question": "Přihlaste se do Disney Plus",
+          "answer": "Pro používání rozšíření je nutné, aby všichni uživatelé měli předplatné Disney Plus. Chcete-li vytvořit nebo se připojit k Disney party, musíte se navíc přihlásit ke svému účtu Disney."
+        },
+        {
+          "id": "4",
+          "question": "Vytvořte Disney Party",
+          "answer": "Vytvořte si virtuální párty pomocí Disney Plus Watch Party několika kliknutími. Jediné, co musíte udělat, je přihlásit se do Disney a přehrát video pro vaši virtuální párty. Poté byste měli kliknout na tlačítko „DP“ na panelu nástrojů. Poté vyberte „Start the Party“ a vytvořte odkaz na virtuální párty. Sdílejte prosím tento odkaz s přáteli a pozvěte je."
+        },
+        {
+          "id": "5",
+          "question": "Připojte se na Disney Party",
+          "answer": "Nainstalujte rozšíření, přihlaste se k účtu Disney plus a klikněte na adresu URL sdílenou vaším přítelem. Tato adresa URL vás automaticky připojí ke skupině sledování."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Funkce Disney Plus Watch Party",
+      "subHeading": "Rozšíření přichází s řadou funkcí, díky kterým bude váš Disney Party ještě vzrušující: –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Chatujte s ostatními účastníky",
+          "answer": "Rozšíření Disney Plus Watch Party přichází s funkcemi chatu, které vám umožní chatovat s ostatními účastníky Disney Party. Při streamování svých oblíbených pořadů tak můžete chatovat se svými přáteli."
+        },
+        {
+          "id": "t2",
+          "question": "Celosvětový přístup",
+          "answer": "Bez ohledu na to, kde jste, můžete si nainstalovat rozšíření a užít si filmové večery se svými blízkými."
+        },
+        {
+          "id": "t3",
+          "question": "Streamujte v HD",
+          "answer": "Pro vylepšení vašeho streamování podporuje rozšíření Disney Plus Watch Party HD kvalitu. Budete tak moci sledovat své oblíbené pořady s přáteli v HD kvalitě s rychlým streamováním."
+        },
+        {
+          "id": "t4",
+          "question": "Přizpůsobení profilu",
+          "answer": "Můžete si vytvořit a přizpůsobit svůj profil. Rozšíření Disney Plus Watch Party přichází s různými vtipnými avatary, které si můžete dát jako ikonu svého profilu. Kromě toho můžete také nastavit uživatelské jméno podle vlastního výběru."
+        },
+        {
+          "id": "t5",
+          "question": "Ovládejte hlídku",
+          "answer": "Jako hostitel můžete ovládat virtuální párty povolením tlačítka „Ovládání mám pouze já“. Pomocí této funkce budete moci spravovat a upravovat nastavení přehrávání, pozastavení a hlasitosti videa. Navíc můžete video přetočit dopředu a dozadu."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Často kladené otázky",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Co je to Disney Plus Watch Party?",
+        "answer": "Disney Plus Watch Party je bezplatné rozšíření, jehož prostřednictvím mohou všichni předplatitelé Disney Plus sledovat pořady a videa synchronizovaná s lidmi na různých místech. K tomu vše, co musíte udělat, je vytvořit virtuální Disney party s lidmi online nebo se k nim připojit a bavit se."
+      },
+      {
+        "id": "f2",
+        "question": "Jak nainstalovat rozšíření?",
+        "answer": "Rozšíření můžete nainstalovat kliknutím sem. Po kliknutí sem byste měli vybrat tlačítka „Přidat do Chromu“ a „Přidat rozšíření“. Rozšíření se tedy nainstaluje během několika sekund."
+      },
+      {
+        "id": "f3",
+        "question": "Jak mohu připnout rozšíření na lištu prohlížeče?",
+        "answer": "Rozšíření můžete připnout na panel nástrojů podle následujících kroků: –",
+        "p1": "Nejprve musíte kliknout na ikonu „Rozšíření“ na panelu nástrojů vašeho prohlížeče.",
+        "p2": "Poté vyhledejte rozšíření Disney Plus Watch Party a klepnutím na tlačítko špendlíku přidejte rozšíření do prohlížeče.",
+        "p3": "null",
+        "p4": "null",
+        "p5": "null"
+      },
+      {
+        "id": "f4",
+        "question": "Jak vytvořit hodinovou párty?",
+        "answer": "Watch party můžete vytvořit jednoduše podle následujících kroků: –",
+        "p1": "Nainstalujte si rozšíření Disney Party.",
+        "p2": "Přihlaste se ke svému účtu Disney Plus a vyberte pořad.",
+        "p3": "Přehráním videa a ikony DP na panelu nástrojů otevřete okno „Create a Party“.",
+        "p4": "Zde musíte vybrat možnost „Start the Party“ a vytvořit adresu URL.",
+        "p5": "Nakonec zkopírujte adresu URL a sdílejte ji s lidmi."
+      },
+      {
+        "id": "f5",
+        "question": "Jak se připojit na Disney Plus Watch Party?",
+        "answer": "Do party se můžete připojit pomocí odkazu na sledování party. Nejprve je však nutné nainstalovat rozšíření a poté se přihlásit k účtu Disney Plus. Po přihlášení k rozšíření byste měli kliknout na odkaz Disney Party, který s vámi sdílí váš přítel."
+      },
+      {
+        "id": "f6",
+        "question": "Jaké jsou požadavky na používání Disney Plus Watch Party?",
+        "answer": "Abyste mohli rozšíření používat, musíte splnit následující požadavky: –",
+        "p1": "Musíte mít Chromebook, notebook se systémem Windows nebo macOS nebo počítač.",
+        "p2": "Rozšíření lze nainstalovat prostřednictvím prohlížeče Google Chrome nebo Microsoft Edge.",
+        "p3": "Ujistěte se, že máte stabilní připojení k internetu.",
+        "p4": "Vezměte prosím na vědomí, že každý, kdo se chce připojit ke skupině sledování, by měl být přítomen ve stejné zemi. Pokud je však některý člen v jiné zemi, může pomocí VPN změnit své umístění.",
+        "p5": "null"
+      },
+      {
+        "id": "f7",
+        "question": "Kolik lidí se může přidat do party?",
+        "answer": "Počet lidí, kteří se mohou do party připojit, není nijak omezen. Můžete tedy pozvat tolik lidí, kolik chcete."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Dej nám vědět.",
+    "anyQuestions": "Máte otázky? Navštivte naši stránku podpory",
+    "blog": "Blog",
+    "privacy": "Soukromí",
+    "popularSearches": "Populární vyhledávání",
+    "disclaimer": "Zřeknutí se odpovědnosti",
+    "disclaimerContent": "Disney Plus je ochranná známka společnosti Walt Disney Company. Tento web",
+    "footerTags": [
+      "Disney párty",
+      "Disney Plus Watch Party",
+      "Disney Plus Party",
+      "Sledujte Party Disney Plus",
+      "Jak uspořádat Watch Party na Disney Plus",
+      "Disney Watch Party",
+      "Sledujte Party na Disney Plus",
+      "Jak uspořádat párty sledování Disney Plus"
+    ]
+  }
+}

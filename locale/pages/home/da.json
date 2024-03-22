@@ -1,0 +1,152 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Tilføj til", "free": "Det er gratis" },
+    "navBarHeading": "er nu tilgængelig på Google Chrome, Microsoft Edge og Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "Stream Disney Plus med venner og familie fra forskellige steder",
+      "html": "Mere præcist er Disney Plus en yderst interaktiv og brugervenlig browserudvidelse, der revolutionerer den måde, venner og familie ser og nyder indhold sammen. Med dens gruppechatfunktion kan brugere nemt kommunikere og dele deres tanker, reaktioner og latter i realtid, mens de streamer videoer. Dette sociale element tilføjer en følelse af sammenhold og spænding, hvilket gør streamingoplevelsen mere fordybende og mindeværdig.<br/><br/>Udvidelsens HD Streaming-funktion tager filmoplevelsen til det næste niveau ved at give bedre billeder i HD-kvalitet . Med skarpe billeder",
+      "para": "Et andet væsentligt aspekt ved Disney Party er Control Over Watch Party-funktionen. Deltagerne har fleksibiliteten til at vælge, om værten alene har kontrol over streamingindstillingerne, eller om det er et samarbejde. Denne rummelighed giver alle mulighed for at bidrage til seeroplevelsen, hvilket fører til en mere demokratisk og fornøjelig sefest. Ved at bringe folk sammen skaber Disney Party en platform for fælles øjeblikke, diskussioner og muligheder for at knytte bånd. Det bygger bro mellem fjerne venner og familie, hvilket gør dem i stand til at forbinde virtuelt og skabe varige minder. Uanset om det er en afslappet filmaften eller en særlig lejlighed, øger Disney Party glæden ved at se indhold sammen, hvilket gør det til et yndet værktøj til delte underholdningsoplevelser.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "Sådan bruger du Disney Watch Party",
+      "subHeading": "Du kan komme i gang med udvidelsen inden for et par trin: –",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Installer udvidelsen",
+          "answer": "Først og fremmest skal brugerne installere udvidelsen af ​​<a href=\"https://chrome.google.com/webstore/detail/disney-plus-watch-party/nkciggljdfnkpcdngdohlpelojmklhin\" target=\"_blank\" ><u >Klikker her</u></a>. Til dette skal du sikre dig, at du har en bærbar eller pc med Windows, macOS eller Chromebook. Derudover skal du også sikre dig, at du bruger en Google Chrome eller Microsoft Edge browser."
+        },
+        {
+          "id": "2",
+          "question": "Fastgør udvidelse til Toolbar",
+          "answer": "Når du har installeret udvidelsen, skal du klikke på udvidelsens ikon på værktøjslinjen i din browser. Klik derefter på knappenålsikonet for at fastgøre Disney plus Watch Party-udvidelsen til værktøjslinjen."
+        },
+        {
+          "id": "3",
+          "question": "Log ind på Disney Plus",
+          "answer": "Det er nødvendigt for alle brugere at have et Disney Plus-abonnement for at bruge udvidelsen. For at oprette eller deltage i Disney-festen skal du desuden logge ind på din Disney-konto."
+        },
+        {
+          "id": "4",
+          "question": "Lav en Disney-fest",
+          "answer": "Opret din virtuelle fest via Disney Plus Watch Party med få klik. Alt du skal gøre er bare at logge ind på Disney og afspille en video til din virtuelle fest. Herefter skal du klikke på knappen \"DP\" på din værktøjslinje. Vælg derefter \"Start festen\" for at oprette dit virtuelle festlink. Del venligst dette link med venner for at invitere dem."
+        },
+        {
+          "id": "5",
+          "question": "Deltag i en Disney-fest",
+          "answer": "Installer udvidelsen, log ind på Disney plus-konto, og klik på URL'en, der deles af din ven. Denne URL vil automatisk forbinde dig til urfesten."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Funktioner i Disney Plus Watch Party",
+      "subHeading": "Udvidelsen kommer med en række funktioner, der gør din Disney Party mere spændende: -",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Chat med andre deltagere",
+          "answer": "Disney Plus Watch Party-udvidelsen kommer med chatfunktioner, der gør det muligt for dig at chatte med de andre Disney Party-deltagere. Derfor kan du, mens du streamer dine yndlingsprogrammer, også chatte med dine venner."
+        },
+        {
+          "id": "t2",
+          "question": "Verdensomspændende adgang",
+          "answer": "Uanset hvor du er, kan du installere udvidelsen og have sjove filmaftener med dine kære."
+        },
+        {
+          "id": "t3",
+          "question": "Stream i HD",
+          "answer": "For at forbedre din streamingoplevelse understøtter Disney Plus Watch Party-udvidelsen HD-kvalitet. Derfor vil du kunne se dine yndlingsprogrammer med dine venner i HD-kvalitet med hurtig streaming."
+        },
+        {
+          "id": "t4",
+          "question": "Tilpasning af profil",
+          "answer": "Du kan oprette og tilpasse din profil. Disney Plus Watch Party-udvidelsen kommer med forskellige sjove avatarer, som du kan sætte som dit profilikon. Derudover kan du også indstille dit brugernavn."
+        },
+        {
+          "id": "t5",
+          "question": "Styr urfesten",
+          "answer": "Som vært kan du styre den virtuelle fest ved at aktivere knappen \"Kun jeg har kontrol\". Med denne funktion vil du være i stand til at administrere og redigere videoens afspilnings-, pause- og lydstyrkeindstillinger. Desuden kan du også spole videoen frem og tilbage."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Ofte stillede spørgsmål",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Hvad er Disney Plus Watch Party?",
+        "answer": "Disney Plus Watch Party er en gratis udvidelse, hvorigennem alle Disney Plus-abonnenter kan se shows og videoer, der synkroniseres med folk forskellige steder. Til dette skal du blot oprette eller deltage i de virtuelle Disney-fester med folk online og have det sjovt."
+      },
+      {
+        "id": "f2",
+        "question": "Hvordan installerer man udvidelsen?",
+        "answer": "Du kan installere udvidelsen ved at klikke her. Når du har klikket her, skal du vælge knapperne \"Tilføj til Chrome\" og \"Tilføj udvidelse\". Derfor vil udvidelsen blive installeret på få sekunder."
+      },
+      {
+        "id": "f3",
+        "question": "Hvordan kan jeg fastgøre udvidelsen til browserens værktøjslinje?",
+        "answer": "Du kan fastgøre udvidelsen til værktøjslinjen ved at følge nedenstående trin: –",
+        "p1": "For det første skal du klikke på ikonet \"Udvidelser\" på værktøjslinjen i din browser.",
+        "p2": "Efter dette skal du kigge efter Disney Plus Watch Party-udvidelsen og trykke på knappenålen for at tilføje udvidelsen til browseren.",
+        "p3": "null",
+        "p4": "null",
+        "p5": "null"
+      },
+      {
+        "id": "f4",
+        "question": "Hvordan laver man en urfest?",
+        "answer": "Du kan oprette en urfest ved blot at følge nedenstående trin: –",
+        "p1": "Installer Disney Party-udvidelsen.",
+        "p2": "Log ind på din Disney Plus-konto, og vælg et show.",
+        "p3": "Afspil video- og DP-ikonet på værktøjslinjen for at åbne vinduet \"Create a Party\".",
+        "p4": "Her skal du vælge \"Start festen\" for at oprette URL'en.",
+        "p5": "Til sidst skal du kopiere URL'en og dele den med andre."
+      },
+      {
+        "id": "f5",
+        "question": "Hvordan deltager man i Disney Plus Watch Party?",
+        "answer": "Du kan deltage i festen med linket til urfesten. Men først skal du installere udvidelsen og derefter logge ind på Disney Plus-kontoen. Når du har logget ind på udvidelsen, skal du klikke på Disney Party-linket, som din ven har delt med dig."
+      },
+      {
+        "id": "f6",
+        "question": "Hvad er kravene for at bruge Disney Plus Watch Party?",
+        "answer": "Du skal opfylde nedenstående krav for at bruge udvidelsen: –",
+        "p1": "Du skal have en Chromebook, Windows eller macOS bærbar eller pc.",
+        "p2": "Udvidelsen kan installeres via Google Chrome eller Microsoft Edge browser.",
+        "p3": "Sørg for, at du har en stabil internetforbindelse.",
+        "p4": "Bemærk venligst, at alle, der ønsker at deltage i urfesten, skal være til stede i samme land. Men hvis et medlem er i et andet land, kan de bruge VPN til at ændre deres placering.",
+        "p5": "null"
+      },
+      {
+        "id": "f7",
+        "question": "Hvor mange mennesker kan deltage i en fest?",
+        "answer": "Der er ingen begrænsning på antallet af personer, der kan deltage i festen. Således kan du invitere så mange personer, du vil."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Lad os vide.",
+    "anyQuestions": "Har du spørgsmål? Besøg vores supportside",
+    "blog": "Blog",
+    "privacy": "Privatliv",
+    "popularSearches": "Populære søgninger",
+    "disclaimer": "Ansvarsfraskrivelse",
+    "disclaimerContent": "Disney Plus er et varemærke tilhørende Walt Disney Company. Denne hjemmeside",
+    "footerTags": [
+      "Disney fest",
+      "Disney Plus Watch Party",
+      "Disney Plus fest",
+      "Se Party Disney Plus",
+      "Sådan laver du en urfest på Disney Plus",
+      "Disney Watch Party",
+      "Se fest på Disney Plus",
+      "Sådan afholder du en Disney Plus Watch Party"
+    ]
+  }
+}
